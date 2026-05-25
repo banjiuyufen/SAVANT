@@ -1,0 +1,83 @@
+{
+  "formal_library_version": "savant-v1",
+  "created_at": "2026-05-20T20:50:13",
+  "notes": [
+    "Stage 1/2 runtime library remains the complete v3 library for exact Experiment 2 reproduction.",
+    "Stage-specific effective subsets are exported for paper documentation and Experiment 1 data construction.",
+    "Stage 3 uses the expanded v6 mechanism/effect subset only."
+  ],
+  "files": {
+    "stage12_runtime": "data/horn_clauses/savant_v1_formal/predicate_rules_savant_v1_stage12_runtime.json",
+    "stage1_effective": "data/horn_clauses/savant_v1_formal/predicate_rules_savant_v1_stage1_effective.json",
+    "stage2_effective": "data/horn_clauses/savant_v1_formal/predicate_rules_savant_v1_stage2_effective.json",
+    "stage3_effective": "data/horn_clauses/savant_v1_formal/predicate_rules_savant_v1_stage3_effective.json"
+  },
+  "summaries": {
+    "stage12_runtime": {
+      "num_rules": 3365,
+      "source_type_counts": {
+        "antigen_construction": 172,
+        "causal_chain": 401,
+        "construction": 273,
+        "disease_model": 53,
+        "immune_effect": 2180,
+        "vaccine_construction": 286
+      },
+      "plugin_counts": {
+        "base": 3365
+      },
+      "condition_functor_count": 78,
+      "effect_functor_count": 27
+    },
+    "stage1_effective": {
+      "num_rules": 445,
+      "source_type_counts": {
+        "antigen_construction": 172,
+        "construction": 273
+      },
+      "plugin_counts": {
+        "base": 445
+      },
+      "condition_functor_count": 31,
+      "effect_functor_count": 2
+    },
+    "stage2_effective": {
+      "num_rules": 2581,
+      "source_type_counts": {
+        "causal_chain": 401,
+        "immune_effect": 2180
+      },
+      "plugin_counts": {
+        "base": 2581
+      },
+      "condition_functor_count": 29,
+      "effect_functor_count": 23
+    },
+    "stage3_effective": {
+      "num_rules": 5698,
+      "source_type_counts": {
+        "causal_chain": 2500,
+        "immune_effect": 3198
+      },
+      "plugin_counts": {
+        "adjuvant_bridge_round1": 264,
+        "base": 4265,
+        "immunology_round2": 1169
+      },
+      "condition_functor_count": 43,
+      "effect_functor_count": 33
+    }
+  },
+  "experiment2_runtime_mapping": {
+    "stage1_index_source": "stage12_runtime",
+    "stage2_index_source": "stage12_runtime",
+    "stage3_index_source": "stage3_effective",
+    "stage12_index_dir": "data/vector_index_bioLORD_savant_v1_stage12_runtime",
+    "stage3_index_dir": "data/vector_index_bioLORD_savant_v1_stage3_effective",
+    "overall_weights": {
+      "stage1": 0.3,
+      "stage2": 0.3,
+      "stage3": 0.4
+    }
+  }
+}
