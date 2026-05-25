@@ -1,0 +1,340 @@
+{
+  "metadata": {
+    "version": "stage2-effect-endpoint-ontology-0.1",
+    "description": "Broad, non-dataset-specific endpoint ontology for Stage2 terminal immune-effect concept validation.",
+    "scoring_note": "Scores are soft endpoint-concept priors on the 0-1 internal scale. They do not prove causal chains."
+  },
+  "categories": [
+    {
+      "id": "protective_outcome",
+      "label": "protective efficacy / disease burden reduction",
+      "level": "strong_endpoint",
+      "score": 0.74,
+      "patterns": [
+        "\\bprotect\\w*\\b",
+        "protective efficacy",
+        "pathogen clearance",
+        "viral clearance",
+        "viral load",
+        "viral replication",
+        "tumou?r growth",
+        "tumou?r burden",
+        "disease burden",
+        "survival",
+        "therapeutic efficacy"
+      ]
+    },
+    {
+      "id": "antibody_response",
+      "label": "antibody / humoral response",
+      "level": "strong_endpoint",
+      "score": 0.72,
+      "patterns": [
+        "antibod",
+        "\\bigg\\b",
+        "immunoglobulin",
+        "humoral",
+        "neutralizing",
+        "serum igg",
+        "high affinity",
+        "class switch"
+      ]
+    },
+    {
+      "id": "mucosal_iga_response",
+      "label": "mucosal IgA response",
+      "level": "strong_endpoint",
+      "score": 0.72,
+      "patterns": [
+        "\\bsiga\\b",
+        "secretory iga",
+        "mucosal iga",
+        "mucosal antibod"
+      ]
+    },
+    {
+      "id": "memory_response",
+      "label": "immune memory response",
+      "level": "strong_endpoint",
+      "score": 0.70,
+      "patterns": [
+        "memory",
+        "long lived plasma",
+        "long-lived plasma",
+        "recall response",
+        "durable response"
+      ]
+    },
+    {
+      "id": "ctl_killing",
+      "label": "CTL activity / target-cell killing",
+      "level": "strong_endpoint",
+      "score": 0.70,
+      "patterns": [
+        "\\bctl\\b",
+        "cytotoxic",
+        "cytotoxicity",
+        "tumou?r cell killing",
+        "target cell killing",
+        "cd8.*killing",
+        "perforin",
+        "granzyme"
+      ]
+    },
+    {
+      "id": "germinal_center_response",
+      "label": "germinal center response",
+      "level": "intermediate_endpoint",
+      "score": 0.66,
+      "patterns": [
+        "germinal center",
+        "germinal centre",
+        "\\bgc response\\b",
+        "affinity maturation"
+      ]
+    },
+    {
+      "id": "b_cell_response",
+      "label": "B-cell activation / maturation",
+      "level": "intermediate_endpoint",
+      "score": 0.64,
+      "patterns": [
+        "\\bb cell",
+        "b-cell",
+        "bcr",
+        "plasma cell",
+        "class switching",
+        "b cell maturation",
+        "b cell activation"
+      ]
+    },
+    {
+      "id": "t_cell_priming",
+      "label": "T-cell priming / activation",
+      "level": "intermediate_endpoint",
+      "score": 0.63,
+      "patterns": [
+        "t cell priming",
+        "t-cell priming",
+        "t cell activation",
+        "t-cell activation",
+        "\\bcd4\\b",
+        "\\bcd8\\b",
+        "effector t"
+      ]
+    },
+    {
+      "id": "t_helper_polarization",
+      "label": "T-helper polarization",
+      "level": "intermediate_endpoint",
+      "score": 0.62,
+      "patterns": [
+        "\\bth1\\b",
+        "th 1",
+        "\\bth2\\b",
+        "th 2",
+        "\\bth17\\b",
+        "th 17",
+        "\\btfh\\b",
+        "follicular helper",
+        "treg",
+        "regulatory t",
+        "polariz"
+      ]
+    },
+    {
+      "id": "apc_dc_activation",
+      "label": "APC / dendritic-cell activation and maturation",
+      "level": "intermediate_endpoint",
+      "score": 0.61,
+      "patterns": [
+        "\\bapc\\b",
+        "antigen presenting cell",
+        "dendritic cell",
+        "\\bdc\\b",
+        "dc maturation",
+        "apc maturation",
+        "costimulation",
+        "cd80",
+        "cd86"
+      ]
+    },
+    {
+      "id": "antigen_presentation",
+      "label": "antigen presentation",
+      "level": "intermediate_endpoint",
+      "score": 0.62,
+      "patterns": [
+        "antigen presentation",
+        "mhc i",
+        "mhc ii",
+        "mhc-i",
+        "mhc-ii",
+        "cross presentation",
+        "cross-presentation",
+        "cross present"
+      ]
+    },
+    {
+      "id": "antigen_uptake_processing",
+      "label": "antigen uptake and processing",
+      "level": "intermediate_endpoint",
+      "score": 0.60,
+      "patterns": [
+        "antigen uptake",
+        "apc uptake",
+        "phagocyt",
+        "endocyt",
+        "antigen processing",
+        "lysosomal processing"
+      ]
+    },
+    {
+      "id": "cytokine_response",
+      "label": "cytokine production",
+      "level": "intermediate_endpoint",
+      "score": 0.59,
+      "patterns": [
+        "cytokine",
+        "chemokine",
+        "ifn gamma",
+        "ifn-gamma",
+        "ifnγ",
+        "tnf",
+        "il 6",
+        "il-6",
+        "il 12",
+        "il-12",
+        "il 1 beta",
+        "il-1 beta",
+        "proinflammatory",
+        "pro-inflammatory"
+      ]
+    },
+    {
+      "id": "type_i_ifn_response",
+      "label": "type I IFN response",
+      "level": "intermediate_endpoint",
+      "score": 0.61,
+      "patterns": [
+        "type i ifn",
+        "type i interferon",
+        "ifn alpha",
+        "ifn-alpha",
+        "ifn beta",
+        "ifn-beta",
+        "irf3"
+      ]
+    },
+    {
+      "id": "inflammasome_response",
+      "label": "inflammasome response",
+      "level": "intermediate_endpoint",
+      "score": 0.58,
+      "patterns": [
+        "inflammasome",
+        "nlrp3",
+        "caspase 1",
+        "caspase-1",
+        "il 18",
+        "il-18"
+      ]
+    },
+    {
+      "id": "lymph_node_trafficking",
+      "label": "lymph-node trafficking / targeting",
+      "level": "delivery_endpoint",
+      "score": 0.56,
+      "patterns": [
+        "lymph node",
+        "lymphatic",
+        "draining lymph",
+        "ln targeting",
+        "lymph nodes"
+      ]
+    },
+    {
+      "id": "apc_targeting",
+      "label": "APC targeting",
+      "level": "delivery_endpoint",
+      "score": 0.55,
+      "patterns": [
+        "target apc",
+        "targeting apc",
+        "target dc",
+        "targeting dc",
+        "cd206",
+        "c type lectin",
+        "c-type lectin",
+        "mannose receptor"
+      ]
+    },
+    {
+      "id": "mucosal_targeting",
+      "label": "mucosal targeting / retention",
+      "level": "delivery_endpoint",
+      "score": 0.54,
+      "patterns": [
+        "mucosal",
+        "mucin",
+        "galt",
+        "nasal",
+        "intestinal",
+        "gut associated",
+        "mucosa"
+      ]
+    },
+    {
+      "id": "antigen_release_retention",
+      "label": "antigen release / retention",
+      "level": "delivery_endpoint",
+      "score": 0.52,
+      "patterns": [
+        "antigen release",
+        "controlled release",
+        "sustained release",
+        "depot",
+        "antigen retention",
+        "release kinetics",
+        "exposure time"
+      ]
+    },
+    {
+      "id": "prr_signaling",
+      "label": "PRR signaling",
+      "level": "early_mechanism",
+      "score": 0.50,
+      "patterns": [
+        "\\btlr\\b",
+        "tlr[0-9]",
+        "toll like receptor",
+        "sting",
+        "cgas",
+        "myd88",
+        "trif",
+        "nfkb",
+        "nf-kb",
+        "irf",
+        "nod",
+        "rig i",
+        "dectin"
+      ]
+    },
+    {
+      "id": "safety_balance",
+      "label": "safety / reactogenicity balance",
+      "level": "strong_endpoint",
+      "score": 0.66,
+      "patterns": [
+        "safety",
+        "reactogenicity",
+        "toxicity",
+        "off target inflammation",
+        "tolerability",
+        "tolerance",
+        "systemic inflammation",
+        "immunogenicity reactogenicity"
+      ]
+    }
+  ]
+}
