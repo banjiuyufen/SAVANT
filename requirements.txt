@@ -1,0 +1,10 @@
+numpy
+faiss-cpu
+sentence-transformers
+transformers
+pydantic
+openai
+instructor
+outlines
+json-repair
+torch
