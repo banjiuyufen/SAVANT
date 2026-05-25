@@ -1,0 +1,219 @@
+{
+  "version": "2026-05-11",
+  "description": "Ontology-driven Stage 1 priors for coarse adjuvant construction checks. These priors are not dataset-specific.",
+  "score_weights": {
+    "type": 0.15,
+    "completeness": 0.20,
+    "size": 0.20,
+    "method": 0.20,
+    "component_role": 0.20,
+    "zeta": 0.05
+  },
+  "component_token_sets": {
+    "structural_carrier": [
+      "plga",
+      "poly(lactic-co-glycolic acid)",
+      "polymer",
+      "peg",
+      "chitosan",
+      "lipid",
+      "phospholipid",
+      "cholesterol",
+      "dotap",
+      "dda",
+      "liposome",
+      "lnp",
+      "squalene",
+      "silica",
+      "gold",
+      "calcium",
+      "aluminum",
+      "alum",
+      "vlp",
+      "virus-like",
+      "protein nanoparticle",
+      "hydrogel",
+      "microneedle"
+    ],
+    "immunostimulant": [
+      "cpg",
+      "mpla",
+      "r848",
+      "resiquimod",
+      "imiquimod",
+      "poly(i:c)",
+      "pam3csk4",
+      "tlr",
+      "sting",
+      "cgas",
+      "adjuvant molecule"
+    ],
+    "oil_or_surfactant": [
+      "squalene",
+      "oil",
+      "tween",
+      "span",
+      "surfactant",
+      "lecithin",
+      "polysorbate",
+      "mf59",
+      "as03",
+      "emulsion"
+    ],
+    "salt": [
+      "alum",
+      "aluminum",
+      "aluminium",
+      "phosphate",
+      "hydroxide",
+      "carbonate",
+      "calcium",
+      "magnesium",
+      "salt"
+    ],
+    "polymer_or_gel": [
+      "polymer",
+      "alginate",
+      "gelatin",
+      "hyaluronic",
+      "chitosan",
+      "peg",
+      "plga",
+      "hydrogel",
+      "gel",
+      "crosslink"
+    ],
+    "microneedle_material": [
+      "microneedle",
+      "needle",
+      "pva",
+      "pvp",
+      "hyaluronic",
+      "polymer",
+      "dissolving",
+      "patch"
+    ]
+  },
+  "types": {
+    "nanoparticle": {
+      "aliases": ["nanoparticle", "nano_particle", "nano particle", "particle"],
+      "required_any": [["Type"], ["Contains", "ComponentTypes"], ["Method", "PreparationName"]],
+      "recommended_any": [["Size", "ParticleSize"], ["Shape"], ["ZetaPotential"]],
+      "size_nm": {
+        "ideal": [20, 300],
+        "acceptable": [1, 1000],
+        "hard_cap_above": 2,
+        "missing_cap": 4,
+        "qualitative_ok": ["nano", "nanoparticle"],
+        "qualitative_bad": ["micro", "microparticle"]
+      },
+      "compatible_methods": ["assemble", "encapsulate", "emulsify", "mix", "conjugate", "new_prepare"],
+      "vague_methods": ["new_prepare"],
+      "component_role": {
+        "requires_any_token_set": ["structural_carrier"],
+        "missing_cap": 3
+      }
+    },
+    "microparticle": {
+      "aliases": ["microparticle", "micro_particle", "micro particle"],
+      "required_any": [["Type"], ["Contains", "ComponentTypes"], ["Method", "PreparationName"]],
+      "recommended_any": [["Size", "ParticleSize"], ["Shape"]],
+      "size_nm": {
+        "ideal": [1000, 100000],
+        "acceptable": [500, 1000000],
+        "hard_cap_below": 2,
+        "missing_cap": 4,
+        "qualitative_ok": ["micro", "microparticle"],
+        "qualitative_bad": ["nano", "nanoparticle"]
+      },
+      "compatible_methods": ["assemble", "encapsulate", "emulsify", "crosslink", "new_prepare"],
+      "vague_methods": ["new_prepare"],
+      "component_role": {
+        "requires_any_token_set": ["structural_carrier"],
+        "missing_cap": 3
+      }
+    },
+    "emulsion": {
+      "aliases": ["emulsion", "nanoemulsion", "oil-in-water", "water-in-oil"],
+      "required_any": [["Type"], ["Method", "PreparationName"], ["Contains", "OilPhase", "WaterPhase"]],
+      "recommended_any": [["OilPhase"], ["WaterPhase"], ["ZetaPotential"]],
+      "size_nm": {
+        "ideal": [20, 500],
+        "acceptable": [10, 5000],
+        "missing_cap": 5,
+        "qualitative_ok": ["nanoemulsion", "emulsion"]
+      },
+      "compatible_methods": ["emulsify", "mix", "new_prepare"],
+      "vague_methods": ["new_prepare"],
+      "component_role": {
+        "requires_any_token_set": ["oil_or_surfactant"],
+        "also_accept_fields": ["OilPhase", "WaterPhase"],
+        "missing_cap": 3
+      }
+    },
+    "molecule": {
+      "aliases": ["molecule", "small_molecule", "small molecule"],
+      "required_any": [["Type"], ["Contains", "ComponentTypes", "Target", "FunctionalGroups"]],
+      "recommended_any": [["Target"], ["FunctionalGroups"]],
+      "compatible_methods": ["mix", "conjugate", "express", "assemble", "new_prepare"],
+      "vague_methods": ["new_prepare"],
+      "component_role": {
+        "requires_any_token_set": ["immunostimulant"],
+        "also_accept_component_types": ["SmallMolecule", "NucleicAcid", "Lipid", "General"],
+        "missing_cap": 4
+      }
+    },
+    "inorganic_salt": {
+      "aliases": ["inorganic_salt", "inorganicsalt", "salt", "alum"],
+      "required_any": [["Type"], ["Salt", "Contains", "ComponentTypes"]],
+      "recommended_any": [["Concentration"], ["Method", "PreparationName"]],
+      "compatible_methods": ["mix", "assemble", "new_prepare"],
+      "vague_methods": ["new_prepare"],
+      "component_role": {
+        "requires_any_token_set": ["salt"],
+        "also_accept_component_types": ["InorganicSalt"],
+        "missing_cap": 3
+      }
+    },
+    "hydrogel": {
+      "aliases": ["hydrogel", "gel"],
+      "required_any": [["Type"], ["Polymer", "Contains", "ComponentTypes"], ["Method", "PreparationName"]],
+      "recommended_any": [["Crosslinker"], ["Properties"]],
+      "compatible_methods": ["crosslink", "mix", "assemble", "new_prepare"],
+      "vague_methods": ["new_prepare"],
+      "component_role": {
+        "requires_any_token_set": ["polymer_or_gel"],
+        "also_accept_fields": ["Polymer", "Crosslinker"],
+        "also_accept_component_types": ["Polymer"],
+        "missing_cap": 3
+      }
+    },
+    "microneedling": {
+      "aliases": ["microneedling", "microneedle", "microneedle_patch"],
+      "required_any": [["Type"], ["NeedleLength", "NeedleMaterial"], ["Method", "PreparationName"]],
+      "recommended_any": [["Contains", "ComponentTypes"], ["Properties"]],
+      "needle_length_um": {
+        "ideal": [100, 1500],
+        "acceptable": [10, 5000],
+        "missing_cap": 3
+      },
+      "compatible_methods": ["crosslink", "mix", "assemble", "new_prepare"],
+      "vague_methods": ["new_prepare"],
+      "component_role": {
+        "requires_any_token_set": ["microneedle_material"],
+        "also_accept_fields": ["NeedleMaterial", "NeedleLength"],
+        "missing_cap": 3
+      }
+    }
+  },
+  "global_incompatible_patterns": [
+    {
+      "name": "plga_encapsulated_alum",
+      "type_any": ["nanoparticle", "microparticle"],
+      "component_all_tokens": ["plga", "alum"],
+      "method_any": ["encapsulate", "emulsify"],
+      "cap": 2,
+      "warning": "PLGA/alum encapsulation is a known construction-risk pattern; alum is usually adsorbed or mixed rather than treated as a typical organic-phase PLGA cargo."
+    }
+  ]
+}
