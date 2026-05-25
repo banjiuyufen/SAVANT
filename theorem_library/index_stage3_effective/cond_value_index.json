@@ -1,0 +1,11108 @@
+{
+  "Contains": {
+    "alpha melitin NPs": [
+      0,
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80
+    ],
+    "melittin": [
+      6,
+      16,
+      26,
+      36,
+      46,
+      56,
+      66,
+      76,
+      86
+    ],
+    "Peptide": [
+      7,
+      17,
+      27,
+      37,
+      47,
+      57,
+      67,
+      77,
+      87,
+      310,
+      318,
+      327,
+      336,
+      345,
+      354,
+      363,
+      372,
+      381,
+      393,
+      402,
+      411,
+      420,
+      429,
+      438,
+      447,
+      456
+    ],
+    "peptide phospholipid scaffold": [
+      8,
+      18,
+      28,
+      38,
+      48,
+      58,
+      68,
+      78,
+      88
+    ],
+    "Complex": [
+      9,
+      19,
+      29,
+      39,
+      49,
+      59,
+      69,
+      79,
+      89
+    ],
+    "Lipo DDA TDB": [
+      94,
+      102,
+      109,
+      116,
+      123,
+      189,
+      190,
+      191,
+      192,
+      193
+    ],
+    "DDA": [
+      99,
+      106,
+      113,
+      120,
+      127,
+      2720,
+      2721
+    ],
+    "Lipid": [
+      100,
+      107,
+      114,
+      121,
+      128,
+      320,
+      329,
+      338,
+      347,
+      356,
+      365,
+      374,
+      383,
+      395,
+      404,
+      413,
+      422,
+      431,
+      440,
+      449,
+      458,
+      671,
+      679,
+      693,
+      701,
+      709,
+      717,
+      725,
+      733,
+      741
+    ],
+    "TDB": [
+      101,
+      108,
+      115,
+      122,
+      129
+    ],
+    "Lipo AMP": [
+      130,
+      136,
+      194,
+      195
+    ],
+    "c di AMP": [
+      133,
+      139
+    ],
+    "SmallMolecule": [
+      134,
+      140,
+      148,
+      158,
+      168,
+      177,
+      185,
+      548,
+      556,
+      564,
+      572,
+      580,
+      588,
+      596,
+      604,
+      612,
+      620,
+      628,
+      636,
+      695,
+      703,
+      711,
+      719,
+      727,
+      735,
+      743
+    ],
+    "DPPC DC Chol": [
+      135,
+      141
+    ],
+    "SWE TLR": [
+      142,
+      152,
+      162,
+      196,
+      197,
+      198
+    ],
+    "SWE": [
+      146,
+      156,
+      166,
+      3292
+    ],
+    "Pam3Cys SK4": [
+      147,
+      157,
+      167,
+      176,
+      184
+    ],
+    "CpG": [
+      149,
+      159,
+      169,
+      178,
+      186,
+      1373,
+      1374
+    ],
+    "NucleicAcid": [
+      150,
+      160,
+      170,
+      179,
+      187
+    ],
+    "Resiquimod": [
+      151,
+      161,
+      171
+    ],
+    "PLGA TLR": [
+      172,
+      180,
+      199,
+      200
+    ],
+    "Hyogen": [
+      188
+    ],
+    "VP2 as adjuvant": [
+      201
+    ],
+    "VP2": [
+      206,
+      213,
+      224,
+      235
+    ],
+    "Protein": [
+      207,
+      214,
+      225,
+      236,
+      479,
+      487,
+      495,
+      503,
+      511,
+      519,
+      527,
+      535,
+      865,
+      870,
+      874,
+      879,
+      884,
+      889,
+      894,
+      899
+    ],
+    "VP2 VP6 co admin": [
+      208,
+      219,
+      230
+    ],
+    "VP6 alone": [
+      215,
+      226
+    ],
+    "VP6": [
+      218,
+      229
+    ],
+    "VLP ISCOM": [
+      241,
+      262,
+      268,
+      274,
+      280
+    ],
+    "Prime Boost AttHRV VLP ISCOM": [
+      247,
+      252,
+      286
+    ],
+    "AttHRV": [
+      257,
+      291,
+      292,
+      293
+    ],
+    "VLP ISCOM x3": [
+      302
+    ],
+    "dl inact HRV ISCOM x3": [
+      303
+    ],
+    "R4Pam2CysB": [
+      304,
+      312,
+      321,
+      330,
+      339,
+      348,
+      357,
+      366,
+      375,
+      423,
+      432,
+      441,
+      450,
+      459,
+      465
+    ],
+    "Lysine scaffold": [
+      309,
+      317,
+      326,
+      335,
+      344,
+      353,
+      362,
+      371,
+      380,
+      428,
+      437,
+      446,
+      455
+    ],
+    "Pam2Cys": [
+      311,
+      319,
+      328,
+      337,
+      346,
+      355,
+      364,
+      373,
+      382,
+      394,
+      403,
+      412,
+      421,
+      430,
+      439,
+      448,
+      457
+    ],
+    "R4Pam2CysP": [
+      384,
+      469
+    ],
+    "Linear lysine backbone": [
+      386
+    ],
+    "R4Pam2CysL": [
+      387,
+      396,
+      405,
+      414,
+      470
+    ],
+    "Linear arginine chain": [
+      392,
+      401,
+      410,
+      419
+    ],
+    "RBD scNP 3M 052 AF": [
+      473,
+      481,
+      489,
+      497,
+      513,
+      521,
+      529
+    ],
+    "RBD": [
+      478,
+      486,
+      494,
+      502,
+      510,
+      518,
+      526,
+      534
+    ],
+    "H pylori ferritin": [
+      480,
+      488,
+      496,
+      504,
+      512,
+      520,
+      528,
+      536
+    ],
+    "RBD scNP": [
+      505,
+      541,
+      542
+    ],
+    "COF1": [
+      543,
+      550,
+      558,
+      566,
+      574,
+      582,
+      614,
+      622,
+      630,
+      641
+    ],
+    "TAPB": [
+      547,
+      555,
+      563,
+      571,
+      579,
+      587,
+      595,
+      603,
+      611,
+      619,
+      627,
+      635
+    ],
+    "PDA": [
+      549,
+      557,
+      565,
+      573,
+      581,
+      589,
+      597,
+      605,
+      613,
+      621,
+      629,
+      637
+    ],
+    "COF1 TRP2": [
+      590,
+      598,
+      606
+    ],
+    "Unc5c": [
+      639,
+      640
+    ],
+    "RABV mRNA LNP": [
+      646,
+      651,
+      656,
+      661
+    ],
+    "LNP L002": [
+      666,
+      673
+    ],
+    "L002": [
+      670,
+      678
+    ],
+    "helper lipids": [
+      672,
+      680
+    ],
+    "SpFN ALFQ": [
+      688,
+      696,
+      704,
+      712,
+      720,
+      728,
+      736
+    ],
+    "MPLA": [
+      692,
+      700,
+      708,
+      716,
+      724,
+      732,
+      740
+    ],
+    "QS 21": [
+      694,
+      702,
+      710,
+      718,
+      726,
+      734,
+      742
+    ],
+    "CLP RBD": [
+      752,
+      756,
+      760,
+      773,
+      777,
+      785
+    ],
+    "CLP RBD Saponin oil emulsion": [
+      764,
+      769
+    ],
+    "PP sNp pSpike": [
+      788,
+      792,
+      796,
+      800,
+      804,
+      816,
+      817,
+      818,
+      819,
+      820
+    ],
+    "PP sNp": [
+      808
+    ],
+    "CPS EPA 4valent": [
+      821,
+      826
+    ],
+    "CPS EPA 8valent": [
+      831,
+      836
+    ],
+    "CPS EPA 12valent": [
+      841,
+      846
+    ],
+    "EPA": [
+      851,
+      856
+    ],
+    "PglB": [
+      858,
+      859
+    ],
+    "FimH": [
+      861,
+      866,
+      871,
+      875,
+      880,
+      885,
+      890,
+      895,
+      900,
+      3651,
+      3652
+    ],
+    "M8 VLP": [
+      909,
+      913,
+      917,
+      921,
+      925,
+      929,
+      933,
+      937,
+      941,
+      957
+    ],
+    "M8": [
+      945,
+      949,
+      953,
+      967,
+      968,
+      969
+    ],
+    "PAPV": [
+      970,
+      975,
+      980,
+      985,
+      990,
+      995,
+      1000,
+      1005,
+      1010,
+      1015,
+      1020,
+      1025,
+      1030,
+      1035,
+      1040,
+      1045,
+      1050,
+      1055,
+      1060,
+      1065,
+      1074,
+      1075,
+      1076
+    ],
+    "BCV": [
+      1077,
+      1082,
+      1087,
+      1092,
+      1097,
+      1102,
+      1107,
+      1112,
+      1117,
+      1122,
+      1127,
+      1132,
+      1137,
+      1142,
+      1147,
+      1152,
+      1162,
+      1165
+    ],
+    "Blood clot": [
+      1157,
+      1158,
+      1159,
+      1160,
+      1161
+    ],
+    "PI at EPV": [
+      1166,
+      1170,
+      1174,
+      1180,
+      1186,
+      1192,
+      1198,
+      1204,
+      1210,
+      1216,
+      1222,
+      1226
+    ],
+    "Silica cancer vaccine": [
+      1240,
+      1245,
+      1250,
+      1255,
+      1260,
+      1265,
+      1270,
+      1275,
+      1278
+    ],
+    "Silica synthesis": [
+      1285
+    ],
+    "Freeze drying": [
+      1287
+    ],
+    "Nanovaccine A": [
+      1289
+    ],
+    "Nanovaccine AB": [
+      1294,
+      1299,
+      1304,
+      1309,
+      1314,
+      1319,
+      1324
+    ],
+    "SIMPL tablet": [
+      1333,
+      1337,
+      1341,
+      1345,
+      1349,
+      1353,
+      1357,
+      1361,
+      1365,
+      1377,
+      1378,
+      1379
+    ],
+    "PEG": [
+      1369
+    ],
+    "cyclic di AMP": [
+      1371,
+      1372
+    ],
+    "Core shell microneedle": [
+      1380,
+      1385,
+      1390,
+      1395,
+      1400,
+      1405,
+      1410,
+      1415,
+      1420
+    ],
+    "PLGA": [
+      1425
+    ],
+    "HA2 M2e noro VLP": [
+      1433,
+      1437,
+      1441,
+      1445,
+      1449,
+      1453
+    ],
+    "SpyTag noro VLP": [
+      1457
+    ],
+    "KSHV LP": [
+      1462,
+      1467,
+      1472,
+      1477,
+      1482,
+      1495
+    ],
+    "KSHV LP minus HR2": [
+      1487
+    ],
+    "HR2": [
+      1493
+    ],
+    "N3 VLP": [
+      1500,
+      1510,
+      1516
+    ],
+    "N11 VLP": [
+      1505,
+      1515,
+      1521
+    ],
+    "GI 1 DS1 VLP": [
+      1524,
+      1529,
+      1534,
+      1539,
+      1544
+    ],
+    "GI 1 DS1 VLP Alum": [
+      1549
+    ],
+    "GI 1 WT VLP": [
+      1554,
+      1559
+    ],
+    "DS1": [
+      1564
+    ],
+    "C16 catSsub OVAp": [
+      1570,
+      1573,
+      1576,
+      1579,
+      1582,
+      1585,
+      1588,
+      1591
+    ],
+    "eADF4 C16": [
+      1598,
+      1600
+    ],
+    "PLG MP": [
+      1603,
+      1606,
+      1609,
+      1612,
+      1615,
+      1618
+    ],
+    "PLG MP amphotericin B": [
+      1621,
+      1626,
+      1631,
+      1636,
+      1641,
+      1646
+    ],
+    "mRNA LNP small": [
+      1655
+    ],
+    "mRNA LNP medium": [
+      1659,
+      1665
+    ],
+    "mRNA LNP large": [
+      1663,
+      1669
+    ],
+    "mRNA LNP extra large": [
+      1664,
+      1670
+    ],
+    "EGFP VLP": [
+      1676,
+      1680,
+      1684,
+      1688,
+      1692,
+      1696,
+      1700,
+      1704,
+      1708,
+      1712,
+      1716,
+      1719,
+      1722
+    ],
+    "Endosomal acidification": [
+      1720
+    ],
+    "Proteasome": [
+      1721
+    ],
+    "SpreS116 42 Alum": [
+      1724,
+      1729,
+      1734,
+      1739,
+      1744,
+      1749,
+      1754
+    ],
+    "M protein J8i di VLP": [
+      1765,
+      1770,
+      1775,
+      1780,
+      1785,
+      1790
+    ],
+    "M protein J8i mono VLP": [
+      1795,
+      1796,
+      1797,
+      1798,
+      1799,
+      1800
+    ],
+    "MS OVA MDP CpG": [
+      1810,
+      1815,
+      1824,
+      1836,
+      1848,
+      1868,
+      1869,
+      1874,
+      1877,
+      1882,
+      1897,
+      1909,
+      1910
+    ],
+    "MS OVA MDP": [
+      1820,
+      1829,
+      1841,
+      1853,
+      1861,
+      1887
+    ],
+    "MS OVA CpG": [
+      1821,
+      1830,
+      1842,
+      1858,
+      1865,
+      1888,
+      1891,
+      1894
+    ],
+    "MS OVA": [
+      1833,
+      1845
+    ],
+    "DC targeted BNC OVA": [
+      1921,
+      1931,
+      1936,
+      1946,
+      1956,
+      1966,
+      1972
+    ],
+    "BNC OVA": [
+      1926,
+      1941,
+      1951,
+      1961,
+      1969
+    ],
+    "DC targeted BNC D3": [
+      1977,
+      1982,
+      2005
+    ],
+    "HBV fusogenic domain": [
+      1995
+    ],
+    "Mannose sugar chains": [
+      2000
+    ],
+    "Antigen clustering": [
+      2003
+    ],
+    "ORORO adjuvanted": [
+      2007,
+      2030
+    ],
+    "ORORO": [
+      2012,
+      2017
+    ],
+    "ORO adjuvanted": [
+      2022
+    ],
+    "E VLP": [
+      2031,
+      2036,
+      2041
+    ],
+    "PLGA PEI MPLA PUUC NPS": [
+      2049,
+      2054,
+      2057
+    ],
+    "PLGA PEI MPLA PUUC SS": [
+      2062
+    ],
+    "PLGA PEI MPLA SS": [
+      2067,
+      2068,
+      2073,
+      2078
+    ],
+    "PLGA PEI PUUC SS": [
+      2083,
+      2088,
+      2093,
+      2098
+    ],
+    "Alum MPL": [
+      2115
+    ],
+    "L1 VLP16 18 Alum MPL": [
+      2120,
+      2125,
+      2130,
+      2135,
+      2140,
+      2145,
+      2150,
+      2169
+    ],
+    "MPL": [
+      2155
+    ],
+    "CTPPC pDNA GFP": [
+      2170,
+      2180
+    ],
+    "CTC pDNA GFP": [
+      2175,
+      2185
+    ],
+    "CTC unloaded": [
+      2190
+    ],
+    "PLGA 900nm": [
+      2198,
+      2201,
+      2204
+    ],
+    "PLGA 900nm OVA": [
+      2207,
+      2210,
+      2213,
+      2215,
+      2217,
+      2219
+    ],
+    "PLGA 900nm H5N1": [
+      2222,
+      2223,
+      2224
+    ],
+    "HPV16 L1 VLPs CT": [
+      2230,
+      2235,
+      2240,
+      2245,
+      2250,
+      2255,
+      2260,
+      2293
+    ],
+    "HPV16 L1 VLPs Imiquimod": [
+      2265,
+      2268,
+      2271
+    ],
+    "HPV16 L1 VLPs Resiquimod": [
+      2274,
+      2276
+    ],
+    "HPV16 L1 VLPs MPL": [
+      2278,
+      2280,
+      2282,
+      2284,
+      2287,
+      2290
+    ],
+    "SARS CoV 2 VLP WT": [
+      2298,
+      2303,
+      2306,
+      2311,
+      2316,
+      2335
+    ],
+    "SARS CoV 2 VLP alpha": [
+      2321,
+      2326,
+      2331,
+      2332,
+      2333,
+      2340,
+      2341
+    ],
+    "SARS CoV 2 VLP HD": [
+      2334
+    ],
+    "ABM5 OVA": [
+      2357,
+      2362,
+      2367,
+      2372,
+      2377,
+      2382
+    ],
+    "SABER ABM5": [
+      2387
+    ],
+    "AP205 MUC1 P2": [
+      2398,
+      2403,
+      2408,
+      2413,
+      2418
+    ],
+    "BLPs influenza split": [
+      2428,
+      2431
+    ],
+    "GEM SlrA PA": [
+      2445,
+      2451,
+      2454,
+      2457,
+      2464
+    ],
+    "GEM PpmA PA": [
+      2448,
+      2460,
+      2461,
+      2467
+    ],
+    "GEM IgA1p PA": [
+      2462,
+      2463
+    ],
+    "GEM Trivalent": [
+      2468
+    ],
+    "GNNV VLP 10ug": [
+      2474,
+      2479,
+      2481,
+      2486,
+      2491,
+      2496,
+      2501
+    ],
+    "GNNV VLP 100ug": [
+      2506
+    ],
+    "GNNV VLP 250ug": [
+      2511
+    ],
+    "MF59 VP1 WT VP2": [
+      2518
+    ],
+    "SpyTag PCV2 Cap VLP E2": [
+      2524,
+      2529,
+      2534,
+      2539,
+      2544,
+      2549
+    ],
+    "BLS 4M2e IMX": [
+      2565,
+      2568,
+      2576
+    ],
+    "BLS 4M2e Alum": [
+      2571
+    ],
+    "alum": [
+      2581
+    ],
+    "aluminum_hydroxide": [
+      2582
+    ],
+    "alum_aluminum_hydroxide": [
+      2583
+    ],
+    "al4": [
+      2584
+    ],
+    "al_po_4": [
+      2585
+    ],
+    "adju-phos": [
+      2586
+    ],
+    "aluminum_phosphate": [
+      2587
+    ],
+    "cap": [
+      2588
+    ],
+    "cahpo4": [
+      2589
+    ],
+    "calcium_phosphate": [
+      2590
+    ],
+    "calcium_phosphate_cap": [
+      2591
+    ],
+    "cfa": [
+      2592,
+      2593,
+      2594
+    ],
+    "complete_freund_s_adjuvant": [
+      2595,
+      2596,
+      2597
+    ],
+    "complete_Freund_s_adjuvant": [
+      2598,
+      2599,
+      2600
+    ],
+    "freund_s_complete_adjuvant": [
+      2601,
+      2602,
+      2603
+    ],
+    "complete_freund_s_adjuvant_cfa": [
+      2604,
+      2605,
+      2606
+    ],
+    "freund_s_incomplete_adjuvant": [
+      2609
+    ],
+    "incomplete_freund_s_adjuvant": [
+      2610
+    ],
+    "incomplete_Freund_s_adjuvant": [
+      2611
+    ],
+    "cholera_toxin": [
+      2612
+    ],
+    "cholera_toxin_ct": [
+      2613
+    ],
+    "Corynebacterium-derived_P40": [
+      2614
+    ],
+    "corynebacterium-derived_p40": [
+      2615
+    ],
+    "lps": [
+      2616
+    ],
+    "lipopolysaccharide": [
+      2617
+    ],
+    "mdp": [
+      2618,
+      2619
+    ],
+    "muramyl_dipeptide": [
+      2620,
+      2621
+    ],
+    "muramyl_dipeptide_adjuvant": [
+      2622,
+      2623
+    ],
+    "squalene": [
+      2625
+    ],
+    "squalene-based_adjuvants": [
+      2626
+    ],
+    "squalene_vacccine_adjuvant": [
+      2627
+    ],
+    "arlacel_a": [
+      2628
+    ],
+    "arlacel_A": [
+      2629
+    ],
+    "Montanide_103": [
+      2630
+    ],
+    "montanide_103": [
+      2631
+    ],
+    "bordetella_pertussis_component": [
+      2632
+    ],
+    "Bordetella_pertussis_component": [
+      2633
+    ],
+    "Adjumer": [
+      2634
+    ],
+    "adjumer": [
+      2635
+    ],
+    "pcpp_salt": [
+      2636
+    ],
+    "polyphosphazene": [
+      2637
+    ],
+    "carboxylatophenoxy": [
+      2638
+    ],
+    "polyidi_lphosphazene": [
+      2639
+    ],
+    "liposomes": [
+      2640
+    ],
+    "liposome-based": [
+      2641
+    ],
+    "IL-15_plasmid": [
+      2642
+    ],
+    "il-15_plasmid": [
+      2643
+    ],
+    "e._coli_lt_toxin_derived": [
+      2644
+    ],
+    "E._coli_LT_toxin_derived": [
+      2645
+    ],
+    "addp": [
+      2646,
+      2647
+    ],
+    "adamantylamide_dipeptide": [
+      2648,
+      2649
+    ],
+    "ISCOM": [
+      2650
+    ],
+    "iscom": [
+      2651
+    ],
+    "iscom_s": [
+      2652
+    ],
+    "the_immunostimulating_complex": [
+      2653
+    ],
+    "aluminum": [
+      2654
+    ],
+    "xanthan_gum": [
+      2655
+    ],
+    "xanthan_gum_vaccine_ajuvant": [
+      2656
+    ],
+    "IL-12_vacince_adjuvant": [
+      2657
+    ],
+    "il-12_vacince_adjuvant": [
+      2658
+    ],
+    "cpg": [
+      2659,
+      2660
+    ],
+    "cpg_dna": [
+      2661,
+      2662
+    ],
+    "CpG_DNA": [
+      2663,
+      2664
+    ],
+    "cpg_odn": [
+      2665,
+      2666
+    ],
+    "cpg_oligodeoxynucleotide": [
+      2667,
+      2668
+    ],
+    "Ribi": [
+      2670,
+      2671,
+      2672
+    ],
+    "ribi": [
+      2673,
+      2674,
+      2675
+    ],
+    "RC529": [
+      2677,
+      2678
+    ],
+    "rc529": [
+      2679,
+      2680
+    ],
+    "aluminum_potassium_sulfate_adjuvant": [
+      2681
+    ],
+    "Alhydrogel": [
+      2682
+    ],
+    "alhydrogel": [
+      2683
+    ],
+    "ctb": [
+      2684
+    ],
+    "cholera_toxin_b": [
+      2685
+    ],
+    "cholera_toxin_B_subunit": [
+      2686
+    ],
+    "cholera_toxin_b_subunit": [
+      2687
+    ],
+    "RC529-AF": [
+      2688,
+      2689
+    ],
+    "rc529-af": [
+      2690,
+      2691
+    ],
+    "rc529_in_an_aqueour_formulation": [
+      2692,
+      2693
+    ],
+    "mpl": [
+      2694,
+      2695
+    ],
+    "mpla": [
+      2696,
+      2697
+    ],
+    "mpl-a": [
+      2698,
+      2699
+    ],
+    "3d-mla": [
+      2700,
+      2701
+    ],
+    "monophosphoryl_lipid_A": [
+      2702,
+      2703
+    ],
+    "monophosphoryl_lipid_a": [
+      2704,
+      2705
+    ],
+    "LTK63_vaccine_mutant": [
+      2706
+    ],
+    "ltk63_vaccine_mutant": [
+      2707
+    ],
+    "ltk63_vaccine_mutant_adjuvant": [
+      2708
+    ],
+    "killed_corynebacterium_parvum": [
+      2709,
+      2710,
+      2711
+    ],
+    "killed_Corynebacterium_parvum": [
+      2712,
+      2713,
+      2714
+    ],
+    "Titermax_Gold": [
+      2715
+    ],
+    "titermax_gold": [
+      2716
+    ],
+    "titermax_gold_adjuvant": [
+      2717
+    ],
+    "dda": [
+      2718,
+      2719
+    ],
+    "dda_adjuvant": [
+      2722,
+      2723
+    ],
+    "dimethyl_dioctadecyl_ammonium_bromide": [
+      2724,
+      2725
+    ],
+    "cationic_liposomal": [
+      2726,
+      2727
+    ],
+    "quila": [
+      2728
+    ],
+    "QuilA": [
+      2729
+    ],
+    "AS02": [
+      2730,
+      2731
+    ],
+    "as02": [
+      2732,
+      2733
+    ],
+    "as04": [
+      2734,
+      2735
+    ],
+    "AS04": [
+      2736,
+      2737
+    ],
+    "vsa-3": [
+      2738
+    ],
+    "VSA-3": [
+      2739
+    ],
+    "emulsigen_d": [
+      2740
+    ],
+    "vsa-3_adjuvant": [
+      2741
+    ],
+    "saponin": [
+      2742
+    ],
+    "montanide_isa_720": [
+      2743
+    ],
+    "Montanide_ISA_720": [
+      2744
+    ],
+    "montanide_isa_720_vg": [
+      2745
+    ],
+    "montanide_incomplete_seppic_adjuvant": [
+      2746
+    ],
+    "Montanide_incomplete_Seppic_adjuvant": [
+      2747
+    ],
+    "montanide_isa51": [
+      2748
+    ],
+    "Montanide_ISA51": [
+      2749
+    ],
+    "montanide_isa_51": [
+      2750
+    ],
+    "montanide": [
+      2751
+    ],
+    "Montanide": [
+      2752
+    ],
+    "EtxB": [
+      2753
+    ],
+    "etxb": [
+      2754
+    ],
+    "etx_b_subunit_adjuvant": [
+      2755
+    ],
+    "b_subunit_of_e._coli_heat-labile_enterotoxin": [
+      2756
+    ],
+    "Polygen": [
+      2757
+    ],
+    "polygen": [
+      2758
+    ],
+    "Algal_Glucan": [
+      2759,
+      2760
+    ],
+    "algal_glucan": [
+      2761,
+      2762
+    ],
+    "Algammulin": [
+      2764
+    ],
+    "algammulin": [
+      2765
+    ],
+    "bay_r1005": [
+      2766
+    ],
+    "BAY_R1005": [
+      2767
+    ],
+    "n--n-octadecyldodecanoylamide_hydroacetate": [
+      2768
+    ],
+    "2-deoxy-2-l-leucylamino-beta-d-glucopyranosyl": [
+      2769
+    ],
+    "n-_2-deoxy-2-l-leucylamino-beta-d-glucopyranosyl_-n-octadecyldodecanoylamide_hydroacetate": [
+      2770
+    ],
+    "cp20_96": [
+      2771,
+      2772
+    ],
+    "avridine": [
+      2773,
+      2774
+    ],
+    "Avridine": [
+      2775,
+      2776
+    ],
+    "2-hydroxyethyl": [
+      2777,
+      2778
+    ],
+    "n_n-dioctadecyl-n_n_-bis_propanediamine": [
+      2779,
+      2780
+    ],
+    "n_n-dioctadecyl-n_n_-bis_2-hydroxyethyl_propanediamine": [
+      2781,
+      2782
+    ],
+    "calcium_phosphate_gel": [
+      2783
+    ],
+    "cta1-dd_gene_fusion_protein": [
+      2784
+    ],
+    "cholera_toxin_A1-subunit-ProteinA_D-fragment_fusion_protein": [
+      2785
+    ],
+    "cholera_toxin_a1-subunit-proteina_d-fragment_fusion_protein": [
+      2786
+    ],
+    "doc/alum_complex": [
+      2787
+    ],
+    "DOC/Alum_Complex": [
+      2788
+    ],
+    "gamma_Inulin": [
+      2789
+    ],
+    "gamma_inulin": [
+      2790
+    ],
+    "gerbu": [
+      2791,
+      2792
+    ],
+    "Gerbu": [
+      2793,
+      2794
+    ],
+    "gerbu_adjuvant": [
+      2795,
+      2796
+    ],
+    "GM-CSF": [
+      2798
+    ],
+    "gm-csf": [
+      2799
+    ],
+    "b1-4": [
+      2800,
+      2801
+    ],
+    "GMDP": [
+      2802,
+      2803
+    ],
+    "gmdp": [
+      2804,
+      2805
+    ],
+    "n-acetylglucosaminyl--n-acetylmuramyl-l-alanyl-d-isoglutamine": [
+      2806,
+      2807
+    ],
+    "n-acetylglucosaminyl-_b1-4_-n-acetylmuramyl-l-alanyl-d-isoglutamine": [
+      2808,
+      2809
+    ],
+    "recombinant_hifn-gamma/interferon-g": [
+      2810
+    ],
+    "recombinant_hIFN-gamma/Interferon-g": [
+      2811
+    ],
+    "il-1b": [
+      2812
+    ],
+    "IL-1b": [
+      2813
+    ],
+    "interleukin-1b": [
+      2814
+    ],
+    "interleukin-1beta": [
+      2815
+    ],
+    "il-2": [
+      2816
+    ],
+    "interleukin-2": [
+      2817
+    ],
+    "IL-7": [
+      2818
+    ],
+    "il-7": [
+      2819
+    ],
+    "interleukin-7": [
+      2820
+    ],
+    "loxoribine": [
+      2821,
+      2822
+    ],
+    "Loxoribine": [
+      2823,
+      2824
+    ],
+    "7-allyl-8-oxoguanosine": [
+      2825,
+      2826
+    ],
+    "MF59": [
+      2828
+    ],
+    "mf59": [
+      2829
+    ],
+    "mtp-pe": [
+      2830,
+      2831
+    ],
+    "MTP-PE_Liposomes": [
+      2832,
+      2833
+    ],
+    "mtp-pe_liposomes": [
+      2834,
+      2835
+    ],
+    "murametide": [
+      2836,
+      2837
+    ],
+    "Murametide": [
+      2838,
+      2839
+    ],
+    "nac-mur-l-ala-d-gln-och3": [
+      2840,
+      2841
+    ],
+    "murapalmitine": [
+      2842,
+      2843
+    ],
+    "Murapalmitine": [
+      2844,
+      2845
+    ],
+    "l-murapalmitine": [
+      2846,
+      2847
+    ],
+    "nac-mur-l-thr-d-isogin-sn-glyceroi_dipalmitoyl": [
+      2848,
+      2849
+    ],
+    "d-murapalmitine": [
+      2850,
+      2851
+    ],
+    "D-Murapalmitine": [
+      2852,
+      2853
+    ],
+    "nac-mur-d-ala-d-isogln-sn-glycerol_dipalmitoyl": [
+      2854,
+      2855
+    ],
+    "nisv": [
+      2856
+    ],
+    "non-ionic_surfactant_vesicles": [
+      2857
+    ],
+    "pmma": [
+      2858
+    ],
+    "PMMA": [
+      2859
+    ],
+    "polymethyl_methacrylate": [
+      2860
+    ],
+    "protein_cochleates": [
+      2861
+    ],
+    "QS-21": [
+      2862
+    ],
+    "qs-21": [
+      2863
+    ],
+    "stimulon_qs-21_adjuvant": [
+      2864
+    ],
+    "rehydragel_hpa": [
+      2865
+    ],
+    "Rehydragel_HPA": [
+      2866
+    ],
+    "rehydragel_lv": [
+      2867
+    ],
+    "Rehydragel_LV": [
+      2868
+    ],
+    "Sclavo_peptide": [
+      2869
+    ],
+    "sclavo_peptide": [
+      2870
+    ],
+    "il-1beta_163-171_peptide": [
+      2871
+    ],
+    "Specol": [
+      2872
+    ],
+    "specol": [
+      2873
+    ],
+    "spt": [
+      2874
+    ],
+    "antigen_formulation": [
+      2875
+    ],
+    "SPT_Antigen_Formulation": [
+      2876
+    ],
+    "spt_antigen_formulation": [
+      2877
+    ],
+    "stearyl_tyrosine": [
+      2878
+    ],
+    "Theramide": [
+      2879,
+      2880
+    ],
+    "theramide": [
+      2881,
+      2882
+    ],
+    "CRL1005": [
+      2883
+    ],
+    "crl1005": [
+      2884
+    ],
+    "nanoemulsion": [
+      2885
+    ],
+    "as03": [
+      2886
+    ],
+    "AS03": [
+      2887
+    ],
+    "mlt": [
+      2888
+    ],
+    "r192g": [
+      2889
+    ],
+    "LTR192G": [
+      2890
+    ],
+    "ltr192g": [
+      2891
+    ],
+    "lt_r192g": [
+      2892
+    ],
+    "mlt_r192g": [
+      2893
+    ],
+    "lt-oa": [
+      2894
+    ],
+    "lt_oral_adjuvant": [
+      2895
+    ],
+    "e._coli_heat-labile_toxin": [
+      2896
+    ],
+    "E._coli_heat-labile_toxin": [
+      2897
+    ],
+    "e._coli_heat-labile_toxin_lt": [
+      2898
+    ],
+    "aahs": [
+      2899
+    ],
+    "aahsa": [
+      2900
+    ],
+    "merck_aluminum_adjuvant": [
+      2901
+    ],
+    "amorphous_aluminum_hydroxyphosphate_sulfate": [
+      2902
+    ],
+    "amorphous_aluminum_hydroxyphosphate_sulfate_aahs": [
+      2903
+    ],
+    "amorphous_aluminum_hydroxyphosphate_sulfate_adjuvant": [
+      2904
+    ],
+    "matrix-s": [
+      2905
+    ],
+    "Matrix-S": [
+      2906
+    ],
+    "r837": [
+      2907,
+      2908
+    ],
+    "r-837": [
+      2909,
+      2910
+    ],
+    "aldara": [
+      2911,
+      2912
+    ],
+    "s26308": [
+      2913,
+      2914
+    ],
+    "imiquimod": [
+      2915,
+      2916
+    ],
+    "2-methypropyl": [
+      2917,
+      2918
+    ],
+    "r848": [
+      2919,
+      2920,
+      2921
+    ],
+    "r-848": [
+      2922,
+      2923,
+      2924
+    ],
+    "resiquimod": [
+      2925,
+      2926,
+      2927
+    ],
+    "tlr7/8_agonist": [
+      2928,
+      2929,
+      2930
+    ],
+    "tlr7_8_agonist": [
+      2931,
+      2932,
+      2933
+    ],
+    "resiquimod_r848": [
+      2934,
+      2935,
+      2936
+    ],
+    "AF03": [
+      2938
+    ],
+    "af03": [
+      2939
+    ],
+    "Flagellin": [
+      2940,
+      2941
+    ],
+    "flagellin": [
+      2942,
+      2943
+    ],
+    "flagellin_protein": [
+      2944,
+      2945
+    ],
+    "i_c": [
+      2947,
+      2948,
+      2949
+    ],
+    "poly": [
+      2950,
+      2951,
+      2952
+    ],
+    "poly_i_c": [
+      2953,
+      2954,
+      2955
+    ],
+    "poly_I_C": [
+      2956,
+      2957,
+      2958
+    ],
+    "polyinosinic-polycytidylic_acid": [
+      2959,
+      2960,
+      2961
+    ],
+    "polyriboinosinic-polyribocytidylic_acid": [
+      2962,
+      2963,
+      2964
+    ],
+    "ISCOMATRIX": [
+      2967
+    ],
+    "iscomatrix": [
+      2968
+    ],
+    "abisco-100": [
+      2969
+    ],
+    "Abisco-100": [
+      2970
+    ],
+    "albumin-heparin_microparticles": [
+      2971
+    ],
+    "B7-2": [
+      2972
+    ],
+    "b7-2": [
+      2973
+    ],
+    "bupivacaine": [
+      2974
+    ],
+    "Bupivacaine": [
+      2975
+    ],
+    "cationic_liposome-dna_complex_jvrs-100": [
+      2976
+    ],
+    "cationic_liposome-dna_complex_jvrs-100_vaccin_adjuvant": [
+      2977
+    ],
+    "cationic_liposome-DNA_complex_JVRS-100_vaccin_adjuvant": [
+      2978
+    ],
+    "dha": [
+      2979
+    ],
+    "DHEA": [
+      2980
+    ],
+    "dhea": [
+      2981
+    ],
+    "prasterone": [
+      2982
+    ],
+    "androstenolone": [
+      2983
+    ],
+    "dehydroepiandrosterone": [
+      2984
+    ],
+    "plga": [
+      2985
+    ],
+    "dl-pgl": [
+      2986
+    ],
+    "polyester_poly": [
+      2987
+    ],
+    "plga_microspheres": [
+      2988
+    ],
+    "dl-lactide-co-glycolide": [
+      2989
+    ],
+    "polyester_poly_dl-lactide-co-glycolide": [
+      2990
+    ],
+    "IL-15": [
+      2991
+    ],
+    "il-15": [
+      2992
+    ],
+    "immunoliposomes_containing_antibodies_to_costimulatory_molecules": [
+      2993
+    ],
+    "LTR72": [
+      2994
+    ],
+    "ltr72": [
+      2995
+    ],
+    "mpl-se": [
+      2996,
+      2997
+    ],
+    "MPL-SE": [
+      2998,
+      2999
+    ],
+    "mct": [
+      3000,
+      3296
+    ],
+    "non-toxic_mutant_e112k_of_cholera_toxin_mct-e112k": [
+      3001
+    ],
+    "non-toxic_mutant_E112K_of_Cholera_Toxin_mCT-E112K": [
+      3002
+    ],
+    "cholera_toxin_derived": [
+      3003
+    ],
+    "SAF-1": [
+      3004,
+      3005
+    ],
+    "saf-1": [
+      3006,
+      3007
+    ],
+    "Sendai_Proteoliposomes_Sendai-containing_Lipid_Matrices": [
+      3008
+    ],
+    "sendai_proteoliposomes_sendai-containing_lipid_matrices": [
+      3009
+    ],
+    "tmdp": [
+      3010,
+      3011
+    ],
+    "thr1_-mdp": [
+      3012,
+      3013
+    ],
+    "termurtide": [
+      3014,
+      3015
+    ],
+    "threonyl_muramyl_dipeptide": [
+      3016,
+      3017
+    ],
+    "threonyl_muramyl_dipeptide_TMDP": [
+      3018,
+      3019
+    ],
+    "threonyl_muramyl_dipeptide_tmdp": [
+      3020,
+      3021
+    ],
+    "ty-vlps": [
+      3022
+    ],
+    "ty_particles": [
+      3023
+    ],
+    "cytokine": [
+      3024
+    ],
+    "combination": [
+      3025
+    ],
+    "emulsion": [
+      3026
+    ],
+    "particulate_antigen_delivery_system": [
+      3027
+    ],
+    "synthetic": [
+      3028
+    ],
+    "tensoactive_compound": [
+      3029
+    ],
+    "tensioactive_compound": [
+      3030
+    ],
+    "carbohydrate": [
+      3031
+    ],
+    "IFN-gamma": [
+      3032
+    ],
+    "ifn-gamma": [
+      3033
+    ],
+    "Matrix-M": [
+      3034
+    ],
+    "matrix-m": [
+      3035
+    ],
+    "advax": [
+      3036
+    ],
+    "Advax": [
+      3037
+    ],
+    "delta-inulin": [
+      3038
+    ],
+    "delta_inulin": [
+      3039
+    ],
+    "advax_delta_inulin": [
+      3040
+    ],
+    "1v270": [
+      3041,
+      3042
+    ],
+    "1V270": [
+      3043,
+      3044
+    ],
+    "2b182c": [
+      3045,
+      3046
+    ],
+    "2B182C": [
+      3047,
+      3048
+    ],
+    "2e151": [
+      3050
+    ],
+    "2E151": [
+      3051
+    ],
+    "um-1098": [
+      3052,
+      3053
+    ],
+    "UM-1098": [
+      3054,
+      3055
+    ],
+    "tql-1055": [
+      3057
+    ],
+    "TQL-1055": [
+      3058
+    ],
+    "nanovax/ne01": [
+      3059,
+      3060,
+      3061
+    ],
+    "NanoVax/NE01": [
+      3062,
+      3063,
+      3064
+    ],
+    "MiT4": [
+      3067,
+      3068
+    ],
+    "mit4": [
+      3069,
+      3070
+    ],
+    "Mannadjuvant": [
+      3071,
+      3072,
+      3073
+    ],
+    "mannadjuvant": [
+      3074,
+      3075,
+      3076
+    ],
+    "LiT4": [
+      3079,
+      3080
+    ],
+    "lit4": [
+      3081,
+      3082
+    ],
+    "INI-4001": [
+      3083,
+      3084,
+      3085
+    ],
+    "ini-4001": [
+      3086,
+      3087,
+      3088
+    ],
+    "ini-2004": [
+      3089,
+      3090
+    ],
+    "INI-2004": [
+      3091,
+      3092
+    ],
+    "INI-2002": [
+      3093,
+      3094
+    ],
+    "ini-2002": [
+      3095,
+      3096
+    ],
+    "fos47": [
+      3097,
+      3098,
+      3099
+    ],
+    "Fos47": [
+      3100,
+      3101,
+      3102
+    ],
+    "EmT4": [
+      3104,
+      3105
+    ],
+    "emt4": [
+      3106,
+      3107
+    ],
+    "ddo": [
+      3108,
+      3109,
+      3110,
+      3111
+    ],
+    "defective_viral_genome-derived_oligonucleotide": [
+      3112,
+      3113,
+      3114,
+      3115
+    ],
+    "ddo_defective_viral_genome-derived_oligonucleotide": [
+      3116,
+      3117,
+      3118,
+      3119
+    ],
+    "capnp": [
+      3121
+    ],
+    "captivant": [
+      3122
+    ],
+    "CaPNP_CaPtivant_TM": [
+      3123
+    ],
+    "capnp_captivant_tm": [
+      3124
+    ],
+    "becc470b": [
+      3125,
+      3126
+    ],
+    "BECC470b": [
+      3127,
+      3128
+    ],
+    "BECC438s": [
+      3129,
+      3130
+    ],
+    "becc438s": [
+      3131,
+      3132
+    ],
+    "becc438b": [
+      3133,
+      3134
+    ],
+    "BECC438b": [
+      3135,
+      3136
+    ],
+    "AlT4": [
+      3137,
+      3138
+    ],
+    "alt4": [
+      3139,
+      3140
+    ],
+    "AlT3": [
+      3141,
+      3142
+    ],
+    "alt3": [
+      3143,
+      3144
+    ],
+    "Alhydroxiquim-II": [
+      3146,
+      3147,
+      3148
+    ],
+    "alhydroxiquim-ii": [
+      3149,
+      3150,
+      3151
+    ],
+    "adjuplex+gla": [
+      3152,
+      3153
+    ],
+    "Adjuplex+GLA": [
+      3154,
+      3155
+    ],
+    "2F52": [
+      3156
+    ],
+    "2f52": [
+      3157
+    ],
+    "Advax-CpG55.2": [
+      3158,
+      3159
+    ],
+    "advax-cpg55.2": [
+      3160,
+      3161
+    ],
+    "vsa-2": [
+      3162
+    ],
+    "VSA-2": [
+      3163
+    ],
+    "vsa-2_5b": [
+      3164
+    ],
+    "vsa-1": [
+      3165
+    ],
+    "VSA-1": [
+      3166
+    ],
+    "rOv-ASP-1": [
+      3167
+    ],
+    "rov-asp-1": [
+      3168
+    ],
+    "recombinant_o._volvulus_activation-associated_secreted_protein-1": [
+      3169
+    ],
+    "dmlt": [
+      3170
+    ],
+    "dmLT": [
+      3171
+    ],
+    "double_mutant_of_heat-labile_e.coli": [
+      3172
+    ],
+    "dmlt_double_mutant_of_heat-labile_e.coli": [
+      3173
+    ],
+    "double-mutant_heat-labile_enterotoxin_from_escherichia_coli": [
+      3174
+    ],
+    "double-mutant_heat-labile_enterotoxin_from_escherichia_coli_dmlt": [
+      3175
+    ],
+    "CPDI-01": [
+      3176
+    ],
+    "cpdi-01": [
+      3177
+    ],
+    "UM-3005": [
+      3178,
+      3179,
+      3180
+    ],
+    "um-3005": [
+      3181,
+      3182,
+      3183
+    ],
+    "um-3004": [
+      3184,
+      3185,
+      3186
+    ],
+    "UM-3004": [
+      3187,
+      3188,
+      3189
+    ],
+    "UM-3003": [
+      3190,
+      3191,
+      3192
+    ],
+    "um-3003": [
+      3193,
+      3194,
+      3195
+    ],
+    "lta1": [
+      3196
+    ],
+    "LTA1": [
+      3197
+    ],
+    "advax-2": [
+      3198,
+      3199
+    ],
+    "advax-sm": [
+      3200,
+      3201
+    ],
+    "Advax-CpG": [
+      3202,
+      3203
+    ],
+    "advax-cpg": [
+      3204,
+      3205
+    ],
+    "as01b": [
+      3206
+    ],
+    "AS01B": [
+      3207
+    ],
+    "AS02A": [
+      3208
+    ],
+    "as02a": [
+      3209
+    ],
+    "chitosan": [
+      3210,
+      3211
+    ],
+    "Zymosan": [
+      3213
+    ],
+    "zymosan": [
+      3214
+    ],
+    "MPL_+_TDM": [
+      3215,
+      3216
+    ],
+    "mpl_+_tdm": [
+      3217,
+      3218
+    ],
+    "monophosphoryl-lipid_a_+_trehalose_dicorynomycolate": [
+      3219,
+      3220
+    ],
+    "saf": [
+      3221
+    ],
+    "syntex_adjuvant_formulation": [
+      3222
+    ],
+    "Syntex_Adjuvant_Formulation": [
+      3223
+    ],
+    "dbp": [
+      3224
+    ],
+    "dibutyl_phthalate": [
+      3225
+    ],
+    "glycerol": [
+      3226
+    ],
+    "glycerine_1_2_3-propanetriol": [
+      3227
+    ],
+    "Pam3Cys": [
+      3228,
+      3229,
+      3230
+    ],
+    "pam3cys": [
+      3231,
+      3232,
+      3233
+    ],
+    "tripalmitoyl-s-glyceryl-cysteine": [
+      3234,
+      3235,
+      3236
+    ],
+    "Vaxfectin": [
+      3239
+    ],
+    "vaxfectin": [
+      3240
+    ],
+    "T-vant": [
+      3241,
+      3242
+    ],
+    "t-vant": [
+      3243,
+      3244
+    ],
+    "PIKA": [
+      3246,
+      3247,
+      3248,
+      3249
+    ],
+    "pika": [
+      3250,
+      3251,
+      3252,
+      3253
+    ],
+    "Mastoparan_7": [
+      3256
+    ],
+    "mastoparan_7": [
+      3257
+    ],
+    "Mast_cell_activator_small_molecules": [
+      3258
+    ],
+    "mast_cell_activator_small_molecules": [
+      3259
+    ],
+    "pvp": [
+      3260,
+      4243,
+      4244
+    ],
+    "precision_vaccines_program_-037": [
+      3261
+    ],
+    "Precision_Vaccines_Program_PVP_-037": [
+      3262
+    ],
+    "precision_vaccines_program_pvp_-037": [
+      3263
+    ],
+    "becc470s": [
+      3264,
+      3265
+    ],
+    "BECC470s": [
+      3266,
+      3267
+    ],
+    "trac478": [
+      3268,
+      3269,
+      3270,
+      3271
+    ],
+    "TRAC478": [
+      3272,
+      3273,
+      3274,
+      3275
+    ],
+    "GLA-3M-052-LS": [
+      3276,
+      3277
+    ],
+    "gla-3m-052-ls": [
+      3278,
+      3279
+    ],
+    "3M-052-SE": [
+      3280,
+      3281,
+      3282
+    ],
+    "3m-052-se": [
+      3283,
+      3284,
+      3285
+    ],
+    "3m-052-alum": [
+      3286,
+      3287,
+      3288
+    ],
+    "3M-052-Alum": [
+      3289,
+      3290,
+      3291
+    ],
+    "swe": [
+      3293
+    ],
+    "SQ": [
+      3294
+    ],
+    "LQ": [
+      3295
+    ],
+    "MicroCrystalline_Tyrosine": [
+      3297
+    ],
+    "microcrystalline_tyrosine": [
+      3298
+    ],
+    "microcyrstalline_tyrosine": [
+      3299
+    ],
+    "microcyrstalline_tyrosine_mct": [
+      3300
+    ],
+    "GLA-SE": [
+      3301,
+      3302
+    ],
+    "gla-se": [
+      3303,
+      3304
+    ],
+    "gla-slq": [
+      3305,
+      3306
+    ],
+    "GLA-SLQ": [
+      3307,
+      3308
+    ],
+    "SLA-LSQ": [
+      3309,
+      3310
+    ],
+    "sla-lsq": [
+      3311,
+      3312
+    ],
+    "SLA-SE": [
+      3313
+    ],
+    "sla-se": [
+      3314
+    ],
+    "gla-af": [
+      3315,
+      3316
+    ],
+    "GLA-AF": [
+      3317,
+      3318
+    ],
+    "MAS-1": [
+      3319
+    ],
+    "mas-1": [
+      3320
+    ],
+    "prolng-s": [
+      3321,
+      3322,
+      3323
+    ],
+    "ProLNG-S": [
+      3324,
+      3325,
+      3326
+    ],
+    "caf09b": [
+      3327
+    ],
+    "CAF09b": [
+      3328
+    ],
+    "3m052-af": [
+      3329,
+      3330,
+      3331
+    ],
+    "3m-052-af": [
+      3332,
+      3333,
+      3334
+    ],
+    "3M-052-AF": [
+      3335,
+      3336,
+      3337
+    ],
+    "NanoAlum": [
+      3338
+    ],
+    "nanoalum": [
+      3339
+    ],
+    "nlc": [
+      3340
+    ],
+    "nanostructured_lipid_carrier": [
+      3341
+    ],
+    "Nanostructured_Lipid_Carrier_NLC": [
+      3342
+    ],
+    "nanostructured_lipid_carrier_nlc": [
+      3343
+    ],
+    "sla-af": [
+      3344,
+      3345
+    ],
+    "SLA-AF": [
+      3346,
+      3347
+    ],
+    "CAF01": [
+      3348,
+      3349
+    ],
+    "caf01": [
+      3350,
+      3351
+    ],
+    "caf-01": [
+      3352,
+      3353
+    ],
+    "bl-eng2": [
+      3355,
+      3356,
+      3357
+    ],
+    "Bl-Eng2": [
+      3358,
+      3359,
+      3360
+    ],
+    "bl-eng2+adjuplex": [
+      3361,
+      3362,
+      3363
+    ],
+    "Bl-Eng2+Adjuplex": [
+      3364,
+      3365,
+      3366
+    ],
+    "ctx-1796": [
+      3367
+    ],
+    "il-12-mop": [
+      3368
+    ],
+    "il-12-mop_ctx-1796": [
+      3369
+    ],
+    "IL-12-MOP_CTX-1796": [
+      3370
+    ],
+    "EVAX-B": [
+      3371
+    ],
+    "evax-b": [
+      3372
+    ],
+    "evax-s": [
+      3373
+    ],
+    "EVAX-S": [
+      3374
+    ],
+    "me-f-1122": [
+      3375
+    ],
+    "ME-F-1122": [
+      3376
+    ],
+    "CpG_1018": [
+      3377,
+      3378
+    ],
+    "cpg_1018": [
+      3379,
+      3380
+    ],
+    "iss-1018": [
+      3381,
+      3382
+    ],
+    "iss_1018_cpg_odn": [
+      3383,
+      3384
+    ],
+    "iss_1018_cpg_oligodeoxynucleotide": [
+      3385,
+      3386
+    ],
+    "7DW8-5": [
+      3387
+    ],
+    "7dw8-5": [
+      3388
+    ],
+    "1p7": [
+      3389,
+      3390
+    ],
+    "1P7": [
+      3391,
+      3392
+    ],
+    "3dsna": [
+      3393,
+      3394
+    ],
+    "3DSNA": [
+      3395,
+      3396
+    ],
+    "3prna": [
+      3397,
+      3398
+    ],
+    "3pRNA": [
+      3399,
+      3400
+    ],
+    "TLR1_agonist": [
+      3401
+    ],
+    "tlr1_agonist": [
+      3402
+    ],
+    "ADP-ribosylating": [
+      3403
+    ],
+    "adp-ribosylating": [
+      3404
+    ],
+    "adp-ribosylating_adjuvant": [
+      3405
+    ],
+    "AH_CpG": [
+      3406,
+      3407
+    ],
+    "ah_cpg": [
+      3408,
+      3409
+    ],
+    "Aikejia": [
+      3410
+    ],
+    "aikejia": [
+      3411
+    ],
+    "al-bsa-ce6_nps": [
+      3412
+    ],
+    "Al-BSA-Ce6_NPs": [
+      3413
+    ],
+    "Alarmin": [
+      3414
+    ],
+    "alarmin": [
+      3415
+    ],
+    "alarmin_il-33": [
+      3416
+    ],
+    "alf": [
+      3417
+    ],
+    "ALF": [
+      3418
+    ],
+    "algel-imdq": [
+      3419,
+      3420,
+      3421
+    ],
+    "Algel-IMDQ": [
+      3422,
+      3423,
+      3424
+    ],
+    "apns": [
+      3425
+    ],
+    "alo-polymer_nanoparticle": [
+      3426
+    ],
+    "alo-polymer_nanoparticles": [
+      3427
+    ],
+    "alo_oh_-polymer_nanoparticle": [
+      3428
+    ],
+    "AlO_OH_-polymer_nanoparticle": [
+      3429
+    ],
+    "alo_oh_-polymer_nanoparticles": [
+      3430
+    ],
+    "alum_and_il-10": [
+      3431
+    ],
+    "Alum_and_IL-10": [
+      3432
+    ],
+    "Alum/CpG-based_formulation": [
+      3433,
+      3434
+    ],
+    "alum/cpg-based_formulation": [
+      3435,
+      3436
+    ],
+    "AmpB": [
+      3438,
+      3439,
+      3440
+    ],
+    "ampb": [
+      3441,
+      3442,
+      3443
+    ],
+    "anxa2": [
+      3444
+    ],
+    "ANXA2": [
+      3445
+    ],
+    "AP": [
+      3446,
+      3447
+    ],
+    "ap_adjuvant": [
+      3448,
+      3449
+    ],
+    "APS": [
+      3450
+    ],
+    "aps": [
+      3451
+    ],
+    "astragalus_polysaccharides": [
+      3452
+    ],
+    "astragalus_polysaccharides_aps": [
+      3453
+    ],
+    "AS01": [
+      3454,
+      3455
+    ],
+    "as01": [
+      3456,
+      3457
+    ],
+    "Babassu_aqueous_extract": [
+      3458
+    ],
+    "babassu_aqueous_extract": [
+      3459
+    ],
+    "bvp22": [
+      3460
+    ],
+    "BVP22": [
+      3461
+    ],
+    "C3": [
+      3462
+    ],
+    "c3_adjuvant": [
+      3463
+    ],
+    "c6022": [
+      3464,
+      3465
+    ],
+    "c60_oh_22": [
+      3466,
+      3467
+    ],
+    "C60_OH_22": [
+      3468,
+      3469
+    ],
+    "CA-CpG": [
+      3471,
+      3472
+    ],
+    "ca-cpg": [
+      3473,
+      3474
+    ],
+    "CAF04": [
+      3475,
+      3476
+    ],
+    "caf04": [
+      3477,
+      3478
+    ],
+    "CAF05": [
+      3479,
+      3480
+    ],
+    "caf05": [
+      3481,
+      3482
+    ],
+    "caf06": [
+      3484,
+      3485
+    ],
+    "CAF06": [
+      3486,
+      3487
+    ],
+    "CAF19": [
+      3488,
+      3489
+    ],
+    "caf19": [
+      3490,
+      3491
+    ],
+    "caf23": [
+      3492,
+      3493
+    ],
+    "CAF23": [
+      3494,
+      3495
+    ],
+    "CAF24a": [
+      3496,
+      3497,
+      3498
+    ],
+    "caf24a": [
+      3499,
+      3500,
+      3501
+    ],
+    "Candida_skin_test_reagent": [
+      3502,
+      3503
+    ],
+    "candida_skin_test_reagent": [
+      3504,
+      3505
+    ],
+    "carbon-silica_nanocomposite": [
+      3507
+    ],
+    "caspase-1": [
+      3508
+    ],
+    "cbp-12": [
+      3509,
+      3510
+    ],
+    "CBP-12": [
+      3511,
+      3512
+    ],
+    "ccl19": [
+      3514
+    ],
+    "CCL19": [
+      3515
+    ],
+    "ccl21_and_il1beta": [
+      3516
+    ],
+    "CCL21_and_IL1beta": [
+      3517
+    ],
+    "GPI-CCL28": [
+      3518
+    ],
+    "gpi-ccl28": [
+      3519
+    ],
+    "CCL3": [
+      3520
+    ],
+    "ccl3": [
+      3521
+    ],
+    "ccl3_adjuvant": [
+      3522
+    ],
+    "ccl34": [
+      3523
+    ],
+    "CCL34": [
+      3524
+    ],
+    "ccl5": [
+      3525
+    ],
+    "CCL5": [
+      3526
+    ],
+    "ccl5_adjuvant": [
+      3527
+    ],
+    "CD226": [
+      3528
+    ],
+    "cd226": [
+      3529
+    ],
+    "CDG": [
+      3530,
+      3531
+    ],
+    "cdg": [
+      3532,
+      3533
+    ],
+    "CGAMP": [
+      3535,
+      3536
+    ],
+    "cgamp": [
+      3537,
+      3538
+    ],
+    "chitin": [
+      3540,
+      3541,
+      3542,
+      3543
+    ],
+    "Chitin": [
+      3544,
+      3545,
+      3546,
+      3547
+    ],
+    "CITCO": [
+      3551
+    ],
+    "citco": [
+      3552
+    ],
+    "CL429": [
+      3553,
+      3554,
+      3555
+    ],
+    "cl429": [
+      3556,
+      3557,
+      3558
+    ],
+    "CnB": [
+      3559
+    ],
+    "cnb": [
+      3560
+    ],
+    "CoVaccine_HT": [
+      3561,
+      3562,
+      3563
+    ],
+    "covaccine_ht": [
+      3564,
+      3565,
+      3566
+    ],
+    "cpg_7909": [
+      3567,
+      3568
+    ],
+    "CPG_7909": [
+      3569,
+      3570
+    ],
+    "cpg_and_dcmnp": [
+      3571,
+      3572
+    ],
+    "CpG_and_DcMNP": [
+      3573,
+      3574
+    ],
+    "CpG_M362": [
+      3575,
+      3576
+    ],
+    "cpg_m362": [
+      3577,
+      3578
+    ],
+    "caf10": [
+      3579,
+      3580
+    ],
+    "cpg_oligodeoxynucleotide_1826": [
+      3581,
+      3582
+    ],
+    "CpG_oligodeoxynucleotide_1826_CAF10": [
+      3583,
+      3584
+    ],
+    "cpg_oligodeoxynucleotide_1826_caf10": [
+      3585,
+      3586
+    ],
+    "cpg-muc1-hydrogel": [
+      3587,
+      3588
+    ],
+    "CpG-MUC1-hydrogel": [
+      3589,
+      3590
+    ],
+    "cpg-odn_and_coa-asc16": [
+      3591,
+      3592
+    ],
+    "CpG-ODN_and_Coa-ASC16": [
+      3593,
+      3594
+    ],
+    "Cry_protein": [
+      3595
+    ],
+    "cry_protein": [
+      3596
+    ],
+    "CS3": [
+      3597,
+      3598,
+      3599,
+      3600
+    ],
+    "cs3": [
+      3601,
+      3602,
+      3603,
+      3604
+    ],
+    "cs3_adjuvant": [
+      3605,
+      3606,
+      3607,
+      3608
+    ],
+    "CTA": [
+      3609
+    ],
+    "cta": [
+      3610
+    ],
+    "cta1-m2e-dd": [
+      3611
+    ],
+    "CTA1-M2e-DD": [
+      3612
+    ],
+    "cta2b": [
+      3613
+    ],
+    "CTA2B": [
+      3614
+    ],
+    "CTB": [
+      3615
+    ],
+    "curcumin": [
+      3616
+    ],
+    "cvc1302": [
+      3617,
+      3618,
+      3619,
+      3620
+    ],
+    "CVC1302": [
+      3621,
+      3622,
+      3623,
+      3624
+    ],
+    "cxcl11": [
+      3625
+    ],
+    "CXCL11": [
+      3626
+    ],
+    "CXCL9": [
+      3627
+    ],
+    "cxcl9": [
+      3628
+    ],
+    "cypa": [
+      3629
+    ],
+    "CyPA": [
+      3630
+    ],
+    "cyclophilin_a": [
+      3631
+    ],
+    "cyclophilin_a_cypa": [
+      3632
+    ],
+    "d-mannose": [
+      3633
+    ],
+    "D-mannose": [
+      3634
+    ],
+    "dai": [
+      3635
+    ],
+    "DAI": [
+      3636
+    ],
+    "dlindma": [
+      3637
+    ],
+    "DLinDMA": [
+      3638
+    ],
+    "DOTAP_and_DP7-C_liposomes": [
+      3639,
+      3640,
+      3641,
+      3642
+    ],
+    "dotap_and_dp7-c_liposomes": [
+      3643,
+      3644,
+      3645,
+      3646
+    ],
+    "egcg": [
+      3647
+    ],
+    "epigallocatechin-3-gallate": [
+      3648
+    ],
+    "fimh": [
+      3649,
+      3650
+    ],
+    "flab-pspa": [
+      3653,
+      3654
+    ],
+    "FLAB-PSPA": [
+      3655,
+      3656
+    ],
+    "flic": [
+      3657,
+      3658
+    ],
+    "FLIC": [
+      3659,
+      3660
+    ],
+    "Flt-3_ligand": [
+      3662
+    ],
+    "flt-3_ligand": [
+      3663
+    ],
+    "fuc-sc": [
+      3664,
+      3665,
+      3666
+    ],
+    "Fuc-Sc": [
+      3667,
+      3668,
+      3669
+    ],
+    "G2": [
+      3670
+    ],
+    "G3": [
+      3671
+    ],
+    "gc_icg_nanoparticle": [
+      3672
+    ],
+    "GC_ICG_nanoparticle": [
+      3673
+    ],
+    "gel-gffy": [
+      3674
+    ],
+    "Gel-gffy": [
+      3675
+    ],
+    "GITRL": [
+      3676
+    ],
+    "gitrl": [
+      3677
+    ],
+    "glycated_chitosan": [
+      3678,
+      3679,
+      3680
+    ],
+    "gm3": [
+      3682
+    ],
+    "GM3": [
+      3683
+    ],
+    "gp63": [
+      3684
+    ],
+    "granules_of_mast_cells": [
+      3685
+    ],
+    "Granules_of_mast_cells": [
+      3686
+    ],
+    "granulysin": [
+      3687
+    ],
+    "Granulysin": [
+      3688
+    ],
+    "Graphene_oxide": [
+      3689
+    ],
+    "graphene_oxide": [
+      3690
+    ],
+    "HAV-aCNP": [
+      3691
+    ],
+    "hav-acnp": [
+      3692
+    ],
+    "hbcag": [
+      3693,
+      3694
+    ],
+    "HBcAg": [
+      3695,
+      3696
+    ],
+    "HBHA": [
+      3697,
+      3698
+    ],
+    "hbha": [
+      3699,
+      3700
+    ],
+    "heparin-binding_hemagglutinin": [
+      3701,
+      3702
+    ],
+    "heparin-binding_hemagglutinin_hbha": [
+      3703,
+      3704
+    ],
+    "hexosomes": [
+      3705,
+      3706
+    ],
+    "hiv-1_protease": [
+      3707
+    ],
+    "HIV-1_protease": [
+      3708
+    ],
+    "hmba": [
+      3709
+    ],
+    "HMBA": [
+      3710
+    ],
+    "hmgb1": [
+      3711
+    ],
+    "HMGB1": [
+      3712
+    ],
+    "ibl027": [
+      3713,
+      3714
+    ],
+    "IBL027": [
+      3715,
+      3716
+    ],
+    "ifn-alpha": [
+      3717
+    ],
+    "IFN-alpha": [
+      3718
+    ],
+    "ifnbeta": [
+      3719
+    ],
+    "IFN-beta": [
+      3720
+    ],
+    "ifn-beta": [
+      3721
+    ],
+    "tlr2_agonist": [
+      3722
+    ],
+    "TLR2_agonist": [
+      3723
+    ],
+    "il-18": [
+      3724
+    ],
+    "IL-18": [
+      3725
+    ],
+    "il-1r1": [
+      3726
+    ],
+    "IL-1R1": [
+      3727
+    ],
+    "il-21": [
+      3728
+    ],
+    "IL-21": [
+      3729
+    ],
+    "il-27": [
+      3730
+    ],
+    "IL-27": [
+      3731
+    ],
+    "il33": [
+      3732
+    ],
+    "il-33": [
+      3733
+    ],
+    "IL-33": [
+      3734
+    ],
+    "IL-36": [
+      3735
+    ],
+    "il-36": [
+      3736
+    ],
+    "IL-4": [
+      3737
+    ],
+    "il-4": [
+      3738
+    ],
+    "IL-7-Fc": [
+      3739
+    ],
+    "il-7-fc": [
+      3740
+    ],
+    "lag-3": [
+      3741
+    ],
+    "IMP321": [
+      3742
+    ],
+    "imp321": [
+      3743
+    ],
+    "lag-3ig": [
+      3744
+    ],
+    "eftilagimod_alpha": [
+      3745
+    ],
+    "IP-PA1": [
+      3746,
+      3747
+    ],
+    "ip-pa1": [
+      3748,
+      3749
+    ],
+    "ipmp": [
+      3750,
+      3751
+    ],
+    "IPMP": [
+      3752,
+      3753
+    ],
+    "iron_oxide_nanoparticle": [
+      3754
+    ],
+    "iron_oxide_nanoparticles": [
+      3755
+    ],
+    "irx-2": [
+      3756
+    ],
+    "IRX-2": [
+      3757
+    ],
+    "isg15": [
+      3758
+    ],
+    "ISG15": [
+      3759
+    ],
+    "K3-SPG": [
+      3760,
+      3761
+    ],
+    "k3-spg": [
+      3762,
+      3763
+    ],
+    "KML-B": [
+      3764,
+      3765
+    ],
+    "kml-b": [
+      3766,
+      3767
+    ],
+    "Kynurenine": [
+      3768
+    ],
+    "kynurenine": [
+      3769
+    ],
+    "L-NAME": [
+      3770
+    ],
+    "l-name": [
+      3771
+    ],
+    "l-sirna": [
+      3772,
+      3773
+    ],
+    "L-siRNA": [
+      3774,
+      3775
+    ],
+    "lipid_nanoparticle-enclosed_sirna": [
+      3776,
+      3777
+    ],
+    "lipid_nanoparticle-enclosed_sirna_l-sirna": [
+      3778,
+      3779
+    ],
+    "light": [
+      3780
+    ],
+    "LIGHT": [
+      3781
+    ],
+    "Listeriolysin_O": [
+      3782,
+      3783
+    ],
+    "listeriolysin_o": [
+      3784,
+      3785
+    ],
+    "lp-gmp": [
+      3786,
+      3787,
+      3788
+    ],
+    "LP-GMP": [
+      3789,
+      3790,
+      3791
+    ],
+    "lt-iib": [
+      3792
+    ],
+    "LT-IIb": [
+      3793
+    ],
+    "man-tlr7": [
+      3794,
+      3795
+    ],
+    "Man-TLR7": [
+      3796,
+      3797
+    ],
+    "bcg": [
+      3798
+    ],
+    "mcp-3": [
+      3799
+    ],
+    "MCP-3": [
+      3800
+    ],
+    "bcg_mcp-3": [
+      3801
+    ],
+    "MDA5": [
+      3802,
+      3803
+    ],
+    "mda5": [
+      3804,
+      3805
+    ],
+    "mdp-1": [
+      3806,
+      3807,
+      3808
+    ],
+    "MDP-1": [
+      3809,
+      3810,
+      3811
+    ],
+    "mesoporous_silica_nanoparticle": [
+      3812
+    ],
+    "MIP-2": [
+      3813
+    ],
+    "mip-2": [
+      3814
+    ],
+    "mmg-1": [
+      3815,
+      3816
+    ],
+    "MMG-1": [
+      3817,
+      3818
+    ],
+    "msp-102": [
+      3819,
+      3820
+    ],
+    "MSP-102": [
+      3821,
+      3822
+    ],
+    "MUC1_based_adjuvant-protein-antigen": [
+      3823,
+      3824
+    ],
+    "muc1_based_adjuvant-protein-antigen": [
+      3825,
+      3826
+    ],
+    "myd88_and_cd40": [
+      3827
+    ],
+    "MyD88_and_CD40": [
+      3828
+    ],
+    "Myd88": [
+      3829
+    ],
+    "myd88": [
+      3830
+    ],
+    "Naltrexone": [
+      3831
+    ],
+    "naltrexone": [
+      3832
+    ],
+    "np_dna": [
+      3833,
+      3834
+    ],
+    "NP_DNA": [
+      3835,
+      3836
+    ],
+    "np_dna_adjuvant": [
+      3837,
+      3838
+    ],
+    "NP-3pRNA-CpG": [
+      3839,
+      3840,
+      3841
+    ],
+    "np-3prna-cpg": [
+      3842,
+      3843,
+      3844
+    ],
+    "NP-R_M-M": [
+      3845,
+      3846
+    ],
+    "np-r_m-m": [
+      3847,
+      3848
+    ],
+    "OK-432": [
+      3849,
+      3850
+    ],
+    "ok-432": [
+      3851,
+      3852
+    ],
+    "ompc-tlr2": [
+      3853,
+      3854
+    ],
+    "OMPC-TLR2": [
+      3855,
+      3856
+    ],
+    "ophiopogonin_d": [
+      3857
+    ],
+    "Ophiopogonin_D": [
+      3858
+    ],
+    "ova-csnlcs": [
+      3859
+    ],
+    "OVA-csNLCs": [
+      3860
+    ],
+    "ova-lnps": [
+      3861
+    ],
+    "OVA-LNPs": [
+      3862
+    ],
+    "p2et": [
+      3863
+    ],
+    "P2Et": [
+      3864
+    ],
+    "PAA_nanoalum": [
+      3865
+    ],
+    "paa_nanoalum": [
+      3866
+    ],
+    "pamk": [
+      3867,
+      3868
+    ],
+    "PAMK": [
+      3869,
+      3870
+    ],
+    "PAPE": [
+      3871
+    ],
+    "pape": [
+      3872
+    ],
+    "pei-ppas": [
+      3873
+    ],
+    "PEI-PPAS": [
+      3874
+    ],
+    "pet_lipid_a": [
+      3875,
+      3876
+    ],
+    "PET_Lipid_A": [
+      3877,
+      3878
+    ],
+    "PhotothermalPhage": [
+      3879,
+      3880
+    ],
+    "photothermalphage": [
+      3881,
+      3882
+    ],
+    "PI-RI": [
+      3883,
+      3884,
+      3885
+    ],
+    "pi-ri": [
+      3886,
+      3887,
+      3888
+    ],
+    "PI-sRI": [
+      3890,
+      3891,
+      3892
+    ],
+    "pi-sri": [
+      3893,
+      3894,
+      3895
+    ],
+    "pinaceae-derived_nanoemulsions": [
+      3896
+    ],
+    "Pinaceae-derived_nanoemulsions": [
+      3897
+    ],
+    "pla-b-p": [
+      3898
+    ],
+    "nas-co-nvp": [
+      3899
+    ],
+    "pla-b-p_nas-co-nvp": [
+      3900
+    ],
+    "PLA-b-P_NAS-co-NVP": [
+      3901
+    ],
+    "Platycodin_D": [
+      3902
+    ],
+    "platycodin_d": [
+      3903
+    ],
+    "platycodin_d_pd": [
+      3904
+    ],
+    "plga_nanoparticle": [
+      3905
+    ],
+    "PLGA_nanoparticle": [
+      3906
+    ],
+    "lactic-co-glycolic_acid": [
+      3907
+    ],
+    "poly_lactic-co-glycolic_acid": [
+      3908
+    ],
+    "pnps-0.3": [
+      3909,
+      3910,
+      3911
+    ],
+    "PNPS-0.3": [
+      3912,
+      3913,
+      3914
+    ],
+    "pcl_and_chitosan_nps": [
+      3915
+    ],
+    "Poly-_-caprolactone_and_chitosan_nanoparticle": [
+      3916
+    ],
+    "poly-_-caprolactone_and_chitosan_nanoparticle": [
+      3917
+    ],
+    "Polyethyleneimine": [
+      3918
+    ],
+    "polyethyleneimine": [
+      3919
+    ],
+    "PolyIC_LC": [
+      3920,
+      3921,
+      3922
+    ],
+    "polyic_lc": [
+      3923,
+      3924,
+      3925
+    ],
+    "polysorbitol-co-pei_polymer": [
+      3926
+    ],
+    "polysorbitol-co-PEI_polymer": [
+      3927
+    ],
+    "porous_silicon_microparticle": [
+      3928
+    ],
+    "p._acnes": [
+      3929,
+      3930,
+      3931
+    ],
+    "propionibacterium_acnes": [
+      3932,
+      3933,
+      3934
+    ],
+    "Propionibacterium_acnes": [
+      3935,
+      3936,
+      3937
+    ],
+    "propionibacterium_acnes_p._acnes": [
+      3938,
+      3939,
+      3940
+    ],
+    "pSPreS2": [
+      3941
+    ],
+    "pspres2": [
+      3942
+    ],
+    "qs-17_and18": [
+      3943
+    ],
+    "QS-17_and_QS-18": [
+      3944
+    ],
+    "qs-17_and_qs-18": [
+      3945
+    ],
+    "raldh2": [
+      3946
+    ],
+    "RALDH2": [
+      3947
+    ],
+    "retinoic_acid_and_IL-15": [
+      3948
+    ],
+    "retinoic_acid_and_il-15": [
+      3949
+    ],
+    "rhp-nap": [
+      3950,
+      3951
+    ],
+    "rHP-NAP": [
+      3952,
+      3953
+    ],
+    "rnadjuvant": [
+      3954,
+      3955
+    ],
+    "RNadjuvant": [
+      3956,
+      3957
+    ],
+    "rNDV-mOX40L": [
+      3958
+    ],
+    "rndv-mox40l": [
+      3959
+    ],
+    "Rotavirus_VP6": [
+      3960,
+      3961
+    ],
+    "rotavirus_vp6": [
+      3962,
+      3963
+    ],
+    "Rv3628": [
+      3964,
+      3965
+    ],
+    "rv3628": [
+      3966,
+      3967
+    ],
+    "SAG1_and_TLR-5_ligand": [
+      3968,
+      3969
+    ],
+    "sag1_and_tlr-5_ligand": [
+      3970,
+      3971
+    ],
+    "shrimp_anti-lipopolysaccharide_factor": [
+      3972
+    ],
+    "Shrimp_anti-lipopolysaccharide_factor": [
+      3973
+    ],
+    "solid_nanoemulsion": [
+      3974,
+      3975
+    ],
+    "solid-in-oil-in-water_emulsion": [
+      3976
+    ],
+    "sPD-1": [
+      3977
+    ],
+    "spd-1": [
+      3978
+    ],
+    "sPLA2": [
+      3979
+    ],
+    "spla2": [
+      3980
+    ],
+    "spontaneous_nanoliposome_antigen_particleization": [
+      3981
+    ],
+    "sticholysin_II": [
+      3982,
+      3983
+    ],
+    "sticholysin_ii": [
+      3984,
+      3985
+    ],
+    "synthetic_melanin": [
+      3986
+    ],
+    "t-nanocpg": [
+      3987,
+      3988
+    ],
+    "t-NanoCpG": [
+      3989,
+      3990
+    ],
+    "t7-alum": [
+      3991,
+      3992
+    ],
+    "T7-alum": [
+      3993,
+      3994
+    ],
+    "alum-tlr7": [
+      3995,
+      3996
+    ],
+    "trpps": [
+      3998
+    ],
+    "Taishan_Robinia_Pseudoacacia_polysaccharide": [
+      3999
+    ],
+    "taishan_robinia_pseudoacacia_polysaccharide": [
+      4000
+    ],
+    "taishan_robinia_pseudoacacia_polysaccharides": [
+      4001
+    ],
+    "TDM": [
+      4002,
+      4003
+    ],
+    "tdm": [
+      4004,
+      4005
+    ],
+    "trehalose-6_6_-dimycolate": [
+      4006,
+      4007
+    ],
+    "trehalose-6_6_-dimycolate_tdm": [
+      4008,
+      4009
+    ],
+    "TF-Al": [
+      4010,
+      4011
+    ],
+    "tf-al": [
+      4012,
+      4013
+    ],
+    "thymosin_alpha-1": [
+      4015
+    ],
+    "TLR_agonist": [
+      4016
+    ],
+    "tlr_agonist": [
+      4017
+    ],
+    "tlr7_agonist_and_nod2_agonist": [
+      4018,
+      4019,
+      4020
+    ],
+    "TLR7_agonist_and_NOD2_agonist": [
+      4021,
+      4022,
+      4023
+    ],
+    "TLR7-8_RNA_ligands": [
+      4024,
+      4025,
+      4026
+    ],
+    "tlr7-8_rna_ligands": [
+      4027,
+      4028,
+      4029
+    ],
+    "trichosanthin": [
+      4030,
+      4031
+    ],
+    "trif": [
+      4032,
+      4033,
+      4034
+    ],
+    "TRIF": [
+      4035,
+      4036,
+      4037
+    ],
+    "tex": [
+      4038
+    ],
+    "texs": [
+      4039
+    ],
+    "tumour-derived_exosome": [
+      4040
+    ],
+    "Tumour-derived_exosome": [
+      4041
+    ],
+    "tumour-derived_exosomes": [
+      4042
+    ],
+    "tumour-derived_exosomes_texs": [
+      4043
+    ],
+    "U-Omp19_and_alum": [
+      4044
+    ],
+    "u-omp19_and_alum": [
+      4045
+    ],
+    "VISA": [
+      4046,
+      4047
+    ],
+    "visa": [
+      4048,
+      4049
+    ],
+    "alpha-galactosylceramide": [
+      4050
+    ],
+    "alpha-galcer_and_mpl": [
+      4051,
+      4052
+    ],
+    "alpha-GalCer_and_MPL": [
+      4053,
+      4054
+    ],
+    "LAB_EPS": [
+      4055,
+      4056,
+      4057
+    ],
+    "lab_eps": [
+      4058,
+      4059,
+      4060
+    ],
+    "pcIFN-gamma": [
+      4061
+    ],
+    "pcifn-gamma": [
+      4062
+    ],
+    "rcil-15": [
+      4063
+    ],
+    "rcIL-15": [
+      4064
+    ],
+    "aav-il-27": [
+      4065
+    ],
+    "AAV-IL-27": [
+      4066
+    ],
+    "c-di-amp": [
+      4067,
+      4068
+    ],
+    "c-di-AMP": [
+      4069,
+      4070
+    ],
+    "vlp_silica": [
+      4071
+    ],
+    "VLP_Silica": [
+      4072
+    ],
+    "DP-D": [
+      4073
+    ],
+    "dp-d": [
+      4074
+    ],
+    "T7-EA": [
+      4075,
+      4076
+    ],
+    "t7-ea": [
+      4077,
+      4078
+    ],
+    "v155m": [
+      4079,
+      4080
+    ],
+    "STING_V155M": [
+      4081,
+      4082
+    ],
+    "sting_v155m": [
+      4083,
+      4084
+    ],
+    "LCP": [
+      4085,
+      4086
+    ],
+    "lcp": [
+      4087,
+      4088
+    ],
+    "TLR3_agonist": [
+      4089
+    ],
+    "tlr3_agonist": [
+      4090
+    ],
+    "Ad-SLC": [
+      4091
+    ],
+    "ad-slc": [
+      4092
+    ],
+    "TLR4_agonist": [
+      4093
+    ],
+    "tlr4_agonist": [
+      4094
+    ],
+    "AS15": [
+      4095,
+      4096,
+      4097
+    ],
+    "as15": [
+      4098,
+      4099,
+      4100
+    ],
+    "as1517499": [
+      4101
+    ],
+    "AS1517499": [
+      4102
+    ],
+    "tlr5_agonist": [
+      4103
+    ],
+    "TLR5_agonist": [
+      4104
+    ],
+    "tlr6_agonist": [
+      4105
+    ],
+    "TLR6_agonist": [
+      4106
+    ],
+    "tlr7_agonist": [
+      4107
+    ],
+    "TLR7_agonist": [
+      4108
+    ],
+    "L._polysaccharide": [
+      4109
+    ],
+    "l._polysaccharide": [
+      4110
+    ],
+    "tlr8_agonist": [
+      4111
+    ],
+    "TLR8_agonist": [
+      4112
+    ],
+    "TLR9_agonist": [
+      4113
+    ],
+    "tlr9_agonist": [
+      4114
+    ],
+    "ns-tlr": [
+      4115,
+      4116
+    ],
+    "NS-TLR": [
+      4117,
+      4118
+    ],
+    "sbas2": [
+      4119,
+      4120
+    ],
+    "SBAS2": [
+      4121,
+      4122
+    ],
+    "tfpr1": [
+      4123,
+      4124
+    ],
+    "TFPR1": [
+      4125,
+      4126
+    ],
+    "murabutide": [
+      4127,
+      4128
+    ],
+    "Murabutide": [
+      4129,
+      4130
+    ],
+    "ace-dex": [
+      4131
+    ],
+    "Ace-DEX": [
+      4132
+    ],
+    "GDQ": [
+      4133,
+      4134
+    ],
+    "gdq": [
+      4135,
+      4136
+    ],
+    "NADA": [
+      4137,
+      4138
+    ],
+    "nada": [
+      4139,
+      4140
+    ],
+    "smq": [
+      4141,
+      4142
+    ],
+    "SMQ": [
+      4143,
+      4144
+    ],
+    "PHAD": [
+      4145,
+      4146
+    ],
+    "phad": [
+      4147,
+      4148
+    ],
+    "st101036": [
+      4149
+    ],
+    "ST101036": [
+      4150
+    ],
+    "MIP-1alpha": [
+      4151
+    ],
+    "mip-1alpha": [
+      4152
+    ],
+    "levamisole": [
+      4153
+    ],
+    "Levamisole": [
+      4154
+    ],
+    "Hsp65": [
+      4155,
+      4156,
+      4157
+    ],
+    "hsp65": [
+      4158,
+      4159,
+      4160
+    ],
+    "hvj-envelope": [
+      4161
+    ],
+    "HVJ-Envelope": [
+      4162
+    ],
+    "gpi-0100": [
+      4163
+    ],
+    "GPI-0100": [
+      4164
+    ],
+    "Tween_80": [
+      4165
+    ],
+    "tween_80": [
+      4166
+    ],
+    "EP67": [
+      4167
+    ],
+    "ep67": [
+      4168
+    ],
+    "1Z105": [
+      4169,
+      4170
+    ],
+    "1z105": [
+      4171,
+      4172
+    ],
+    "curdlan": [
+      4174,
+      4175
+    ],
+    "Curdlan": [
+      4176,
+      4177
+    ],
+    "carp-1": [
+      4178
+    ],
+    "CARP-1": [
+      4179
+    ],
+    "ASPPR": [
+      4180,
+      4181,
+      4182
+    ],
+    "asppr": [
+      4183,
+      4184,
+      4185
+    ],
+    "blp": [
+      4186,
+      4187
+    ],
+    "BLP": [
+      4188,
+      4189
+    ],
+    "C5a": [
+      4190
+    ],
+    "c5a": [
+      4191
+    ],
+    "hp-beta-cd": [
+      4192
+    ],
+    "HP-beta-CD": [
+      4193
+    ],
+    "CARP-2": [
+      4194
+    ],
+    "carp-2": [
+      4195
+    ],
+    "LMQ": [
+      4196,
+      4197
+    ],
+    "lmq": [
+      4198,
+      4199
+    ],
+    "CPDI-02": [
+      4200
+    ],
+    "cpdi-02": [
+      4201
+    ],
+    "cpg55.2": [
+      4202,
+      4203
+    ],
+    "CpG55.2": [
+      4204,
+      4205
+    ],
+    "smnp": [
+      4206,
+      4207
+    ],
+    "SMNP": [
+      4208,
+      4209
+    ],
+    "saponin_and_mpla_nanoparticle": [
+      4210,
+      4211
+    ],
+    "saponin_and_mpla_nanoparticles": [
+      4212,
+      4213
+    ],
+    "ALFQ": [
+      4214,
+      4215
+    ],
+    "alfq": [
+      4216,
+      4217
+    ],
+    "2g023a": [
+      4218,
+      4219
+    ],
+    "2G023A": [
+      4220,
+      4221
+    ],
+    "2g053": [
+      4222,
+      4223
+    ],
+    "2G053": [
+      4224,
+      4225
+    ],
+    "GLA-Alum": [
+      4226,
+      4227
+    ],
+    "gla-alum": [
+      4228,
+      4229
+    ],
+    "sla-alum": [
+      4230,
+      4231
+    ],
+    "SLA-Alum": [
+      4232,
+      4233
+    ],
+    "stable_emulsion": [
+      4234
+    ],
+    "Stable_Emulsion_SE": [
+      4235
+    ],
+    "stable_emulsion_se": [
+      4236
+    ],
+    "A-910823": [
+      4237
+    ],
+    "a-910823": [
+      4238
+    ],
+    "S-540956": [
+      4239,
+      4240
+    ],
+    "s-540956": [
+      4241,
+      4242
+    ],
+    "precision_vaccines_program-057": [
+      4245,
+      4246
+    ],
+    "precision_vaccines_program_-057": [
+      4247,
+      4248
+    ],
+    "precision_vaccines_program_pvp_-057": [
+      4249,
+      4250
+    ],
+    "acm-cpg": [
+      4251,
+      4252
+    ],
+    "ACM-CpG": [
+      4253,
+      4254
+    ],
+    "cowpea_mosaic_virus": [
+      4255,
+      4256,
+      4257,
+      4258
+    ],
+    "nvt": [
+      4259,
+      4260
+    ],
+    "nexavant": [
+      4261,
+      4262
+    ],
+    "nexavant_nvt": [
+      4263,
+      4264
+    ]
+  },
+  "Type": {
+    "Nanoparticle": [
+      1,
+      11,
+      21,
+      31,
+      41,
+      51,
+      61,
+      71,
+      81,
+      95,
+      173,
+      181,
+      474,
+      482,
+      490,
+      498,
+      506,
+      514,
+      522,
+      530,
+      647,
+      652,
+      657,
+      662,
+      667,
+      674,
+      809,
+      1167,
+      1171,
+      1175,
+      1181,
+      1187,
+      1193,
+      1199,
+      1205,
+      1211,
+      1217,
+      1223,
+      1227,
+      1290,
+      1295,
+      1300,
+      1305,
+      1310,
+      1315,
+      1320,
+      1325,
+      1604,
+      1607,
+      1610,
+      1613,
+      1616,
+      1619,
+      1656,
+      1660,
+      1666,
+      1922,
+      1932,
+      1937,
+      1947,
+      1957,
+      1967,
+      1973,
+      1978,
+      1983,
+      2199,
+      2202,
+      2205,
+      2208,
+      2211,
+      2220,
+      2399,
+      2404,
+      2409,
+      2414,
+      2419,
+      2429,
+      2432,
+      2446,
+      2449,
+      2452,
+      2455,
+      2458,
+      2465,
+      2469,
+      2475,
+      2482,
+      2487,
+      2492,
+      2497,
+      2502,
+      2507,
+      2525,
+      2530,
+      2535,
+      2540,
+      2545,
+      2550
+    ],
+    "Emulsion": [
+      143,
+      153,
+      163,
+      689,
+      697,
+      705,
+      713,
+      721,
+      729,
+      737,
+      765,
+      2519,
+      2566,
+      2569
+    ],
+    "Adjuvant": [
+      202,
+      209,
+      220,
+      231
+    ],
+    "Antigen": [
+      216,
+      227
+    ],
+    "Particle": [
+      242,
+      263,
+      269,
+      275,
+      281,
+      544,
+      551,
+      559,
+      567,
+      575,
+      583,
+      591,
+      599,
+      607,
+      615,
+      623,
+      631,
+      1241,
+      1246,
+      1251,
+      1256,
+      1261,
+      1266,
+      1271,
+      1276,
+      1463,
+      1468,
+      1473,
+      1478,
+      1483,
+      1488,
+      1501,
+      1506,
+      1511,
+      1517,
+      1525,
+      1530,
+      1535,
+      1540,
+      1545,
+      1555,
+      1560,
+      1571,
+      1574,
+      1577,
+      1580,
+      1583,
+      1586,
+      1589,
+      1592
+    ],
+    "Virus": [
+      248,
+      253,
+      258,
+      287,
+      971,
+      976,
+      981,
+      986,
+      991,
+      996,
+      1001,
+      1006,
+      1011,
+      1016,
+      1021,
+      1026,
+      1031,
+      1036,
+      1041,
+      1046,
+      1051,
+      1056,
+      1061
+    ],
+    "Molecule": [
+      305,
+      313,
+      322,
+      331,
+      340,
+      349,
+      358,
+      367,
+      376,
+      388,
+      397,
+      406,
+      415,
+      424,
+      433,
+      442,
+      451,
+      862,
+      867,
+      876,
+      881,
+      886,
+      891,
+      896,
+      1622,
+      1627,
+      1632,
+      1637,
+      1642,
+      1647,
+      1811,
+      1816,
+      1825,
+      1837,
+      1849,
+      1854,
+      1862,
+      1870,
+      1875,
+      1878,
+      1883,
+      2050,
+      2055,
+      2058,
+      2063,
+      2069,
+      2074,
+      2079,
+      2084,
+      2089,
+      2094,
+      2099,
+      2176,
+      2186,
+      2266,
+      2269,
+      2272,
+      2285,
+      2288,
+      2291
+    ],
+    "Protein": [
+      753,
+      757,
+      761,
+      774,
+      778,
+      1677,
+      1681,
+      1685,
+      1689,
+      1693,
+      1697,
+      1701,
+      1705,
+      1709,
+      1822,
+      1831,
+      1834,
+      1843,
+      1846,
+      1859,
+      1866,
+      1889,
+      1892,
+      1895,
+      1927,
+      1942,
+      1952,
+      1962,
+      2008,
+      2013,
+      2018,
+      2023,
+      2358,
+      2363,
+      2368,
+      2373,
+      2378,
+      2383
+    ],
+    "DNA plasmid": [
+      789,
+      793,
+      797,
+      801,
+      805
+    ],
+    "Bioconjugate": [
+      822,
+      827,
+      832,
+      837,
+      842,
+      847,
+      852
+    ],
+    "RNA": [
+      910,
+      914,
+      918,
+      922,
+      926,
+      930,
+      934,
+      938,
+      942,
+      946,
+      950,
+      954,
+      958
+    ],
+    "Hydrogel": [
+      1078,
+      1083,
+      1088,
+      1093,
+      1098,
+      1103,
+      1108,
+      1113,
+      1118,
+      1123,
+      1128,
+      1133,
+      1138,
+      1143,
+      1148,
+      1153
+    ],
+    "Tablet": [
+      1334,
+      1338,
+      1342,
+      1346,
+      1350,
+      1354,
+      1358,
+      1362,
+      1366
+    ],
+    "Microneedling": [
+      1381,
+      1386,
+      1391,
+      1396,
+      1401,
+      1406,
+      1411,
+      1416,
+      1421
+    ],
+    "Peptide": [
+      1434,
+      1438,
+      1442,
+      1446,
+      1450,
+      1454
+    ],
+    "Inorganic salt": [
+      1550,
+      1725,
+      1730,
+      1735,
+      1740,
+      1745,
+      1750,
+      1755,
+      2116,
+      2121,
+      2126,
+      2131,
+      2136,
+      2141,
+      2146,
+      2151,
+      2572
+    ],
+    "Protein epitope": [
+      1766,
+      1771,
+      1776,
+      1781,
+      1786,
+      1791
+    ],
+    "Virus like particle": [
+      2032,
+      2037,
+      2042,
+      2299,
+      2307,
+      2312,
+      2317,
+      2322,
+      2327
+    ],
+    "DNA": [
+      2171,
+      2181
+    ],
+    "Protein toxin": [
+      2231,
+      2236,
+      2241,
+      2246,
+      2251,
+      2256,
+      2261
+    ]
+  },
+  "Size": {
+    "Quantity([10.0-20.0] nm)": [
+      2,
+      12,
+      22,
+      32,
+      42,
+      52,
+      62,
+      72,
+      82
+    ],
+    "10–20 nm": [
+      90
+    ],
+    "Micro": [
+      638
+    ],
+    "85nm": [
+      683
+    ],
+    "30-40nm": [
+      783,
+      784
+    ],
+    "180nm": [
+      813
+    ],
+    "320nm": [
+      1329
+    ],
+    "60-105nm": [
+      1671
+    ],
+    "110nm": [
+      1673
+    ],
+    "60-200nm": [
+      1675
+    ],
+    "under 100nm": [
+      1987
+    ],
+    "900nm": [
+      2225,
+      2226
+    ],
+    "26nm": [
+      2554
+    ],
+    "10 to 100 nm": [
+      5443
+    ],
+    "20 to 200 nm": [
+      5504
+    ],
+    "300 to 350 nm": [
+      5507
+    ],
+    "less than 10 nm": [
+      5525
+    ],
+    "greater than 100 nm": [
+      5529
+    ],
+    "under 10 micrometers": [
+      5644
+    ]
+  },
+  "Method": {
+    "Assemble": [
+      3,
+      13,
+      23,
+      33,
+      43,
+      53,
+      63,
+      73,
+      83,
+      306,
+      314,
+      323,
+      332,
+      341,
+      350,
+      359,
+      368,
+      377,
+      389,
+      398,
+      407,
+      416,
+      425,
+      434,
+      443,
+      452,
+      668,
+      675,
+      1464,
+      1469,
+      1474,
+      1479,
+      1484,
+      1489,
+      1502,
+      1507,
+      1512,
+      1518,
+      1526,
+      1531,
+      1536,
+      1541,
+      1546,
+      1556,
+      1561,
+      2033,
+      2038,
+      2043,
+      2400,
+      2405,
+      2410,
+      2415,
+      2420
+    ],
+    "assemble": [
+      4,
+      14,
+      24,
+      34,
+      44,
+      54,
+      64,
+      74,
+      84,
+      307,
+      315,
+      324,
+      333,
+      342,
+      351,
+      360,
+      369,
+      378,
+      390,
+      399,
+      408,
+      417,
+      426,
+      435,
+      444,
+      453,
+      553,
+      561,
+      569,
+      577,
+      585,
+      593,
+      601,
+      609,
+      617,
+      625,
+      633,
+      676,
+      1465,
+      1470,
+      1475,
+      1480,
+      1485,
+      1490,
+      1503,
+      1508,
+      1513,
+      1519,
+      1527,
+      1532,
+      1537,
+      1542,
+      1547,
+      1557,
+      1562,
+      2034,
+      2039,
+      2044,
+      2401,
+      2406,
+      2411,
+      2416,
+      2421
+    ],
+    "melittin loaded onto alpha peptide NP scaffold": [
+      5,
+      15,
+      25,
+      35,
+      45,
+      55,
+      65,
+      75,
+      85
+    ],
+    "Thin lipid film extrusion": [
+      96,
+      103,
+      110,
+      117,
+      124
+    ],
+    "conjugate": [
+      97,
+      104,
+      111,
+      118,
+      125,
+      476,
+      484,
+      492,
+      500,
+      508,
+      516,
+      524,
+      532,
+      824,
+      829,
+      834,
+      839,
+      844,
+      849,
+      854,
+      973,
+      978,
+      983,
+      988,
+      993,
+      998,
+      1003,
+      1008,
+      1013,
+      1018,
+      1023,
+      1028,
+      1033,
+      1038,
+      1043,
+      1048,
+      1053,
+      1058,
+      1063,
+      1243,
+      1248,
+      1253,
+      1258,
+      1263,
+      1268,
+      1273,
+      1813,
+      1818,
+      1827,
+      1839,
+      1851,
+      1856,
+      1872,
+      1880,
+      1885,
+      1899,
+      1924,
+      1934,
+      1939,
+      1949,
+      1959,
+      1975,
+      1980,
+      1985
+    ],
+    "DDA bromide with TDB": [
+      98,
+      105,
+      112,
+      119,
+      126
+    ],
+    "Encapsulate": [
+      131,
+      137,
+      174,
+      182,
+      648,
+      653,
+      658,
+      663,
+      1079,
+      1084,
+      1089,
+      1094,
+      1099,
+      1104,
+      1109,
+      1114,
+      1119,
+      1124,
+      1129,
+      1134,
+      1139,
+      1144,
+      1149,
+      1154,
+      1176,
+      1182,
+      1188,
+      1194,
+      1200,
+      1206,
+      1212,
+      1218,
+      1228,
+      1291,
+      1296,
+      1301,
+      1306,
+      1311,
+      1316,
+      1321,
+      1326,
+      1382,
+      1387,
+      1392,
+      1397,
+      1402,
+      1407,
+      1412,
+      1417,
+      1422
+    ],
+    "encapsulate": [
+      132,
+      138,
+      175,
+      183,
+      649,
+      654,
+      659,
+      664,
+      1080,
+      1085,
+      1090,
+      1095,
+      1100,
+      1105,
+      1110,
+      1115,
+      1120,
+      1125,
+      1130,
+      1135,
+      1140,
+      1145,
+      1150,
+      1155,
+      1177,
+      1183,
+      1189,
+      1195,
+      1201,
+      1207,
+      1213,
+      1219,
+      1229,
+      1292,
+      1297,
+      1302,
+      1307,
+      1312,
+      1317,
+      1322,
+      1327,
+      1383,
+      1388,
+      1393,
+      1398,
+      1403,
+      1408,
+      1413,
+      1418,
+      1423
+    ],
+    "Mix": [
+      144,
+      154,
+      164,
+      244,
+      265,
+      271,
+      277,
+      283,
+      690,
+      698,
+      706,
+      714,
+      722,
+      730,
+      738,
+      810,
+      1551,
+      1623,
+      1628,
+      1633,
+      1638,
+      1643,
+      1648,
+      1726,
+      1731,
+      1736,
+      1741,
+      1746,
+      1751,
+      1756,
+      2051,
+      2059,
+      2064,
+      2070,
+      2075,
+      2080,
+      2085,
+      2090,
+      2095,
+      2100,
+      2117,
+      2122,
+      2127,
+      2132,
+      2137,
+      2142,
+      2147,
+      2152,
+      2232,
+      2237,
+      2242,
+      2247,
+      2252,
+      2257,
+      2262,
+      2526,
+      2531,
+      2536,
+      2541,
+      2546,
+      2551,
+      2573
+    ],
+    "mix": [
+      145,
+      155,
+      165,
+      245,
+      266,
+      272,
+      278,
+      284,
+      691,
+      699,
+      707,
+      715,
+      723,
+      731,
+      739,
+      811,
+      1552,
+      1624,
+      1629,
+      1634,
+      1639,
+      1644,
+      1649,
+      1727,
+      1732,
+      1737,
+      1742,
+      1747,
+      1752,
+      1757,
+      2052,
+      2060,
+      2065,
+      2071,
+      2076,
+      2081,
+      2086,
+      2091,
+      2096,
+      2101,
+      2118,
+      2123,
+      2128,
+      2133,
+      2138,
+      2143,
+      2148,
+      2153,
+      2233,
+      2238,
+      2243,
+      2248,
+      2253,
+      2258,
+      2263,
+      2527,
+      2532,
+      2537,
+      2542,
+      2547,
+      2552,
+      2574
+    ],
+    "Clone": [
+      204,
+      211,
+      222,
+      233,
+      790,
+      794,
+      798,
+      802,
+      806
+    ],
+    "VP2 cloned into pcDNA3 vector under CMV promoter": [
+      205,
+      212,
+      223,
+      234
+    ],
+    "VP6 cloned into pcDNA3 vector under CMV promoter": [
+      217,
+      228
+    ],
+    "VLP mixed with ISCOM matrix": [
+      246,
+      267,
+      273,
+      279,
+      285
+    ],
+    "Attenuation": [
+      250,
+      255,
+      260,
+      289
+    ],
+    "Live attenuated rotavirus": [
+      251,
+      256,
+      261,
+      290
+    ],
+    "Lysine scaffold with 4R fanlike": [
+      308,
+      316,
+      325,
+      334,
+      343,
+      352,
+      361,
+      370,
+      379,
+      427,
+      436,
+      445,
+      454
+    ],
+    "Linear K backbone with pendant R": [
+      385
+    ],
+    "Linear contiguous 4R": [
+      391,
+      400,
+      409,
+      418
+    ],
+    "Sortase A conjugation": [
+      475,
+      483,
+      491,
+      499,
+      507,
+      515,
+      523,
+      531
+    ],
+    "Sortase A mediated RBD ferritin ligation": [
+      477,
+      485,
+      493,
+      501,
+      509,
+      517,
+      525,
+      533
+    ],
+    "Imine condensation": [
+      545,
+      552,
+      560,
+      568,
+      576,
+      584,
+      592,
+      600,
+      608,
+      616,
+      624,
+      632
+    ],
+    "TAPB PDA condensation short reaction time": [
+      546,
+      554,
+      562,
+      570,
+      578,
+      586,
+      594,
+      602,
+      610,
+      618,
+      626,
+      634
+    ],
+    "mRNA encapsulated inside LNP": [
+      650,
+      655,
+      660,
+      665
+    ],
+    "Ionizable lipid with helper lipids": [
+      669,
+      677
+    ],
+    "Express": [
+      754,
+      758,
+      762,
+      775,
+      779,
+      863,
+      868,
+      872,
+      877,
+      882,
+      887,
+      892,
+      897,
+      1435,
+      1439,
+      1443,
+      1447,
+      1451,
+      1455,
+      1767,
+      1772,
+      1777,
+      1782,
+      1787,
+      1792,
+      1928,
+      1943,
+      1953,
+      1963,
+      2009,
+      2014,
+      2019,
+      2024,
+      2172,
+      2182,
+      2300,
+      2308,
+      2313,
+      2318,
+      2323,
+      2328,
+      2359,
+      2364,
+      2369,
+      2374,
+      2379,
+      2384,
+      2476,
+      2483,
+      2488,
+      2493,
+      2498,
+      2503,
+      2508
+    ],
+    "SARS CoV 2 receptor binding domain": [
+      755,
+      759,
+      763,
+      776,
+      780
+    ],
+    "Emulsify": [
+      766,
+      770
+    ],
+    "emulsify": [
+      767,
+      771
+    ],
+    "Water in oil emulsion with saponin": [
+      768,
+      772
+    ],
+    "DNA plasmid encoding SARS CoV 2 spike protein": [
+      791,
+      795,
+      799,
+      803,
+      807
+    ],
+    "Electrostatic condensation of pSpike into PP sNp": [
+      812
+    ],
+    "Conjugate": [
+      823,
+      828,
+      833,
+      838,
+      843,
+      848,
+      853,
+      972,
+      977,
+      982,
+      987,
+      992,
+      997,
+      1002,
+      1007,
+      1012,
+      1017,
+      1022,
+      1027,
+      1032,
+      1037,
+      1042,
+      1047,
+      1052,
+      1057,
+      1062,
+      1242,
+      1247,
+      1252,
+      1257,
+      1262,
+      1267,
+      1272,
+      1812,
+      1817,
+      1826,
+      1838,
+      1850,
+      1855,
+      1863,
+      1871,
+      1879,
+      1884,
+      1898,
+      1923,
+      1933,
+      1938,
+      1948,
+      1958,
+      1974,
+      1979,
+      1984
+    ],
+    "PglB mediated CPS EPA glycosylation": [
+      825,
+      830,
+      835,
+      840,
+      845,
+      850,
+      855
+    ],
+    "Purified from E coli endotoxin removed": [
+      864,
+      869,
+      873,
+      878,
+      883,
+      888,
+      893,
+      898
+    ],
+    "In vitro transcription": [
+      911,
+      915,
+      919,
+      923,
+      927,
+      931,
+      935,
+      939,
+      943,
+      947,
+      951,
+      955,
+      959
+    ],
+    "Sequence optimized 5 prime triphosphate RNA RIG I agonist": [
+      912,
+      916,
+      920,
+      924,
+      928,
+      932,
+      936,
+      940,
+      944,
+      948,
+      952,
+      956,
+      960
+    ],
+    "Click chemistry": [
+      974,
+      979,
+      984,
+      989,
+      994,
+      999,
+      1004,
+      1009,
+      1014,
+      1019,
+      1024,
+      1029,
+      1034,
+      1039,
+      1044,
+      1049,
+      1054,
+      1059,
+      1064
+    ],
+    "Blood clot": [
+      1081,
+      1086,
+      1091,
+      1096,
+      1101,
+      1106,
+      1111,
+      1116,
+      1121,
+      1126,
+      1131,
+      1136,
+      1141,
+      1146,
+      1151,
+      1156
+    ],
+    "PI": [
+      1168,
+      1172,
+      1178,
+      1184,
+      1190,
+      1196,
+      1202,
+      1208,
+      1214,
+      1220,
+      1224,
+      1230
+    ],
+    "EPV": [
+      1169,
+      1173,
+      1179,
+      1185,
+      1191,
+      1197,
+      1203,
+      1209,
+      1215,
+      1221,
+      1225,
+      1231
+    ],
+    "Cryogenic silicification": [
+      1244,
+      1249,
+      1254,
+      1259,
+      1264,
+      1269,
+      1274,
+      1277
+    ],
+    "Water soluble components in PLGA NP": [
+      1293,
+      1298,
+      1303,
+      1308,
+      1313,
+      1318,
+      1323,
+      1328
+    ],
+    "Freeze dry": [
+      1335,
+      1339,
+      1343,
+      1347,
+      1351,
+      1355,
+      1359,
+      1363,
+      1367
+    ],
+    "Freeze dried nanofiber sublingual tablet": [
+      1336,
+      1340,
+      1344,
+      1348,
+      1352,
+      1356,
+      1360,
+      1364,
+      1368
+    ],
+    "Core shell structure with PLGA shell and antigen core": [
+      1384,
+      1389,
+      1394,
+      1399,
+      1404,
+      1409,
+      1414,
+      1419,
+      1424
+    ],
+    "Influenza M2e SpyCatcher fusion": [
+      1436,
+      1440,
+      1444,
+      1448,
+      1452,
+      1456
+    ],
+    "Co expression with NDV NP M self assembling VLP": [
+      1466,
+      1471,
+      1476,
+      1481,
+      1486,
+      1491
+    ],
+    "Self assemble chimeric VP1 into VLP": [
+      1504,
+      1509,
+      1514,
+      1520
+    ],
+    "VP1 self assemble into VLP disulfide stabilized": [
+      1528,
+      1533,
+      1538,
+      1543,
+      1548
+    ],
+    "Alhydrogel aluminum salt adjuvant": [
+      1553
+    ],
+    "VP1 self assemble into VLP WT unstable": [
+      1558,
+      1563
+    ],
+    "Salting out with ammonium sulfate self assembled particles": [
+      1572,
+      1575,
+      1578,
+      1581,
+      1584,
+      1587,
+      1590,
+      1593
+    ],
+    "Water in oil in water double emulsion PLG microparticles": [
+      1605,
+      1608,
+      1611,
+      1614,
+      1617,
+      1620
+    ],
+    "Antifungal immunoenhancer mixed with PLG MP": [
+      1625,
+      1630,
+      1635,
+      1640,
+      1645,
+      1650
+    ],
+    "Nanoprecipitation": [
+      1657,
+      1661,
+      1667
+    ],
+    "Lipids dissolved in ethanol mixed with acidified aqueous mRNA solution": [
+      1658,
+      1662,
+      1668
+    ],
+    "t VP3 fusion": [
+      1678,
+      1682,
+      1686,
+      1690,
+      1694,
+      1698,
+      1702,
+      1706,
+      1710
+    ],
+    "EGFP fused to t VP3 C terminus anchored inside VP1 pentamer": [
+      1679,
+      1683,
+      1687,
+      1691,
+      1695,
+      1699,
+      1703,
+      1707,
+      1711
+    ],
+    "SpreS116 42 adsorbed on alum": [
+      1728,
+      1733,
+      1738,
+      1743,
+      1748,
+      1753,
+      1758
+    ],
+    "express": [
+      1768,
+      1773,
+      1778,
+      1783,
+      1788,
+      1793,
+      1929,
+      1944,
+      1954,
+      1964,
+      1970,
+      2010,
+      2015,
+      2020,
+      2025,
+      2173,
+      2183,
+      2301,
+      2304,
+      2309,
+      2314,
+      2319,
+      2324,
+      2329,
+      2360,
+      2365,
+      2370,
+      2375,
+      2380,
+      2385,
+      2477,
+      2484,
+      2489,
+      2494,
+      2499,
+      2504,
+      2509
+    ],
+    "GAS M protein conserved epitope J8i displayed on VP1 GCN4 capsid": [
+      1769,
+      1774,
+      1779,
+      1784,
+      1789,
+      1794
+    ],
+    "carboxylic acid conjugated to OVA amines via DMTMM amide formation": [
+      1814,
+      1819,
+      1828,
+      1840,
+      1852,
+      1857,
+      1864,
+      1873,
+      1876,
+      1881,
+      1886,
+      1900
+    ],
+    "OVA with disulfide bonds formed via DTNB then conjugated with MDP and CpG": [
+      1823,
+      1832,
+      1835,
+      1844,
+      1847,
+      1860,
+      1867,
+      1890,
+      1893,
+      1896
+    ],
+    "anti CD11c IgGs conjugated to ZZ BNC via ZZ domains": [
+      1925,
+      1935,
+      1940,
+      1950,
+      1960,
+      1968,
+      1976,
+      1981,
+      1986
+    ],
+    "recombinant OVA protein": [
+      1930,
+      1945,
+      1955,
+      1965,
+      1971,
+      2361,
+      2366,
+      2371,
+      2376,
+      2381,
+      2386
+    ],
+    "opossum C2 C4 domains plus rat C3 domain": [
+      2011,
+      2016,
+      2021,
+      2026
+    ],
+    "self assembled prM E particles secreted from producer cells": [
+      2035,
+      2040,
+      2045
+    ],
+    "TLR4 agonist mixed with PLGA PEI NP": [
+      2053,
+      2056,
+      2061,
+      2066,
+      2072,
+      2077,
+      2082
+    ],
+    "RIG I agonist mixed with PLGA PEI NP": [
+      2087,
+      2092,
+      2097,
+      2102
+    ],
+    "MPL adsorbed on aluminium hydroxide AS04 adjuvant": [
+      2119,
+      2124,
+      2129,
+      2134,
+      2139,
+      2144,
+      2149,
+      2154
+    ],
+    "plasmid DNA expressing green fluorescent protein": [
+      2174,
+      2184
+    ],
+    "Synthesize": [
+      2177,
+      2187,
+      2191
+    ],
+    "synthesize": [
+      2178,
+      2188,
+      2192
+    ],
+    "6 O carboxymethyl N N N trimethylchitosan": [
+      2179,
+      2189,
+      2193
+    ],
+    "PLGA premix membrane emulsification plus emulsion solvent evaporation": [
+      2200,
+      2203,
+      2206,
+      2209,
+      2212,
+      2214,
+      2216,
+      2218,
+      2221
+    ],
+    "cholera toxin": [
+      2234,
+      2239,
+      2244,
+      2249,
+      2254,
+      2259,
+      2264
+    ],
+    "TLR7 agonist 5 iquimoid": [
+      2267,
+      2270,
+      2273
+    ],
+    "TLR7 8 agonist": [
+      2275,
+      2277
+    ],
+    "TLR4 agonist": [
+      2279,
+      2281,
+      2283,
+      2286,
+      2289,
+      2292
+    ],
+    "four structural proteins S M E N self assembled in 293F cells Vero cells insect cells": [
+      2302,
+      2305,
+      2310,
+      2315,
+      2320,
+      2325,
+      2330
+    ],
+    "purified SARS CoV 2 virus like particles four structural proteins": [
+      2348,
+      2349,
+      2350,
+      2351,
+      2352,
+      2353,
+      2354
+    ],
+    "MUC1 glycopeptide displayed on AP205 VLP surface self assembled 28 34nm": [
+      2402,
+      2407,
+      2412,
+      2417,
+      2422
+    ],
+    "bacterium like particles derived from Lactococcus lactis food grade": [
+      2430,
+      2433
+    ],
+    "Lactococcus lactis heat acid chemically treated peptidoglycan spheres": [
+      2447,
+      2450,
+      2453,
+      2456,
+      2459,
+      2466,
+      2470
+    ],
+    "GNNV proteins self assembled in Sf9 insect cells virus like particles": [
+      2478,
+      2480,
+      2485,
+      2490,
+      2495,
+      2500,
+      2505,
+      2510
+    ],
+    "squalene oil in water nanoemulsion": [
+      2520
+    ],
+    "SpyTag PCV2 Cap VLPs mixed with CSFV E2 SpyCatcher covalent conjugation": [
+      2528,
+      2533,
+      2538,
+      2543,
+      2548,
+      2553
+    ],
+    "innovative delivery system Toll like receptor based immunomodulator": [
+      2567,
+      2570
+    ],
+    "aluminum hydroxide gel": [
+      2575
+    ]
+  },
+  "Target": {
+    "lymph nodes": [
+      91,
+      684,
+      1999
+    ],
+    "lung": [
+      814,
+      815
+    ],
+    "GALT": [
+      1652
+    ],
+    "lymph node": [
+      1672,
+      1674
+    ],
+    "DC in lymph organs": [
+      1989
+    ],
+    "DC": [
+      1991
+    ],
+    "C type lectin receptors": [
+      2001
+    ],
+    "draining lymph node": [
+      4324,
+      4839,
+      5445,
+      5472,
+      5595,
+      5607
+    ],
+    "Peyer patch delivery": [
+      4353
+    ],
+    "early endosomal compartment": [
+      4389
+    ],
+    "DC antigen compartment": [
+      4419
+    ],
+    "perifollicular DC positioning": [
+      4435
+    ],
+    "T B border positioning": [
+      4443
+    ],
+    "follicular dendritic cell capture": [
+      4451
+    ],
+    "FDC antigen display": [
+      4456
+    ],
+    "immunological synapse": [
+      5253
+    ],
+    "lymphatic capillary entry": [
+      5444
+    ],
+    "same APC delivery": [
+      5500
+    ],
+    "respiratory mucosa": [
+      5516
+    ],
+    "blood capillary entry": [
+      5526
+    ],
+    "lymph node accumulation": [
+      5538
+    ],
+    "interstitial water channels": [
+      5540
+    ],
+    "cytosolic RNA access": [
+      5562,
+      5587
+    ],
+    "APC phagocytic uptake": [
+      5576
+    ],
+    "Peyer patch dome": [
+      5645
+    ],
+    "draining lymph node targeting": [
+      5654
+    ]
+  },
+  "Activate": {
+    "APCs": [
+      92
+    ],
+    "NF kappa B": [
+      643,
+      1915
+    ],
+    "TLR4": [
+      901,
+      2608,
+      3049,
+      3066,
+      3245,
+      4173
+    ],
+    "DC": [
+      902
+    ],
+    "RIG I": [
+      962,
+      963,
+      964
+    ],
+    "CD4 T cell": [
+      1723
+    ],
+    "NOD2": [
+      1902,
+      1911,
+      1913
+    ],
+    "TLR9": [
+      1905,
+      1912,
+      1914,
+      2669,
+      3437
+    ],
+    "DC maturation": [
+      1992,
+      1993,
+      1994,
+      2004,
+      4277,
+      4294,
+      4399
+    ],
+    "TNF": [
+      2156
+    ],
+    "innate immunity": [
+      2157,
+      2158,
+      2159,
+      2160
+    ],
+    "TLR1 TLR2 pathway": [
+      2196,
+      2197
+    ],
+    "TLR2": [
+      2607,
+      3065,
+      3238,
+      3549,
+      4014
+    ],
+    "nucleotide-binding_oligomerization_domain-containing_protein_2": [
+      2624,
+      2797
+    ],
+    "CLEC4E": [
+      2676,
+      3056,
+      3078,
+      3354
+    ],
+    "CLEC7A": [
+      2763,
+      3506,
+      3548
+    ],
+    "TLR7": [
+      2827,
+      3103,
+      3997
+    ],
+    "TLR8": [
+      2937
+    ],
+    "TLR5": [
+      2946,
+      3661
+    ],
+    "TLR3": [
+      2965,
+      3145,
+      3483
+    ],
+    "antiviral_innate_immune_response_receptor_RIG-I": [
+      2966,
+      3255
+    ],
+    "C-type_lectin_domain_family_6_member_A": [
+      3077
+    ],
+    "RIG-I": [
+      3120,
+      3254
+    ],
+    "cGAS": [
+      3212,
+      3534,
+      3539,
+      3550,
+      3681
+    ],
+    "TLR1": [
+      3237
+    ],
+    "Toll-like_receptor": [
+      3470
+    ],
+    "C-type_lectin_domain_family_9_member_A": [
+      3513
+    ],
+    "nucleotide-binding_oligomerization_domain-containing_protein_1": [
+      3889
+    ],
+    "lysosomal stress signal": [
+      4266
+    ],
+    "NLRP3 inflammasome": [
+      4267,
+      4271,
+      4647,
+      4730,
+      5584
+    ],
+    "caspase 1 activation": [
+      4268,
+      4710,
+      4712,
+      5619
+    ],
+    "local cytokine response": [
+      4273
+    ],
+    "APC activation": [
+      4274,
+      4610,
+      5662
+    ],
+    "TLR4 signaling": [
+      4276,
+      4656,
+      5453
+    ],
+    "MyD88 signaling": [
+      4279,
+      4293,
+      4657,
+      4665,
+      5437,
+      5447,
+      5454,
+      5465
+    ],
+    "NFkB AP1 signaling": [
+      4280
+    ],
+    "MyD88 IRF7 signaling": [
+      4282
+    ],
+    "pDC maturation": [
+      4284
+    ],
+    "B cell proliferation": [
+      4287
+    ],
+    "TLR5 signaling": [
+      4292,
+      5475
+    ],
+    "epithelial cell activation": [
+      4296
+    ],
+    "DC activation": [
+      4299,
+      5612
+    ],
+    "TLR7 TLR8 signaling": [
+      4304
+    ],
+    "NFkB IRF7 signaling": [
+      4305
+    ],
+    "monocyte macrophage activation": [
+      4307
+    ],
+    "NK cell activation": [
+      4310
+    ],
+    "monocyte differentiation": [
+      4315
+    ],
+    "immature DC differentiation": [
+      4316
+    ],
+    "TLR triggering": [
+      4339
+    ],
+    "lipid body formation": [
+      4343
+    ],
+    "dendritic cell function": [
+      4348
+    ],
+    "Syk signaling": [
+      4370,
+      4739,
+      5142
+    ],
+    "Batf3 IRF8 program": [
+      4375
+    ],
+    "DC licensing": [
+      4381
+    ],
+    "p38 signaling": [
+      4411
+    ],
+    "PERK activation": [
+      4418
+    ],
+    "G protein signaling": [
+      4430
+    ],
+    "MAPK PI3K Rho signaling": [
+      4431
+    ],
+    "cysteinyl leukotriene signaling": [
+      4436
+    ],
+    "S1P receptor signaling": [
+      4439
+    ],
+    "complement activation": [
+      4450,
+      4943,
+      4986
+    ],
+    "B cell activation": [
+      4452,
+      4474,
+      4612
+    ],
+    "complement dependent opsonization": [
+      4454
+    ],
+    "GC B cell cycling": [
+      4469
+    ],
+    "extrafollicular B cell activation": [
+      4478
+    ],
+    "Bmem reactivation": [
+      4481
+    ],
+    "T dependent B cell activation": [
+      4483
+    ],
+    "AID expression": [
+      4484
+    ],
+    "NFkB signaling": [
+      4487,
+      4622,
+      5039,
+      5154,
+      5455,
+      5476
+    ],
+    "STAT6 signaling": [
+      4490,
+      4759,
+      5225,
+      5289
+    ],
+    "STAT3 signaling": [
+      4493,
+      4763,
+      4767,
+      5228
+    ],
+    "AID deamination": [
+      4495,
+      4501
+    ],
+    "CD40 B cell activation": [
+      4498
+    ],
+    "Pax5 activity": [
+      4499
+    ],
+    "APE1 endonuclease activity": [
+      4503
+    ],
+    "macrophage phagocytosis": [
+      4512
+    ],
+    "myeloid phagocytosis": [
+      4524
+    ],
+    "T cell help": [
+      4559
+    ],
+    "CD4 T cell activation": [
+      4562,
+      4870
+    ],
+    "CD8 T cell activation": [
+      4565,
+      4807,
+      5102
+    ],
+    "vaccine induced T cells": [
+      4572
+    ],
+    "tumor macrophage polarization": [
+      4575
+    ],
+    "VEGF signaling": [
+      4584
+    ],
+    "VEGFR2 signaling": [
+      4587
+    ],
+    "LPS TLR4 signaling": [
+      4618
+    ],
+    "dendritic cell activation": [
+      4626,
+      5331,
+      5424
+    ],
+    "caspase 1 inflammasome": [
+      4627
+    ],
+    "beta adrenergic signaling": [
+      4635
+    ],
+    "microglial activation": [
+      4645
+    ],
+    "trained immunity": [
+      4649
+    ],
+    "TLR signaling": [
+      4652,
+      5030
+    ],
+    "adaptor recruitment": [
+      4653
+    ],
+    "NFkB IRF signaling": [
+      4654
+    ],
+    "IRAK TRAF6 signaling": [
+      4658
+    ],
+    "NFkB MAPK signaling": [
+      4659
+    ],
+    "TLR4 endosomal signaling": [
+      4660
+    ],
+    "TRAM TRIF signaling": [
+      4661
+    ],
+    "TBK1 signaling": [
+      4662
+    ],
+    "IRF3 activation": [
+      4663,
+      4673,
+      5461
+    ],
+    "endosomal TLR signaling": [
+      4664
+    ],
+    "IRF7 activation": [
+      4666,
+      5466
+    ],
+    "TLR9 signaling": [
+      4667,
+      5436
+    ],
+    "MyD88 IRAK signaling": [
+      4668
+    ],
+    "NFkB activation": [
+      4669,
+      4675,
+      4686,
+      4696,
+      4734,
+      4736,
+      5135
+    ],
+    "CD14 mediated endocytosis": [
+      4670
+    ],
+    "endosomal TLR4 signaling": [
+      4671
+    ],
+    "TRIF signaling": [
+      4672,
+      5460
+    ],
+    "TLR priming signal": [
+      4674
+    ],
+    "CD36 TLR signaling": [
+      4677
+    ],
+    "cytosolic DNA sensing": [
+      4679
+    ],
+    "cGAS activation": [
+      4680
+    ],
+    "STING trafficking": [
+      4682
+    ],
+    "STING palmitoylation": [
+      4683
+    ],
+    "STING activation": [
+      4684,
+      4691,
+      4693
+    ],
+    "IKK signaling": [
+      4685
+    ],
+    "STING signaling": [
+      4687,
+      5043
+    ],
+    "cGAMP transfer": [
+      4690
+    ],
+    "TBK1 IRF3 signaling": [
+      4692
+    ],
+    "cGAS STING signaling": [
+      4695
+    ],
+    "inflammasome priming": [
+      4698
+    ],
+    "ATP ion flux": [
+      4701
+    ],
+    "NLRP3 activation": [
+      4702,
+      4706,
+      4709
+    ],
+    "inflammasome assembly": [
+      4703
+    ],
+    "mitochondrial damage": [
+      4704
+    ],
+    "lysosomal damage": [
+      4707
+    ],
+    "cathepsin B release": [
+      4708
+    ],
+    "cytosolic LPS sensing": [
+      4714
+    ],
+    "caspase 11 activation": [
+      4715
+    ],
+    "metabolic stress sensing": [
+      4718
+    ],
+    "Dectin 1 signaling": [
+      4720,
+      4723,
+      4725,
+      4728,
+      4746
+    ],
+    "Syk activation": [
+      4721,
+      4733
+    ],
+    "CARD9 BCL10 MALT1 signaling": [
+      4722
+    ],
+    "Dectin 2 signaling": [
+      4729,
+      4731
+    ],
+    "FcR gamma signaling": [
+      4732
+    ],
+    "MCL signaling": [
+      4735
+    ],
+    "Dectin 1 apoptotic recognition": [
+      4738
+    ],
+    "Dectin 1 galectin recognition": [
+      4741
+    ],
+    "Syk NFAT signaling": [
+      4742
+    ],
+    "MICL signaling": [
+      4744
+    ],
+    "Syk association": [
+      4747
+    ],
+    "ERK activation": [
+      4748
+    ],
+    "cytokine receptor signaling": [
+      4750
+    ],
+    "STAT SMAD signaling": [
+      4751
+    ],
+    "STAT4 signaling": [
+      4753,
+      5223
+    ],
+    "T bet program": [
+      4754
+    ],
+    "STAT1 signaling": [
+      4757
+    ],
+    "GATA3 program": [
+      4760
+    ],
+    "TGF beta signaling": [
+      4762,
+      4768,
+      4822
+    ],
+    "ROR gamma t program": [
+      4764
+    ],
+    "SMAD signaling": [
+      4769
+    ],
+    "Foxp3 program": [
+      4770,
+      4774
+    ],
+    "STAT5 signaling": [
+      4773
+    ],
+    "Bcl6 program": [
+      4775
+    ],
+    "CD40L signaling": [
+      4785
+    ],
+    "JAK STAT signaling": [
+      4789,
+      4790
+    ],
+    "TCR signaling": [
+      4797
+    ],
+    "cell cycle program": [
+      4801
+    ],
+    "immune activation": [
+      4806
+    ],
+    "residency transcription program": [
+      4824
+    ],
+    "IL 15 signaling": [
+      4826
+    ],
+    "Hobit Blimp1 program": [
+      4827
+    ],
+    "iNKT cell activation": [
+      4829,
+      4831,
+      4834
+    ],
+    "CD40 CD40L signaling": [
+      4832
+    ],
+    "type I IFN signaling": [
+      4840
+    ],
+    "complement fixation": [
+      4844
+    ],
+    "viral membrane fusion": [
+      4869
+    ],
+    "NFkB NFAT signaling": [
+      4871
+    ],
+    "HIV specific CTL response": [
+      4876
+    ],
+    "mast cell degranulation": [
+      4885,
+      4888,
+      5027
+    ],
+    "mast cell mediator release": [
+      4891
+    ],
+    "eosinophil degranulation": [
+      4893
+    ],
+    "airway epithelial damage": [
+      4894
+    ],
+    "ILC2 activation": [
+      4896,
+      5354
+    ],
+    "systemic mast cell activation": [
+      4900
+    ],
+    "self reactive B cell presentation": [
+      4922
+    ],
+    "complement opsonization": [
+      4926
+    ],
+    "TSH receptor signaling": [
+      4929
+    ],
+    "Fc receptor signaling": [
+      4932
+    ],
+    "myelin specific CD4 T cells": [
+      4934
+    ],
+    "donor T cell allorecognition": [
+      4945
+    ],
+    "glucocorticoid receptor signaling": [
+      4948
+    ],
+    "NLRP3 inflammasome activation": [
+      4965,
+      5618
+    ],
+    "innate sensor signaling": [
+      4976
+    ],
+    "clonal expansion": [
+      4982
+    ],
+    "CD4 T cell help": [
+      4990
+    ],
+    "peptide antimicrobial activity": [
+      4995
+    ],
+    "lectin complement pathway": [
+      4997
+    ],
+    "C3 convertase formation": [
+      4998
+    ],
+    "classical complement pathway": [
+      5000,
+      5322
+    ],
+    "C3 tickover": [
+      5001
+    ],
+    "alternative C3 convertase": [
+      5003
+    ],
+    "C5 convertase activity": [
+      5007
+    ],
+    "C5b generation": [
+      5010
+    ],
+    "membrane attack complex": [
+      5011
+    ],
+    "complement control proteins": [
+      5012
+    ],
+    "Rho GTPase signaling": [
+      5018
+    ],
+    "neutrophil ROS response": [
+      5020
+    ],
+    "endothelial activation": [
+      5025
+    ],
+    "TLR interferon signaling": [
+      5032
+    ],
+    "IRF signaling": [
+      5033
+    ],
+    "TLR4 adaptor signaling": [
+      5035
+    ],
+    "NOD signaling": [
+      5038
+    ],
+    "NLRP inflammasome assembly": [
+      5040
+    ],
+    "IRF3 signaling": [
+      5044
+    ],
+    "endothelial adhesion molecules": [
+      5047
+    ],
+    "hepatocyte acute phase signaling": [
+      5051
+    ],
+    "antiviral gene expression": [
+      5054
+    ],
+    "NK cytotoxicity": [
+      5060
+    ],
+    "ILC2 cytokine response": [
+      5061
+    ],
+    "ILC3 cytokine response": [
+      5063
+    ],
+    "dendritic cell maturation": [
+      5116,
+      5405
+    ],
+    "Lck signaling": [
+      5122
+    ],
+    "ITAM phosphorylation": [
+      5123,
+      5141
+    ],
+    "ZAP70 signaling": [
+      5124
+    ],
+    "LAT signalosome": [
+      5125
+    ],
+    "PLC gamma signaling": [
+      5126,
+      5129,
+      5133
+    ],
+    "NFAT activation": [
+      5128
+    ],
+    "Ras signaling": [
+      5130
+    ],
+    "MAPK relay": [
+      5131
+    ],
+    "AP1 activation": [
+      5132
+    ],
+    "PKC theta signaling": [
+      5134
+    ],
+    "Cdc42 signaling": [
+      5137
+    ],
+    "BLNK signalosome": [
+      5143
+    ],
+    "B cell coreceptor signaling": [
+      5145
+    ],
+    "CD28 costimulatory signaling": [
+      5151
+    ],
+    "CD40 costimulatory signaling": [
+      5153
+    ],
+    "PI3K signaling": [
+      5162
+    ],
+    "Akt signaling": [
+      5163
+    ],
+    "mTOR signaling": [
+      5164
+    ],
+    "FLT3 progenitor signaling": [
+      5165
+    ],
+    "IL7 survival signaling": [
+      5167
+    ],
+    "Pax5 transcription program": [
+      5168
+    ],
+    "pre BCR signaling": [
+      5173,
+      5174
+    ],
+    "RAG expression": [
+      5181
+    ],
+    "Notch signaling": [
+      5190
+    ],
+    "pre TCR signaling": [
+      5195
+    ],
+    "positive selection signaling": [
+      5201,
+      5204,
+      5207
+    ],
+    "negative selection signaling": [
+      5210,
+      5214
+    ],
+    "CD40 signaling": [
+      5219,
+      5266,
+      5350
+    ],
+    "macrophage activation": [
+      5238,
+      5338
+    ],
+    "granzyme apoptosis pathway": [
+      5243
+    ],
+    "caspase 3 activation": [
+      5245
+    ],
+    "mitochondrial apoptosis": [
+      5246
+    ],
+    "DNA fragmentation": [
+      5247
+    ],
+    "extrinsic apoptosis pathway": [
+      5249
+    ],
+    "initiator caspase activation": [
+      5250
+    ],
+    "effector caspase activation": [
+      5251
+    ],
+    "BCR signaling": [
+      5262
+    ],
+    "T dependent B cell priming": [
+      5269
+    ],
+    "Tfh B cell help": [
+      5273
+    ],
+    "alpha switch transcription": [
+      5293
+    ],
+    "gamma switch transcription": [
+      5297
+    ],
+    "B cell TLR signaling": [
+      5306
+    ],
+    "T independent B cell activation": [
+      5307,
+      5390
+    ],
+    "BCR crosslinking": [
+      5311
+    ],
+    "secondary B cell response": [
+      5329
+    ],
+    "innate sensor activation": [
+      5330
+    ],
+    "ILC1 activation": [
+      5337
+    ],
+    "ILC3 activation": [
+      5340
+    ],
+    "epithelial alarmin response": [
+      5353
+    ],
+    "type 2 dendritic cells": [
+      5356
+    ],
+    "mucosal B cell activation": [
+      5362
+    ],
+    "commensal innate sensing": [
+      5388
+    ],
+    "epithelial IL 22 signaling": [
+      5398
+    ],
+    "TLR3 signaling": [
+      5459
+    ],
+    "RIPK2 signaling": [
+      5481
+    ],
+    "NFkB transcription": [
+      5482
+    ],
+    "TLR4 NOD2 crosstalk": [
+      5486
+    ],
+    "CD14 monocyte": [
+      5583
+    ],
+    "caspase activity": [
+      5585
+    ],
+    "MDA5 sensing": [
+      5588
+    ],
+    "NF kB signaling": [
+      5592
+    ],
+    "local innate activation": [
+      5649
+    ],
+    "NFkB signaling activation": [
+      5668,
+      5675
+    ],
+    "TLR4 signaling activation": [
+      5674
+    ],
+    "synergistic innate activation": [
+      5683
+    ],
+    "local transient innate response": [
+      5688
+    ],
+    "draining node immune activation": [
+      5690
+    ],
+    "TLR9 signaling activation": [
+      5695
+    ],
+    "MyD88 signaling activation": [
+      5696
+    ]
+  },
+  "Enhance": {
+    "anti tumor immunity": [
+      93
+    ],
+    "Protection": [
+      239
+    ],
+    "Serum VN titer": [
+      294,
+      297
+    ],
+    "Serum IgA": [
+      295,
+      298
+    ],
+    "SIC IgA": [
+      296,
+      299
+    ],
+    "TLR2 targeting": [
+      460
+    ],
+    "TLR2 signaling": [
+      461
+    ],
+    "DC activation": [
+      462,
+      463,
+      464,
+      1282,
+      2435,
+      2441,
+      2443
+    ],
+    "protease stability": [
+      466
+    ],
+    "antigen presentation": [
+      467,
+      1068,
+      2563,
+      2564,
+      5117
+    ],
+    "CD8 T cell": [
+      468
+    ],
+    "neutralizing antibodies": [
+      539,
+      540,
+      747,
+      2048,
+      2337,
+      2338,
+      2339,
+      2515
+    ],
+    "RIG I signaling": [
+      642,
+      4745
+    ],
+    "IgG": [
+      746
+    ],
+    "IgG1": [
+      786,
+      1763,
+      1918
+    ],
+    "IgG2a": [
+      787,
+      1764
+    ],
+    "DC maturation": [
+      903,
+      904,
+      905,
+      1233,
+      2391,
+      2556,
+      2557,
+      2558,
+      4689,
+      5450,
+      5478,
+      5487,
+      5502,
+      5509,
+      5514
+    ],
+    "T cell proliferation": [
+      906,
+      1238,
+      1239
+    ],
+    "IFN gamma": [
+      907
+    ],
+    "TNF alpha": [
+      908,
+      2561
+    ],
+    "IL 2": [
+      965
+    ],
+    "Th1 response": [
+      966
+    ],
+    "lung delivery": [
+      1066
+    ],
+    "antigen uptake": [
+      1067,
+      2229
+    ],
+    "T cell activation": [
+      1069,
+      2392,
+      2393
+    ],
+    "T cell infiltration": [
+      1070,
+      1071,
+      1072
+    ],
+    "cytokine secretion": [
+      1234,
+      2436,
+      2442,
+      2444
+    ],
+    "adjuvant dispersion": [
+      1237
+    ],
+    "PEI MPL adsorption": [
+      1281
+    ],
+    "antigen processing presentation": [
+      1283
+    ],
+    "IFN gamma T cells": [
+      1284
+    ],
+    "antigen protection": [
+      1286
+    ],
+    "neo antigen diversity": [
+      1331
+    ],
+    "tumor specific T cell response": [
+      1332
+    ],
+    "sublingual mucus transport": [
+      1370
+    ],
+    "dissolution rate": [
+      1376
+    ],
+    "glycoprotein specific IgG": [
+      1497
+    ],
+    "immune response": [
+      1499
+    ],
+    "immune focus blockade epitopes": [
+      1568
+    ],
+    "OVA peptide release cathepsin S": [
+      1595
+    ],
+    "Cross presentation": [
+      1596
+    ],
+    "CD8 T cell proliferation": [
+      1597
+    ],
+    "DC uptake": [
+      1599,
+      2002
+    ],
+    "lymph node accumulation": [
+      1601
+    ],
+    "antibody response": [
+      1654
+    ],
+    "CD4 T cell proliferation": [
+      1714,
+      1715
+    ],
+    "Mucosal IgA": [
+      1804,
+      1807
+    ],
+    "anti M protein J8i IgG": [
+      1805,
+      1808
+    ],
+    "anti M protein J8i IgA": [
+      1806,
+      1809
+    ],
+    "IgG2b": [
+      1919
+    ],
+    "cross presentation": [
+      1997
+    ],
+    "anti JEV IgG": [
+      2006
+    ],
+    "CD4 CD44 T cell": [
+      2104,
+      2105
+    ],
+    "CD69 CD103 TRM": [
+      2107,
+      2108,
+      2109
+    ],
+    "GC B cell BCL6 B220": [
+      2112
+    ],
+    "GL7 B220": [
+      2113
+    ],
+    "anti HPV16 antibodies": [
+      2161,
+      2165
+    ],
+    "anti HPV18 antibodies": [
+      2162,
+      2166
+    ],
+    "neutralizing antibodies HPV16": [
+      2163,
+      2167
+    ],
+    "neutralizing antibodies HPV18": [
+      2164,
+      2168
+    ],
+    "APC uptake": [
+      2195,
+      5446,
+      5497,
+      5531
+    ],
+    "APC internalization": [
+      2227,
+      5549
+    ],
+    "APC activation": [
+      2228
+    ],
+    "mucosal adjuvancy": [
+      2294,
+      2295
+    ],
+    "neutralizing antibodies vs WT": [
+      2342,
+      2344,
+      2346
+    ],
+    "neutralizing antibodies vs alpha": [
+      2343,
+      2345,
+      2347
+    ],
+    "spike protein expression": [
+      2356
+    ],
+    "cross presentation cDC1 cDC2": [
+      2390
+    ],
+    "innate immunity": [
+      2395
+    ],
+    "costimulatory markers": [
+      2425,
+      2426
+    ],
+    "adaptive immunity": [
+      2437,
+      2438,
+      2439
+    ],
+    "serum IgG titer": [
+      2472,
+      2473
+    ],
+    "IgG antibodies": [
+      2513,
+      2517
+    ],
+    "antigen internalization": [
+      2555
+    ],
+    "CD40": [
+      2559
+    ],
+    "CD86": [
+      2560
+    ],
+    "IL 12": [
+      2562
+    ],
+    "anti M2e IgG titer": [
+      2577
+    ],
+    "antigen specific B cell response": [
+      4318
+    ],
+    "CTL response": [
+      4333
+    ],
+    "CD4 T cell response": [
+      4351
+    ],
+    "Th2 antibody response": [
+      4425
+    ],
+    "CCR7 ligand responsiveness": [
+      4437
+    ],
+    "cDC2 CD4 T cell encounters": [
+      4444
+    ],
+    "unmasked epitope response": [
+      4462
+    ],
+    "affinity based selection": [
+      4471
+    ],
+    "BCR diversification": [
+      4473
+    ],
+    "B cell activation": [
+      4500,
+      5155
+    ],
+    "BCR affinity": [
+      4506
+    ],
+    "pathogen destruction": [
+      4509
+    ],
+    "innate immune response": [
+      4511
+    ],
+    "toxin neutralization": [
+      4530
+    ],
+    "high affinity IgA selection": [
+      4540
+    ],
+    "germinal center selection": [
+      4543
+    ],
+    "enteric virus neutralization": [
+      4550
+    ],
+    "tumor immunosuppression": [
+      4576
+    ],
+    "abnormal tumor vasculature": [
+      4581
+    ],
+    "tumor angiogenesis": [
+      4592
+    ],
+    "pericyte recruitment": [
+      4596
+    ],
+    "vascular normalization": [
+      4598,
+      4601
+    ],
+    "tumor perfusion": [
+      4599
+    ],
+    "myeloid immunosuppression": [
+      4607
+    ],
+    "epitope repetition": [
+      4611
+    ],
+    "T B cooperation": [
+      4613
+    ],
+    "B cell response": [
+      4617
+    ],
+    "immune surveillance": [
+      4638
+    ],
+    "anti tumor surveillance": [
+      4641
+    ],
+    "vaccine antigen response": [
+      4643
+    ],
+    "chronic neuroinflammation": [
+      4648
+    ],
+    "phagocytosis": [
+      4737,
+      5320,
+      5635
+    ],
+    "B cell differentiation": [
+      4779
+    ],
+    "plasma cell response": [
+      4780
+    ],
+    "innate adaptive coupling": [
+      4784
+    ],
+    "clonal expansion": [
+      4799
+    ],
+    "CD8 clonal expansion": [
+      4802,
+      4803
+    ],
+    "DC licensing": [
+      4833
+    ],
+    "pDC cDC crosstalk": [
+      4835
+    ],
+    "cDC antigen transport": [
+      4838
+    ],
+    "CD4 help delivery": [
+      4842
+    ],
+    "epitope spreading": [
+      4924
+    ],
+    "inflammatory reaction": [
+      4966
+    ],
+    "adaptive immune response": [
+      4967
+    ],
+    "pathogen neutralization": [
+      4985
+    ],
+    "C3b deposition": [
+      5002
+    ],
+    "C3b opsonization": [
+      5004
+    ],
+    "phagocytic uptake": [
+      5006
+    ],
+    "extracellular microbe trapping": [
+      5022
+    ],
+    "MHC surface stability": [
+      5069
+    ],
+    "TCR antigen recognition": [
+      5072
+    ],
+    "combinatorial diversity": [
+      5084
+    ],
+    "multivalent antigen binding": [
+      5090
+    ],
+    "MHC molecule diversity": [
+      5119
+    ],
+    "peptide repertoire breadth": [
+      5120
+    ],
+    "actin reorganization": [
+      5138
+    ],
+    "BCR signaling": [
+      5146
+    ],
+    "PLC gamma activation": [
+      5152
+    ],
+    "thymocyte proliferation": [
+      5196
+    ],
+    "thymocyte survival": [
+      5202
+    ],
+    "microbicidal activity": [
+      5239
+    ],
+    "peptide loading": [
+      5260
+    ],
+    "B cell survival": [
+      5267,
+      5284
+    ],
+    "BCR affinity variation": [
+      5279
+    ],
+    "high affinity B cell selection": [
+      5281
+    ],
+    "affinity maturation": [
+      5288,
+      5300,
+      5326
+    ],
+    "opsonizing antibody response": [
+      5299
+    ],
+    "opsonization": [
+      5318
+    ],
+    "complement opsonization": [
+      5323
+    ],
+    "phagolysosome fusion": [
+      5352
+    ],
+    "epithelial barrier integrity": [
+      5400
+    ],
+    "APC antigen uptake": [
+      5442,
+      5492,
+      5513,
+      5652,
+      5658
+    ],
+    "cellular internalization": [
+      5508
+    ],
+    "antigen specific response": [
+      5510
+    ],
+    "particulate antigen uptake": [
+      5517
+    ],
+    "DC internalization": [
+      5521
+    ],
+    "lymphatic transfer": [
+      5537
+    ],
+    "lymphatic drainage": [
+      5542,
+      5556
+    ],
+    "lymph node delivery": [
+      5546
+    ],
+    "endocytic uptake": [
+      5548
+    ],
+    "lymph node transport": [
+      5553
+    ],
+    "DC T cell encounter": [
+      5558
+    ],
+    "nucleic acid delivery": [
+      5573
+    ],
+    "DC compartment delivery": [
+      5597
+    ],
+    "DC phagocytosis": [
+      5601
+    ],
+    "paracellular uptake": [
+      5643
+    ],
+    "M cell uptake": [
+      5646
+    ],
+    "phagocytosis enhancement": [
+      5656
+    ],
+    "pinocytosis enhancement": [
+      5657
+    ],
+    "antigen transport enhancement": [
+      5666
+    ],
+    "antigen presentation enhancement": [
+      5671
+    ],
+    "APC targeting enhancement": [
+      5680
+    ],
+    "DC antigen presentation enhancement": [
+      5681
+    ],
+    "T cell activation enhancement": [
+      5686
+    ],
+    "antigen uptake enhancement": [
+      5691
+    ]
+  },
+  "description": {
+    "Rotavirus VP2 protein functioning as immunogenic enhancer for VP6": [
+      203,
+      210,
+      221,
+      232
+    ],
+    "Boost formulation": [
+      243,
+      264,
+      270,
+      276,
+      282
+    ],
+    "Attenuated human rotavirus for priming": [
+      249,
+      254,
+      259,
+      288
+    ]
+  },
+  "Assemble": {
+    "pcDNA3 VP6": [
+      237
+    ],
+    "prM E particles": [
+      2047
+    ]
+  },
+  "Mix": {
+    "VP2": [
+      238,
+      240
+    ],
+    "AttHRV": [
+      300,
+      301
+    ],
+    "RBD scNP": [
+      538
+    ],
+    "COF1": [
+      644
+    ],
+    "SpFN": [
+      744,
+      745,
+      748,
+      749,
+      750,
+      751
+    ],
+    "VLP": [
+      961
+    ],
+    "Ag aqueous": [
+      1330
+    ],
+    "HA2": [
+      1460,
+      1461
+    ],
+    "KSHV LP": [
+      1498
+    ],
+    "VC microparticles": [
+      1653
+    ],
+    "SpreS116 42": [
+      1761,
+      1762
+    ],
+    "CTPPC": [
+      2194
+    ],
+    "HPV16 L1 VLPs Imiquimod": [
+      2296
+    ],
+    "ABM5": [
+      2394
+    ],
+    "AP205 MUC1 P2": [
+      2427
+    ],
+    "BLPs": [
+      2434,
+      2440
+    ],
+    "GNNV VLP": [
+      2516
+    ],
+    "MF59": [
+      2523
+    ]
+  },
+  "Reduce": {
+    "TLR2 signaling efficiency": [
+      471
+    ],
+    "DC activation": [
+      472
+    ],
+    "MMP gene expression": [
+      645
+    ],
+    "EPV shell integrity": [
+      1236
+    ],
+    "dissociation": [
+      1566,
+      1569
+    ],
+    "occluded epitope exposure": [
+      1567
+    ],
+    "IL 4 secreting CD4 T cell": [
+      1920
+    ],
+    "immune tolerance": [
+      2029
+    ],
+    "Tfh CXCR5": [
+      2114
+    ],
+    "antigen degradation": [
+      4341,
+      5642
+    ],
+    "antigen overdegradation": [
+      4362
+    ],
+    "proteolytic antigen destruction": [
+      4390
+    ],
+    "CCR7 expression": [
+      4433,
+      5344
+    ],
+    "CCL19 directed migration": [
+      4434
+    ],
+    "B cell activation": [
+      4459
+    ],
+    "plasma cell survival": [
+      4517
+    ],
+    "IgG serum titer": [
+      4518
+    ],
+    "antigen invasion": [
+      4533
+    ],
+    "allergen penetration": [
+      4546
+    ],
+    "intestinal IgA response": [
+      4551
+    ],
+    "enteric virus neutralization": [
+      4552
+    ],
+    "antigen presentation": [
+      4586
+    ],
+    "VEGF A production": [
+      4594
+    ],
+    "excess VEGFR2 signaling": [
+      4597
+    ],
+    "neuroinflammation risk": [
+      4651
+    ],
+    "cell cycling": [
+      4804
+    ],
+    "CD8 proliferation": [
+      4814
+    ],
+    "Eomes expression": [
+      4823
+    ],
+    "common gamma chain signaling": [
+      4847
+    ],
+    "T cell development": [
+      4848
+    ],
+    "NK cell development": [
+      4849
+    ],
+    "thymic epithelial development": [
+      4850
+    ],
+    "T cell maturation": [
+      4851
+    ],
+    "T dependent antibody production": [
+      4852
+    ],
+    "BTK signaling": [
+      4853
+    ],
+    "B cell maturation": [
+      4854
+    ],
+    "antibody production": [
+      4855
+    ],
+    "CD40L CD40 signaling": [
+      4856
+    ],
+    "class switch recombination": [
+      4857
+    ],
+    "germinal center formation": [
+      4858
+    ],
+    "STAT3 signaling": [
+      4859
+    ],
+    "Th17 differentiation": [
+      4860
+    ],
+    "neutrophil recruitment": [
+      4861
+    ],
+    "IFN gamma signaling": [
+      4862
+    ],
+    "macrophage activation": [
+      4863
+    ],
+    "NADPH oxidase activity": [
+      4864
+    ],
+    "respiratory burst": [
+      4865
+    ],
+    "phagocyte microbial killing": [
+      4866
+    ],
+    "helper T cell function": [
+      4875
+    ],
+    "viremia": [
+      4878
+    ],
+    "free IgE levels": [
+      4908
+    ],
+    "mast cell activation": [
+      4909
+    ],
+    "thymic self antigen display": [
+      4915
+    ],
+    "negative selection": [
+      4916
+    ],
+    "FoxP3 Treg function": [
+      4920
+    ],
+    "peripheral tolerance": [
+      4921
+    ],
+    "macrophage inflammatory function": [
+      4950
+    ],
+    "T cell activation": [
+      4953,
+      4959
+    ],
+    "T cell proliferation": [
+      4955
+    ],
+    "tissue injury": [
+      4962
+    ],
+    "microbial tissue entry": [
+      4974
+    ],
+    "host C3 convertase stability": [
+      5013
+    ],
+    "viral replication": [
+      5055
+    ],
+    "MHC I expression": [
+      5058
+    ],
+    "inhibitory NK signaling": [
+      5059
+    ],
+    "TAP peptide transport": [
+      5097
+    ],
+    "MHC I peptide loading": [
+      5098
+    ],
+    "MHC I presentation": [
+      5099
+    ],
+    "Bcl6 expression": [
+      5302
+    ],
+    "lymphatic entry": [
+      5528
+    ],
+    "extracellular matrix trapping": [
+      5536
+    ],
+    "interstitial matrix binding": [
+      5541
+    ],
+    "protein adsorption": [
+      5544
+    ],
+    "macrophage clearance": [
+      5545
+    ]
+  },
+  "Conjugate": {
+    "RBD": [
+      537,
+      781,
+      782
+    ],
+    "eADF4 C16": [
+      1594
+    ],
+    "MDP": [
+      1901
+    ],
+    "CpG": [
+      1904
+    ],
+    "MUC1 glycopeptide": [
+      2423
+    ]
+  },
+  "Encapsulate": {
+    "RABV G mRNA": [
+      681,
+      682
+    ],
+    "VC": [
+      1651
+    ],
+    "S protein": [
+      2103,
+      2106,
+      2110,
+      2111
+    ],
+    "ABM5 SNT": [
+      2396,
+      2397
+    ]
+  },
+  "New_Prepare": {
+    "Unmodified mRNA": [
+      685,
+      686
+    ],
+    "modular design": [
+      860
+    ],
+    "OMV CMV fusion": [
+      1232
+    ],
+    "Photothermal conversion": [
+      1235
+    ],
+    "lyophilization": [
+      1375
+    ],
+    "core shell microneedle": [
+      1430
+    ],
+    "Fusion NDV assembly": [
+      1492
+    ],
+    "Graft GII4 GI1": [
+      1522,
+      1523
+    ],
+    "ammonium sulfate precipitation": [
+      1602
+    ],
+    "Lactococcus lactis hot acid pretreatment": [
+      2471
+    ]
+  },
+  "Formation": {
+    "LLPC": [
+      687
+    ]
+  },
+  "Multivalent": {
+    "4 8 12": [
+      857
+    ]
+  },
+  "Route": {
+    "Intranasal": [
+      1073,
+      1717,
+      1718,
+      1801,
+      1802,
+      1803
+    ],
+    "Subcutaneous or Intramuscular": [
+      1998
+    ],
+    "rectal": [
+      2297
+    ],
+    "Intramuscular": [
+      2579
+    ],
+    "Subcutaneous": [
+      2580
+    ],
+    "pulmonary delivery": [
+      5515
+    ]
+  },
+  "Sustain": {
+    "antigen release": [
+      1163,
+      1164,
+      5491
+    ],
+    "immunopotency": [
+      2336
+    ],
+    "IgG antibodies": [
+      2514
+    ],
+    "anti M2e IgG titer": [
+      2578
+    ],
+    "memory B cell response": [
+      4480
+    ],
+    "plasma cell survival": [
+      4515
+    ],
+    "tissue resident memory T cells": [
+      4553
+    ],
+    "T cell memory": [
+      4567
+    ],
+    "cross reactive CD4 memory": [
+      4569
+    ],
+    "tumor antigen exposure": [
+      4812
+    ],
+    "immune synapse formation": [
+      5139
+    ],
+    "self tolerance maintenance": [
+      5217
+    ],
+    "T dependent B cell response": [
+      5286
+    ],
+    "memory B cell persistence": [
+      5328
+    ],
+    "FoxP3 Treg survival": [
+      5377
+    ],
+    "IgA luminal retention": [
+      5412
+    ],
+    "antimicrobial peptide retention": [
+      5413
+    ],
+    "antigen delivery": [
+      5440
+    ],
+    "lymph node antigen persistence": [
+      5441
+    ],
+    "injection site innate activation": [
+      5469
+    ],
+    "antigen availability": [
+      5496
+    ],
+    "APC encounter": [
+      5512
+    ],
+    "interstitial retention": [
+      5530
+    ],
+    "lymph node accumulation": [
+      5554
+    ],
+    "lymph node retention": [
+      5557
+    ],
+    "local antigen persistence": [
+      5604
+    ],
+    "mucosal residence": [
+      5641
+    ],
+    "local TLR4 stimulation sustainment": [
+      5679
+    ]
+  },
+  "Enable": {
+    "cell integrity": [
+      1279
+    ],
+    "TLR ligand binding": [
+      1280
+    ],
+    "room temperature storage": [
+      1288
+    ],
+    "programmable burst release": [
+      1428,
+      1429
+    ],
+    "skin penetration": [
+      1431
+    ],
+    "antigen delivery": [
+      1432
+    ],
+    "Trimerization": [
+      1494
+    ],
+    "antigen presentation": [
+      1713
+    ],
+    "endosomal escape": [
+      1996,
+      5522,
+      5561,
+      5572
+    ],
+    "ER targeting": [
+      2388,
+      2389
+    ],
+    "cytosolic antigen export": [
+      4365
+    ],
+    "phagosomal antigen escape": [
+      4371
+    ],
+    "MHC I cross presentation": [
+      4373,
+      4413,
+      4817
+    ],
+    "specialized cross presentation compartments": [
+      4376
+    ],
+    "antigen delivery to mature DC": [
+      4387
+    ],
+    "cytosolic antigen entry": [
+      4391
+    ],
+    "mRNA endosomal escape": [
+      4415
+    ],
+    "endosomal antigen escape": [
+      4417
+    ],
+    "BATF3 dependent cross presentation": [
+      4420
+    ],
+    "thymic self antigen display": [
+      4913
+    ],
+    "leukocyte rolling": [
+      5048
+    ],
+    "leukocyte firm adhesion": [
+      5049
+    ],
+    "segment joining accuracy": [
+      5078
+    ],
+    "naive B cell receptor display": [
+      5088
+    ],
+    "MHC I peptide loading": [
+      5093
+    ],
+    "peptide loading complex assembly": [
+      5095
+    ],
+    "invariant chain trafficking": [
+      5105
+    ],
+    "stable peptide binding": [
+      5108
+    ],
+    "vesicular peptide loading": [
+      5115
+    ],
+    "pre BCR formation": [
+      5172
+    ],
+    "surface IgM expression": [
+      5177
+    ],
+    "pre TCR formation": [
+      5194
+    ],
+    "alpha beta TCR expression": [
+      5198
+    ],
+    "positive selection": [
+      5199
+    ],
+    "perforin pore formation": [
+      5242
+    ],
+    "granzyme B delivery": [
+      5244
+    ],
+    "lymphatic endothelial crossing": [
+      5552
+    ],
+    "RNA encapsulation": [
+      5560
+    ],
+    "RNA cargo release": [
+      5568
+    ],
+    "endosomal membrane disruption": [
+      5623
+    ],
+    "antigen escape": [
+      5624
+    ],
+    "proteasomal antigen processing": [
+      5628
+    ]
+  },
+  "Tune": {
+    "molecular mass": [
+      1426
+    ]
+  },
+  "Control": {
+    "release lag time": [
+      1427
+    ]
+  },
+  "Display": {
+    "stable antigen presentation": [
+      1458
+    ],
+    "glycoproteins": [
+      1496
+    ],
+    "anti CD11c ZZ domain": [
+      1990
+    ],
+    "on AP205 surface": [
+      2424
+    ]
+  },
+  "Storage": {
+    "4C": [
+      1459
+    ]
+  },
+  "Form": {
+    "disulfide bond": [
+      1565
+    ]
+  },
+  "Express": {
+    "SpreS116 42 in CHO cells": [
+      1759,
+      1760
+    ],
+    "ORORO": [
+      2027
+    ],
+    "E VLP": [
+      2046
+    ],
+    "SARS CoV 2 VLP": [
+      2355
+    ],
+    "GNNV proteins": [
+      2512
+    ],
+    "VP1 WT": [
+      2521
+    ],
+    "VP2": [
+      2522
+    ]
+  },
+  "Positive": {
+    "CD4 T cell": [
+      1903,
+      1906,
+      1907,
+      1908,
+      1917
+    ]
+  },
+  "Increase": {
+    "TNF alpha": [
+      1916
+    ],
+    "costimulatory molecule expression": [
+      4285,
+      4401,
+      4409,
+      5488
+    ],
+    "CCR7 expression": [
+      4317,
+      4426
+    ],
+    "Tfh cell response": [
+      4320
+    ],
+    "IFN gamma T cell frequency": [
+      4350
+    ],
+    "phagosomal alkalinization": [
+      4361,
+      4368
+    ],
+    "phagosomal ROS production": [
+      4367
+    ],
+    "CD80 CD86 costimulation": [
+      4403
+    ],
+    "DC LAMP expression": [
+      4406
+    ],
+    "inflammatory cytokine production": [
+      4410,
+      5438
+    ],
+    "IL 12 production": [
+      4412,
+      5449
+    ],
+    "type I IFN production": [
+      4525,
+      4688,
+      4836,
+      4837,
+      5053,
+      5448,
+      5462,
+      5697
+    ],
+    "pulmonary inflammation risk": [
+      4574
+    ],
+    "TOX expression": [
+      4588
+    ],
+    "angiostatic chemokines": [
+      4595
+    ],
+    "antiangiogenic dose intensity": [
+      4604
+    ],
+    "tumor hypoxia": [
+      4605
+    ],
+    "innate reactogenicity": [
+      4619
+    ],
+    "innate immune stimulation": [
+      4630
+    ],
+    "local systemic reactogenicity": [
+      4631
+    ],
+    "antibody production": [
+      4644
+    ],
+    "cytokine production": [
+      4655,
+      4724
+    ],
+    "NLRP3 expression": [
+      4676,
+      4700
+    ],
+    "ROS production": [
+      4678,
+      4705,
+      4727,
+      4740
+    ],
+    "cGAMP production": [
+      4681
+    ],
+    "inflammatory gene expression": [
+      4697
+    ],
+    "pro IL 1 beta expression": [
+      4699
+    ],
+    "oncostatin M production": [
+      4743
+    ],
+    "granzyme A expression": [
+      4810
+    ],
+    "CD57 expression": [
+      4811
+    ],
+    "IL 15 receptor expression": [
+      4825
+    ],
+    "CD40 expression": [
+      4841
+    ],
+    "HIV proviral transcription": [
+      4872
+    ],
+    "HIV replication": [
+      4873
+    ],
+    "vascular permeability": [
+      4887,
+      4901,
+      5028
+    ],
+    "smooth muscle contraction": [
+      4890
+    ],
+    "goblet cell metaplasia": [
+      4898
+    ],
+    "mucus secretion": [
+      4899
+    ],
+    "airway constriction": [
+      4902
+    ],
+    "autoreactive lymphocyte survival": [
+      4917
+    ],
+    "thyroid hormone production": [
+      4930
+    ],
+    "graft thrombosis": [
+      4944
+    ],
+    "GVHD inflammation": [
+      4947
+    ],
+    "regulatory T cells": [
+      4956
+    ],
+    "C5a generation": [
+      5008
+    ],
+    "respiratory burst": [
+      5019
+    ],
+    "C5a signaling": [
+      5026
+    ],
+    "acute phase protein production": [
+      5052
+    ],
+    "CDR3 diversity": [
+      5086
+    ],
+    "CD86 expression": [
+      5118
+    ],
+    "calcium entry": [
+      5127
+    ],
+    "IL7 receptor expression": [
+      5166
+    ],
+    "CD19 expression": [
+      5170
+    ],
+    "tissue antigen expression": [
+      5212
+    ],
+    "dendritic cell costimulation": [
+      5220
+    ],
+    "T bet expression": [
+      5224
+    ],
+    "GATA3 expression": [
+      5226
+    ],
+    "ROR gamma t expression": [
+      5229
+    ],
+    "B cell proliferation": [
+      5234,
+      5268,
+      5275
+    ],
+    "MHC I expression": [
+      5259
+    ],
+    "AID expression": [
+      5277
+    ],
+    "epsilon switch transcription": [
+      5290
+    ],
+    "BLIMP1 expression": [
+      5303
+    ],
+    "inflammatory chemokine receptors": [
+      5345
+    ],
+    "gut homing receptor expression": [
+      5365,
+      5408
+    ],
+    "pIgR expression": [
+      5395
+    ],
+    "proinflammatory cytokine production": [
+      5456
+    ],
+    "cytokine secretion": [
+      5467
+    ],
+    "IL 12 p40 secretion": [
+      5477
+    ],
+    "IL 1 beta precursor production": [
+      5483
+    ],
+    "systemic clearance": [
+      5527
+    ],
+    "antigen expression": [
+      5563
+    ],
+    "calcium influx": [
+      5580
+    ],
+    "oxidative stress": [
+      5581
+    ],
+    "DAMP release": [
+      5610
+    ],
+    "cathepsin B release": [
+      5617
+    ],
+    "CD4 T cell proliferation": [
+      5637
+    ],
+    "chemokine secretion": [
+      5650,
+      5664
+    ],
+    "antigen loaded APC accumulation": [
+      5659
+    ],
+    "proinflammatory cytokine increase": [
+      5663,
+      5676
+    ],
+    "chemokine response increase": [
+      5669
+    ],
+    "draining node chemokine increase": [
+      5684
+    ]
+  },
+  "Zeta_potential": {
+    "negative 30mV": [
+      1988
+    ]
+  },
+  "Induce": {
+    "epitope repetitiveness": [
+      2028
+    ],
+    "IgG2a class switching": [
+      4332
+    ],
+    "somatic hypermutation": [
+      4470,
+      4472,
+      4505,
+      4539,
+      5278
+    ],
+    "class switch recombination": [
+      4475,
+      4485,
+      4488,
+      4491,
+      4528,
+      5287,
+      5301
+    ],
+    "plasma cell differentiation": [
+      4494
+    ],
+    "DNA strand breaks": [
+      4497
+    ],
+    "high affinity IgA response": [
+      4544
+    ],
+    "intestinal IgA response": [
+      4549
+    ],
+    "Th2 immunopathology": [
+      4573
+    ],
+    "CD8 T cell exhaustion": [
+      4589
+    ],
+    "intratumoral HEV formation": [
+      4602
+    ],
+    "autophagy": [
+      4694
+    ],
+    "pyroptosis": [
+      4717
+    ],
+    "CD8 exhaustion": [
+      4813
+    ],
+    "mucosal regulatory T cells": [
+      4903
+    ],
+    "FoxP3 Treg development": [
+      4918
+    ],
+    "polysaccharide antibody response": [
+      4972
+    ],
+    "junctional diversity": [
+      5082
+    ],
+    "B cell lineage commitment": [
+      5169
+    ],
+    "heavy chain allelic exclusion": [
+      5176
+    ],
+    "B cell central tolerance": [
+      5179
+    ],
+    "receptor editing": [
+      5183
+    ],
+    "clonal deletion": [
+      5185
+    ],
+    "B cell anergy": [
+      5188
+    ],
+    "T cell lineage commitment": [
+      5191
+    ],
+    "thymocyte apoptosis": [
+      5211
+    ],
+    "germinal center reaction": [
+      5276,
+      5325
+    ],
+    "IgE class switching": [
+      5291
+    ],
+    "IgA class switching": [
+      5294,
+      5392
+    ],
+    "IgG class switching": [
+      5298
+    ],
+    "IgA B cell response": [
+      5409
+    ],
+    "secretory IgA response": [
+      5420
+    ],
+    "IL 1 beta": [
+      5586
+    ],
+    "type I IFN response": [
+      5589
+    ]
+  },
+  "Process": {
+    "aluminum salt uptake": [
+      4265
+    ],
+    "aluminum adjuvant uptake": [
+      4269
+    ],
+    "antigen uptake": [
+      4314,
+      4338,
+      4340,
+      4392
+    ],
+    "ISCOMATRIX uptake": [
+      4321
+    ],
+    "antigen cytosol translocation": [
+      4322,
+      4344
+    ],
+    "resident DC uptake": [
+      4325
+    ],
+    "saponin adjuvant uptake": [
+      4330,
+      4342
+    ],
+    "endosomal antigen routing": [
+      4335
+    ],
+    "proteasome antigen processing": [
+      4345
+    ],
+    "exogenous antigen uptake": [
+      4355
+    ],
+    "cytosolic antigen translocation": [
+      4356
+    ],
+    "proteasomal antigen processing": [
+      4357
+    ],
+    "phagosomal antigen retention": [
+      4358
+    ],
+    "cathepsin antigen processing": [
+      4359
+    ],
+    "phagosomal proteolysis control": [
+      4364
+    ],
+    "peripheral antigen capture": [
+      4377
+    ],
+    "antigen transfer to cDC1": [
+      4379
+    ],
+    "receptor mediated uptake": [
+      4384
+    ],
+    "intracellular antigen routing": [
+      4385
+    ],
+    "endocytic receptor uptake": [
+      4386
+    ],
+    "endosomal antigen processing": [
+      4393
+    ],
+    "endolysosomal antigen degradation": [
+      4395
+    ],
+    "foreign antigen uptake": [
+      4398
+    ],
+    "antigen delivery to DC": [
+      4402
+    ],
+    "MHC II antigen transport": [
+      4407
+    ],
+    "mRNA endosomal uptake": [
+      4414
+    ],
+    "alum antigen internalization": [
+      4422
+    ],
+    "lysosomal antigen processing": [
+      4423
+    ],
+    "cytoskeletal rearrangement": [
+      4432
+    ],
+    "CD23 B cell transport": [
+      4446
+    ],
+    "DC antigen uptake": [
+      4447
+    ],
+    "marginal zone B cell transport": [
+      4455
+    ],
+    "uracil base excision": [
+      4496
+    ],
+    "UNG base excision": [
+      4502
+    ],
+    "quiet microbial elimination": [
+      4537
+    ],
+    "enteric virus replication": [
+      4548
+    ],
+    "OMV particle uptake": [
+      4608
+    ],
+    "mucosal antigen uptake": [
+      4625
+    ],
+    "exercise salivary IgA fluctuation": [
+      4633
+    ],
+    "acute exercise stimulus": [
+      4642
+    ],
+    "IL 1 beta maturation": [
+      4711,
+      5041
+    ],
+    "IL 18 maturation": [
+      4713
+    ],
+    "GSDMD cleavage": [
+      4716
+    ],
+    "phagocytic synapse formation": [
+      4726
+    ],
+    "phagocytic uptake": [
+      4845
+    ],
+    "phagocytic clearance": [
+      4927
+    ],
+    "immunosuppressive therapy": [
+      4963
+    ],
+    "live attenuated viral replication": [
+      4968
+    ],
+    "dendritic cell antigen uptake": [
+      4978
+    ],
+    "phagosome formation": [
+      5015
+    ],
+    "phagolysosome maturation": [
+      5016
+    ],
+    "neutrophil extracellular trap formation": [
+      5021
+    ],
+    "antibody CDR loop formation": [
+      5066
+    ],
+    "synaptic complex formation": [
+      5074
+    ],
+    "DNA cleavage": [
+      5075
+    ],
+    "coding end joining": [
+      5076
+    ],
+    "hairpin opening": [
+      5079
+    ],
+    "nucleotide trimming": [
+      5080
+    ],
+    "TdT nucleotide addition": [
+      5081
+    ],
+    "VDJ segment selection": [
+      5083
+    ],
+    "TCR gene rearrangement": [
+      5085,
+      5192
+    ],
+    "Ig heavy chain RNA processing": [
+      5087
+    ],
+    "IgM polymerization": [
+      5089
+    ],
+    "ubiquitin proteasome degradation": [
+      5091
+    ],
+    "TAP peptide transport": [
+      5092,
+      5113
+    ],
+    "MHC I heavy chain folding": [
+      5094
+    ],
+    "peptide trimming": [
+      5096
+    ],
+    "endocytic antigen uptake": [
+      5103
+    ],
+    "MHC II assembly": [
+      5104
+    ],
+    "CLIP cleavage": [
+      5106
+    ],
+    "CLIP peptide exchange": [
+      5107
+    ],
+    "autophagic antigen delivery": [
+      5109
+    ],
+    "phagosomal antigen escape": [
+      5111
+    ],
+    "proteasome degradation": [
+      5112
+    ],
+    "phagosomal antigen processing": [
+      5114
+    ],
+    "BCR antigen internalization": [
+      5148
+    ],
+    "heavy chain rearrangement": [
+      5171
+    ],
+    "light chain rearrangement": [
+      5182
+    ],
+    "TCR beta rearrangement": [
+      5193
+    ],
+    "TCR alpha rearrangement": [
+      5197
+    ],
+    "BCR captured antigen processing": [
+      5263
+    ],
+    "luminal antigen uptake": [
+      5358
+    ],
+    "innocuous antigen uptake": [
+      5368
+    ],
+    "intestinal phagocytosis": [
+      5374
+    ],
+    "M cell complex uptake": [
+      5386
+    ],
+    "oral antigen uptake": [
+      5414
+    ],
+    "commensal antigen sampling": [
+      5418
+    ],
+    "commensal antigen uptake": [
+      5428
+    ],
+    "polymer hydrolysis": [
+      5490
+    ],
+    "antigen processing": [
+      5493,
+      5506,
+      5550
+    ],
+    "signal colocalization": [
+      5501
+    ],
+    "DC pinocytosis": [
+      5505
+    ],
+    "local antigen processing": [
+      5518
+    ],
+    "cytosolic antigen processing": [
+      5523
+    ],
+    "cell membrane interaction": [
+      5534
+    ],
+    "acidic endosomal protonation": [
+      5566
+    ],
+    "endosomal membrane fusion": [
+      5567
+    ],
+    "inverted hexagonal phase": [
+      5570
+    ],
+    "endosomal membrane destabilization": [
+      5571
+    ],
+    "LNP endocytic uptake": [
+      5574
+    ],
+    "particle pathway selection": [
+      5575
+    ],
+    "membrane disruption": [
+      5579
+    ],
+    "particulate antigen display": [
+      5600
+    ],
+    "tissue cell necrosis": [
+      5609
+    ],
+    "phagocytosis": [
+      5614
+    ],
+    "phagosomal destabilization": [
+      5615
+    ],
+    "lysosomal rupture": [
+      5616
+    ],
+    "pore formation": [
+      5622
+    ],
+    "intracellular lipid body formation": [
+      5627
+    ],
+    "receptor mediated endocytosis": [
+      5632
+    ],
+    "antigen endocytosis": [
+      5636
+    ],
+    "antigen release": [
+      5647
+    ],
+    "innate foreign recognition": [
+      5661
+    ]
+  },
+  "Secrete": {
+    "uric acid danger signal": [
+      4270
+    ],
+    "IL 12 secretion": [
+      4289,
+      4752,
+      5056,
+      5335
+    ],
+    "type I IFN secretion": [
+      4290
+    ],
+    "chemokine secretion": [
+      4297,
+      4312
+    ],
+    "IL 12p40 secretion": [
+      4300
+    ],
+    "IL 23 secretion": [
+      4302,
+      5339,
+      5426
+    ],
+    "IL 12 TNF alpha secretion": [
+      4308
+    ],
+    "IFN gamma secretion": [
+      4311,
+      4329,
+      4756,
+      5057,
+      5237,
+      5257,
+      5296,
+      5349
+    ],
+    "GM CSF signal": [
+      4346,
+      4349
+    ],
+    "IL 6 signal": [
+      4352
+    ],
+    "balanced cytokine secretion": [
+      4354
+    ],
+    "antibody secretion": [
+      4507,
+      4510
+    ],
+    "tumor reactive antibody": [
+      4521
+    ],
+    "IgA antibody": [
+      4522
+    ],
+    "CXCL13 secretion": [
+      4526
+    ],
+    "isotype switched antibody": [
+      4529
+    ],
+    "secretory IgA": [
+      4531
+    ],
+    "dimeric secretory IgA": [
+      4534
+    ],
+    "local cytokine signals": [
+      4554
+    ],
+    "IFN gamma recall response": [
+      4568
+    ],
+    "immunosuppressive cytokines": [
+      4579
+    ],
+    "proangiogenic factors": [
+      4591
+    ],
+    "IFN gamma": [
+      4593
+    ],
+    "cytokine production": [
+      4616
+    ],
+    "inflammatory cytokines": [
+      4623
+    ],
+    "IL 1 production": [
+      4628
+    ],
+    "proinflammatory cytokines": [
+      4646
+    ],
+    "IL 1 beta secretion": [
+      4719
+    ],
+    "IL 4 secretion": [
+      4758,
+      4881
+    ],
+    "IL 2 secretion": [
+      4772
+    ],
+    "IL 21 secretion": [
+      4777,
+      5233
+    ],
+    "IL 12 p75 secretion": [
+      4783,
+      4786
+    ],
+    "IL 27 secretion": [
+      4787,
+      4791
+    ],
+    "IL 10 secretion": [
+      4793,
+      4904,
+      5375
+    ],
+    "IL 35 secretion": [
+      4794
+    ],
+    "inflammatory cytokine secretion": [
+      4830,
+      5036,
+      5402
+    ],
+    "IgE antibody secretion": [
+      4882
+    ],
+    "histamine release": [
+      4886
+    ],
+    "lipid mediator release": [
+      4889
+    ],
+    "IL 25 release": [
+      4895
+    ],
+    "IL 13 secretion": [
+      4897,
+      5355
+    ],
+    "TGF beta secretion": [
+      4905,
+      5292,
+      5372,
+      5391,
+      5416
+    ],
+    "IL 17 secretion": [
+      4936,
+      5064,
+      5230,
+      5394
+    ],
+    "proinflammatory cytokine secretion": [
+      4977,
+      5024
+    ],
+    "macrophage activating cytokines": [
+      4991
+    ],
+    "antimicrobial peptide secretion": [
+      4992,
+      5399
+    ],
+    "macrophage chemokine secretion": [
+      5045
+    ],
+    "systemic inflammatory cytokines": [
+      5050
+    ],
+    "type 2 cytokine secretion": [
+      5062
+    ],
+    "IL 2 help signal": [
+      5221
+    ],
+    "IL 6 secretion": [
+      5227,
+      5425
+    ],
+    "cytotoxic granule release": [
+      5241
+    ],
+    "polarized granule release": [
+      5254
+    ],
+    "IgM secretion": [
+      5272,
+      5308,
+      5312
+    ],
+    "IL 5 help signal": [
+      5295
+    ],
+    "BAFF secretion": [
+      5313
+    ],
+    "IL 18 secretion": [
+      5336
+    ],
+    "IL 22 secretion": [
+      5342,
+      5397
+    ],
+    "retinoic acid production": [
+      5364,
+      5371
+    ],
+    "dimeric IgA secretion": [
+      5379
+    ],
+    "dendritic cell IL 10 secretion": [
+      5387
+    ],
+    "APRIL BAFF secretion": [
+      5393
+    ],
+    "CXCL8 secretion": [
+      5403
+    ],
+    "mucus production": [
+      5410
+    ],
+    "local IgA secretion": [
+      5432
+    ]
+  },
+  "Bind": {
+    "TLR4 ligand binding": [
+      4272,
+      4275,
+      4621
+    ],
+    "TLR9 ligand binding": [
+      4278,
+      4281,
+      4283,
+      4286,
+      4288
+    ],
+    "TLR5 ligand binding": [
+      4291,
+      4295,
+      4298,
+      4301
+    ],
+    "TLR7 TLR8 ligand binding": [
+      4303,
+      4309
+    ],
+    "TLR8 ligand binding": [
+      4306
+    ],
+    "CLEC9a antigen targeting": [
+      4334
+    ],
+    "DC receptor targeting": [
+      4337
+    ],
+    "Clec9A dead cell recognition": [
+      4369
+    ],
+    "CD40L CD40 engagement": [
+      4380,
+      5285
+    ],
+    "endocytic receptor targeting": [
+      4383
+    ],
+    "CD28 costimulatory binding": [
+      4404
+    ],
+    "CD154 CD40 engagement": [
+      4405
+    ],
+    "TLR ligand recognition": [
+      4408
+    ],
+    "CCL21 CCL19 sensing": [
+      4427
+    ],
+    "CCR7 chemokine binding": [
+      4429
+    ],
+    "EBI2 oxysterol sensing": [
+      4442
+    ],
+    "IgE antigen complex binding": [
+      4445
+    ],
+    "IgM antigen complex binding": [
+      4449
+    ],
+    "IgG3 antigen complex binding": [
+      4453
+    ],
+    "IgG antigen complex binding": [
+      4457
+    ],
+    "antibody antigen complex binding": [
+      4460
+    ],
+    "BCR antigen recognition": [
+      4466,
+      4477
+    ],
+    "CD40 ligand engagement": [
+      4486
+    ],
+    "IL4 receptor signaling": [
+      4489
+    ],
+    "IL21 receptor signaling": [
+      4492
+    ],
+    "antibody pathogen binding": [
+      4508
+    ],
+    "tumor cell antigen binding": [
+      4523
+    ],
+    "broad antigen recognition": [
+      4535
+    ],
+    "IgA bacterial binding": [
+      4536
+    ],
+    "polyreactive antigen recognition": [
+      4541
+    ],
+    "allergen IgA binding": [
+      4545
+    ],
+    "viral antigen recognition": [
+      4557
+    ],
+    "conserved viral epitope recognition": [
+      4570
+    ],
+    "conserved spike epitope recognition": [
+      4571
+    ],
+    "TLR PAMP recognition": [
+      4609,
+      5029
+    ],
+    "TLR2 ligand binding": [
+      4615
+    ],
+    "IL 23 receptor engagement": [
+      4766
+    ],
+    "IL 27 receptor engagement": [
+      4788
+    ],
+    "TCR antigen recognition": [
+      4796
+    ],
+    "lipid CD1d recognition": [
+      4828
+    ],
+    "antibody antigen binding": [
+      4843,
+      4984,
+      5314
+    ],
+    "HIV CD4 binding": [
+      4867
+    ],
+    "HIV coreceptor binding": [
+      4868
+    ],
+    "Fc epsilon RI loading": [
+      4883
+    ],
+    "allergen IgE crosslinking": [
+      4884
+    ],
+    "anti IgE antibody binding": [
+      4907
+    ],
+    "autoantibody blood cell binding": [
+      4925
+    ],
+    "receptor autoantibody binding": [
+      4928
+    ],
+    "basement membrane autoantibody binding": [
+      4931
+    ],
+    "alloantibody endothelial binding": [
+      4942
+    ],
+    "calcineurin inhibitor complex": [
+      4951
+    ],
+    "CTLA4 Ig B7 binding": [
+      4957
+    ],
+    "anti TNF antibody binding": [
+      4960
+    ],
+    "PRR inflammatory inducer recognition": [
+      4975
+    ],
+    "lymphocyte antigen recognition": [
+      4981
+    ],
+    "CD8 T cell recognition": [
+      4988
+    ],
+    "antimicrobial peptide membrane binding": [
+      4994
+    ],
+    "lectin microbial carbohydrate recognition": [
+      4996
+    ],
+    "antibody pathogen surface binding": [
+      4999
+    ],
+    "complement receptor recognition": [
+      5005
+    ],
+    "phagocytic receptor recognition": [
+      5014
+    ],
+    "phagocyte GPCR ligand recognition": [
+      5017
+    ],
+    "macrophage pathogen recognition": [
+      5023
+    ],
+    "endosomal viral nucleic acid recognition": [
+      5031
+    ],
+    "TLR4 LPS recognition": [
+      5034
+    ],
+    "cytosolic bacterial product recognition": [
+      5037
+    ],
+    "cytosolic DNA sensing": [
+      5042
+    ],
+    "antibody epitope recognition": [
+      5067
+    ],
+    "peptide MHC groove binding": [
+      5068
+    ],
+    "coreceptor MHC contact": [
+      5071
+    ],
+    "RAG RSS recognition": [
+      5073
+    ],
+    "compatible RSS pairing": [
+      5077
+    ],
+    "TCR peptide MHC recognition": [
+      5101,
+      5121,
+      5136
+    ],
+    "BCR antigen binding": [
+      5140,
+      5147,
+      5261
+    ],
+    "complement tagged antigen binding": [
+      5144
+    ],
+    "B7 CD28 engagement": [
+      5150
+    ],
+    "CTLA4 B7 engagement": [
+      5156
+    ],
+    "PD1 ligand engagement": [
+      5159
+    ],
+    "self antigen recognition": [
+      5178,
+      5215
+    ],
+    "multivalent self antigen recognition": [
+      5180,
+      5184
+    ],
+    "soluble self antigen recognition": [
+      5187
+    ],
+    "low affinity self MHC recognition": [
+      5200
+    ],
+    "MHC II restricted recognition": [
+      5203
+    ],
+    "MHC I restricted recognition": [
+      5206
+    ],
+    "high affinity self antigen recognition": [
+      5209
+    ],
+    "CD4 T cell antigen recognition": [
+      5218
+    ],
+    "Th1 macrophage recognition": [
+      5236
+    ],
+    "CTL antigen recognition": [
+      5240
+    ],
+    "Fas ligand binding": [
+      5248
+    ],
+    "CTL target adhesion": [
+      5252
+    ],
+    "Tfh B cell contact": [
+      5265
+    ],
+    "high affinity antigen binding": [
+      5282
+    ],
+    "Tfh peptide recognition": [
+      5283
+    ],
+    "BCR TI1 antigen binding": [
+      5305
+    ],
+    "repetitive antigen binding": [
+      5310
+    ],
+    "antibody pathogen coating": [
+      5317,
+      5321
+    ],
+    "Fc receptor engagement": [
+      5319
+    ],
+    "Th1 antigen recognition": [
+      5348
+    ],
+    "pIgR IgA binding": [
+      5380
+    ],
+    "IgA antigen binding": [
+      5383
+    ],
+    "epithelial PAMP recognition": [
+      5401
+    ],
+    "IgA microbiota coating": [
+      5421
+    ],
+    "TLR5 flagellin binding": [
+      5423
+    ],
+    "TLR9 ligand recognition": [
+      5435,
+      5694
+    ],
+    "TLR4 ligand recognition": [
+      5452
+    ],
+    "TLR3 dsRNA recognition": [
+      5458
+    ],
+    "TLR7/8 ligand recognition": [
+      5464
+    ],
+    "TLR5 ligand recognition": [
+      5474
+    ],
+    "NOD2 ligand recognition": [
+      5480
+    ],
+    "PRR family recognition": [
+      5485
+    ],
+    "cell membrane": [
+      5578
+    ],
+    "endosomal TLR7 8 recognition": [
+      5591
+    ],
+    "membrane cholesterol interaction": [
+      5621
+    ],
+    "mannose receptor engagement": [
+      5631
+    ],
+    "dectin 1 recognition": [
+      5634
+    ],
+    "mucin interaction": [
+      5640
+    ],
+    "TLR4 recognition": [
+      5673
+    ]
+  },
+  "Recruit": {
+    "phagocyte recruitment": [
+      4313,
+      5009,
+      5324
+    ],
+    "NOX2 phagosome recruitment": [
+      4360
+    ],
+    "Sec22b ERGIC recruitment": [
+      4363
+    ],
+    "Rab39a phagosome machinery": [
+      4366
+    ],
+    "TIL B cell infiltration": [
+      4519
+    ],
+    "B cell recruitment": [
+      4527
+    ],
+    "innate immune cells": [
+      4555
+    ],
+    "CD8 T cell infiltration": [
+      4600
+    ],
+    "activated T cell infiltration": [
+      4603
+    ],
+    "monocyte recruitment": [
+      4624
+    ],
+    "lymphocyte mobilization": [
+      4636
+    ],
+    "NK cell mobilization": [
+      4639
+    ],
+    "eosinophil recruitment": [
+      4892
+    ],
+    "neutrophil recruitment": [
+      4933,
+      5046,
+      5065,
+      5341,
+      5404
+    ],
+    "myeloid cell recruitment": [
+      4937,
+      5347,
+      5670
+    ],
+    "activated monocytes": [
+      5470,
+      5593
+    ],
+    "APC recruitment": [
+      5605
+    ],
+    "inflammatory cell recruitment": [
+      5611
+    ],
+    "myeloid cell influx": [
+      5651
+    ],
+    "injection site immune recruitment": [
+      5665
+    ],
+    "APC influx recruitment": [
+      5677
+    ],
+    "central immune cell recruitment": [
+      5689
+    ]
+  },
+  "Differentiate": {
+    "germinal center B cell differentiation": [
+      4319
+    ],
+    "dendritic cell differentiation": [
+      4347
+    ],
+    "cDC1 lineage differentiation": [
+      4372
+    ],
+    "GC B cell differentiation": [
+      4476,
+      4504
+    ],
+    "short lived plasmablast": [
+      4479
+    ],
+    "high affinity plasmablast": [
+      4482
+    ],
+    "long lived plasma cell": [
+      4513
+    ],
+    "TIL plasma cell differentiation": [
+      4520
+    ],
+    "M2 macrophage polarization": [
+      4578,
+      4590
+    ],
+    "plasma cell differentiation": [
+      4614,
+      5235,
+      5304
+    ],
+    "Th17 differentiation": [
+      4629,
+      4765,
+      5427,
+      5638
+    ],
+    "Th1 differentiation": [
+      4755
+    ],
+    "Th2 differentiation": [
+      4761,
+      4880,
+      5357
+    ],
+    "Treg differentiation": [
+      4771
+    ],
+    "Tfh differentiation": [
+      4776,
+      4778,
+      5231
+    ],
+    "Tfr differentiation": [
+      4781
+    ],
+    "Tr1 differentiation": [
+      4792
+    ],
+    "memory precursor emergence": [
+      4805
+    ],
+    "CD8 terminal differentiation": [
+      4808
+    ],
+    "CTL differentiation": [
+      4816
+    ],
+    "memory precursor state": [
+      4819
+    ],
+    "Trm differentiation": [
+      4821
+    ],
+    "effector lymphocyte response": [
+      4983
+    ],
+    "CD4 T cell lineage": [
+      5205
+    ],
+    "CD8 T cell lineage": [
+      5208
+    ],
+    "regulatory T cell lineage": [
+      5216
+    ],
+    "plasmablast differentiation": [
+      5271
+    ],
+    "memory B cell differentiation": [
+      5327
+    ],
+    "effector T cell differentiation": [
+      5343
+    ],
+    "M1 macrophage differentiation": [
+      5351
+    ],
+    "mucosal effector differentiation": [
+      5367
+    ],
+    "FoxP3 Treg differentiation": [
+      5373
+    ],
+    "IgA plasma cell differentiation": [
+      5378
+    ],
+    "gut homing Treg differentiation": [
+      5417
+    ],
+    "monocyte derived DC differentiation": [
+      5685
+    ]
+  },
+  "Present": {
+    "MHC I presentation": [
+      4323,
+      4336,
+      4416,
+      4564,
+      5100,
+      5564
+    ],
+    "antigen presentation": [
+      4326,
+      4331,
+      4558,
+      4980,
+      5498,
+      5503,
+      5519
+    ],
+    "MHC I cross presentation": [
+      4327,
+      4388,
+      5524,
+      5598,
+      5625,
+      5629
+    ],
+    "MHC II presentation": [
+      4394,
+      4396,
+      4424,
+      4561,
+      5110,
+      5149,
+      5602
+    ],
+    "CD4 T cell presentation": [
+      4448
+    ],
+    "MHC II antigen presentation": [
+      4467,
+      4989
+    ],
+    "allergen presentation": [
+      4879
+    ],
+    "self antigen presentation": [
+      4910
+    ],
+    "allogeneic MHC presentation": [
+      4938
+    ],
+    "carrier peptide presentation": [
+      4970
+    ],
+    "MHC I viral peptide presentation": [
+      4987
+    ],
+    "peptide MHC presentation": [
+      5070
+    ],
+    "thymic self antigen presentation": [
+      5213
+    ],
+    "B cell MHC II presentation": [
+      5264
+    ],
+    "lymphoid antigen presentation": [
+      5332
+    ],
+    "dendritic cell antigen presentation": [
+      5360
+    ],
+    "mucosal antigen presentation": [
+      5363,
+      5419
+    ],
+    "tolerogenic antigen presentation": [
+      5370
+    ],
+    "mesenteric antigen presentation": [
+      5415
+    ],
+    "semi mature antigen presentation": [
+      5430
+    ],
+    "vaccine antigen presentation": [
+      5692
+    ]
+  },
+  "Prime": {
+    "CD8 T cell priming": [
+      4328,
+      4374,
+      4382,
+      4800,
+      4815,
+      4969,
+      5222
+    ],
+    "CD4 T cell priming": [
+      4397
+    ],
+    "CD8 T cell expansion": [
+      4421
+    ],
+    "Tfh cell help": [
+      4468
+    ],
+    "B cell activation": [
+      4560
+    ],
+    "B cell proliferation": [
+      4563
+    ],
+    "naive CD4 T cell priming": [
+      4749
+    ],
+    "T cell priming": [
+      4798
+    ],
+    "naive CD8 T cell priming": [
+      4809
+    ],
+    "CD8 memory priming": [
+      4818
+    ],
+    "autoreactive T cell help": [
+      4923
+    ],
+    "alloreactive T cell priming": [
+      4939
+    ],
+    "helper T cell priming": [
+      4971
+    ],
+    "adaptive lymphocyte priming": [
+      5333
+    ],
+    "mucosal T cell priming": [
+      5361
+    ],
+    "effector T cell priming": [
+      5407
+    ]
+  },
+  "Migrate": {
+    "draining lymph node migration": [
+      4378,
+      4979
+    ],
+    "lymph node migration": [
+      4400
+    ],
+    "CCR7 dependent DC migration": [
+      4428
+    ],
+    "skin to lymph node migration": [
+      4438
+    ],
+    "DC lymphatic egress": [
+      4440
+    ],
+    "bone marrow niche homing": [
+      4514
+    ],
+    "intestinal B cell migration": [
+      4542
+    ],
+    "peripheral tissue redistribution": [
+      4637
+    ],
+    "tumor immune infiltration": [
+      4640
+    ],
+    "non lymphoid tissue seeding": [
+      4820
+    ],
+    "CNS infiltration": [
+      4935
+    ],
+    "graft infiltration": [
+      4940
+    ],
+    "host tissue infiltration": [
+      4946
+    ],
+    "B cell follicle migration": [
+      5232
+    ],
+    "primary focus migration": [
+      5270
+    ],
+    "follicle entry": [
+      5274
+    ],
+    "effector cell circulation": [
+      5334
+    ],
+    "inflamed tissue homing": [
+      5346
+    ],
+    "M cell transcytosis": [
+      5359
+    ],
+    "lamina propria homing": [
+      5366
+    ],
+    "mesenteric lymph node migration": [
+      5369,
+      5406,
+      5429
+    ],
+    "epithelial transcytosis": [
+      5381
+    ],
+    "antigen export": [
+      5385
+    ],
+    "B1 cell mucosal migration": [
+      5389
+    ],
+    "IgA epithelial transport": [
+      5396
+    ],
+    "antigen loaded monocytes": [
+      5471
+    ],
+    "DC migration": [
+      5532
+    ],
+    "monocyte derived DC homing": [
+      5594
+    ],
+    "antigen transport": [
+      5606
+    ],
+    "antigen loaded APC migration": [
+      5653
+    ]
+  },
+  "Balance": {
+    "CCR7 retention egress balance": [
+      4441
+    ],
+    "systemic inflammatory regulation": [
+      4650
+    ]
+  },
+  "Suppress": {
+    "BCR antigen recognition": [
+      4458
+    ],
+    "masked epitope response": [
+      4461
+    ],
+    "costimulatory molecule expression": [
+      4463
+    ],
+    "DC maturation": [
+      4464
+    ],
+    "T cell activation": [
+      4465,
+      4580,
+      5158,
+      5161
+    ],
+    "plasma cell retention": [
+      4516
+    ],
+    "Th2 allergic inflammation": [
+      4547
+    ],
+    "CD8 T cell infiltration": [
+      4577,
+      4606
+    ],
+    "CD8 T cell trafficking": [
+      4582
+    ],
+    "cytotoxic T cell function": [
+      4583
+    ],
+    "dendritic cell maturation": [
+      4585
+    ],
+    "Tfh response": [
+      4782
+    ],
+    "helper T cell response": [
+      4795
+    ],
+    "Th2 differentiation": [
+      4906
+    ],
+    "effector T cell differentiation": [
+      4912
+    ],
+    "autoreactive T cell survival": [
+      4914
+    ],
+    "autoreactive T cell activation": [
+      4919
+    ],
+    "proinflammatory gene expression": [
+      4949
+    ],
+    "NFAT activation": [
+      4952
+    ],
+    "mTORC1 signaling": [
+      4954
+    ],
+    "CD28 costimulation": [
+      4958
+    ],
+    "TNF alpha signaling": [
+      4961
+    ],
+    "protective immunity": [
+      4964
+    ],
+    "CD28 costimulatory signaling": [
+      5157
+    ],
+    "antigen receptor signaling": [
+      5160
+    ],
+    "heavy chain rearrangement": [
+      5175
+    ],
+    "autoreactive B cell survival": [
+      5186
+    ],
+    "B cell activation": [
+      5189
+    ],
+    "viral replication": [
+      5258
+    ],
+    "low affinity B cells": [
+      5280
+    ],
+    "toxin uptake": [
+      5315
+    ],
+    "microbial attachment": [
+      5316
+    ],
+    "inflammatory cytokine production": [
+      5376
+    ],
+    "microbial adherence": [
+      5382
+    ],
+    "intracellular antigen activity": [
+      5384
+    ],
+    "microbial invasion": [
+      5411
+    ],
+    "bacterial adherence": [
+      5422
+    ],
+    "mucosal effector activation": [
+      5431
+    ],
+    "commensal colonization": [
+      5433
+    ]
+  },
+  "Protect": {
+    "mucosal barrier protection": [
+      4532
+    ],
+    "gut microbiota homeostasis": [
+      4538
+    ],
+    "epithelial barrier defense": [
+      4973
+    ],
+    "antigen stability": [
+      5495
+    ]
+  },
+  "Kill": {
+    "virus infected cells": [
+      4556,
+      4566
+    ],
+    "bacterial killing": [
+      4846
+    ],
+    "CD4 T cell depletion": [
+      4874
+    ],
+    "HIV infected cell killing": [
+      4877
+    ],
+    "graft cell killing": [
+      4941
+    ],
+    "epithelial surface microbes": [
+      4993
+    ],
+    "antigen positive target killing": [
+      5255
+    ]
+  },
+  "Avoid": {
+    "excess inflammatory toxicity": [
+      4620
+    ],
+    "poor clinical tolerance": [
+      4632
+    ],
+    "immune suppression inference": [
+      4634
+    ],
+    "costimulatory signaling": [
+      4911
+    ],
+    "bystander cell killing": [
+      5256
+    ],
+    "affinity maturation": [
+      5309
+    ]
+  },
+  "AdjuvantProperty": {
+    "TLR9 ligand activity": [
+      5434
+    ],
+    "PLGA biodegradability": [
+      5439,
+      5489
+    ],
+    "TLR4 ligand activity": [
+      5451
+    ],
+    "TLR3 ligand activity": [
+      5457
+    ],
+    "TLR7/8 ligand activity": [
+      5463
+    ],
+    "TLR7/8 ligand retention": [
+      5468
+    ],
+    "TLR5 ligand activity": [
+      5473
+    ],
+    "NOD2 ligand activity": [
+      5479
+    ],
+    "combined PRR ligand activity": [
+      5484
+    ],
+    "polymeric antigen carriage": [
+      5494
+    ],
+    "antigen adjuvant co-delivery design": [
+      5499
+    ],
+    "polymeric LN persistence": [
+      5511
+    ],
+    "endosome disruptive PLGA surface": [
+      5520
+    ],
+    "positive surface charge": [
+      5533
+    ],
+    "negative neutral charge": [
+      5535
+    ],
+    "hydrophilic surface": [
+      5539
+    ],
+    "dense PEG surface": [
+      5543
+    ],
+    "spherical particle shape": [
+      5547
+    ],
+    "soft deformability": [
+      5551
+    ],
+    "PVP surface coating": [
+      5555
+    ],
+    "ionizable lipid amine": [
+      5559
+    ],
+    "pH responsive ionizing lipid": [
+      5565
+    ],
+    "DOPE conical lipid shape": [
+      5569
+    ],
+    "cationic lipid charge": [
+      5577
+    ],
+    "RNA lipoplex stimulus": [
+      5582
+    ],
+    "liposomal TLR7 8 agonism": [
+      5590
+    ],
+    "lecithin nanoliposome formation": [
+      5596
+    ],
+    "antigen adsorption": [
+      5599
+    ],
+    "injection site retention": [
+      5603
+    ],
+    "local reactogenicity": [
+      5608
+    ],
+    "crystalline particulate structure": [
+      5613
+    ],
+    "saponin amphipathicity": [
+      5620
+    ],
+    "lipid body induction": [
+      5626
+    ],
+    "mannose ligand display": [
+      5630
+    ],
+    "beta glucan pattern": [
+      5633
+    ],
+    "cationic mucoadhesion": [
+      5639
+    ],
+    "squalene oil in water emulsion": [
+      5648
+    ],
+    "MF59 uptake promoting activity": [
+      5655
+    ],
+    "emulsion droplet particulate surface": [
+      5660
+    ],
+    "alpha tocopherol emulsion activity": [
+      5667
+    ],
+    "MPLA TLR4 ligand activity": [
+      5672
+    ],
+    "alum adsorbed TLR4 ligand": [
+      5678
+    ],
+    "liposomal MPLA QS21 coformulation": [
+      5682
+    ],
+    "Matrix M saponin nanoparticle": [
+      5687
+    ],
+    "CpG 1018 TLR9 ligand activity": [
+      5693
+    ]
+  }
+}

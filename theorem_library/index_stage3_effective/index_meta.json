@@ -1,0 +1,17 @@
+{
+  "version": "savant-v1-stage3-effective",
+  "model": "BioLORD-2023-M",
+  "rules_path": "theorem_library/predicate_rules_savant_v1_stage3_effective.json",
+  "dim": 768,
+  "num_rules": 5698,
+  "cond_index": {
+    "functor_count": 43,
+    "total_entries": 2661
+  },
+  "eff_index": {
+    "functor_count": 33,
+    "total_entries": 1554
+  },
+  "created_at": "2026-05-20T20:48:29.802090",
+  "source_file": "theorem_library/predicate_rules_savant_v1_stage3_effective.json"
+}
