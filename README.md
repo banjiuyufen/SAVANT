@@ -1,6 +1,8 @@
 # SAVANT
 
-This is the anonymized reviewer-release package for SAVANT, an evidence-grounded generator and verifier for structured vaccine-adjuvant designs. The release contains the main generation code, verification code, the SAVANT v1 formal theorem library, and one command-line runner. Internal experiment scripts and non-anonymous local paths are intentionally excluded.
+> 🎉 **Congratulations! Our paper has been accepted to Findings of EMNLP 2026.**
+
+This repository provides the open-source implementation of SAVANT, an evidence-grounded generator and verifier for structured vaccine-adjuvant designs. It includes the main generation and verification code, the SAVANT v1 formal theorem library, and a command-line runner.
 
 ## Contents
 
@@ -20,7 +22,7 @@ Install the dependencies in a Python environment with FAISS support:
 pip install -r requirements.txt
 ```
 
-The runner uses a SentenceTransformer-compatible embedding model. By default it refers to `FremyCompany/BioLORD-2023-M`. For an offline review environment, provide a local model path:
+The runner uses a SentenceTransformer-compatible embedding model. By default it refers to `FremyCompany/BioLORD-2023-M`. For offline use, provide a local model path:
 
 ```bash
 export SAVANT_EMBEDDING_MODEL=/path/to/local/embedding-model
@@ -113,6 +115,6 @@ The runner expects a structured design object with a `vaccine` field and optiona
 
 When `--query` is used, no input file is required. The generated structured design is included under the `generation` key in the output JSON and is also used directly for verification.
 
-## Notes For Review
+## Release Notes
 
-The package does not include experiment-specific scripts, paper-specific case selections, private absolute paths, or local cache paths. The included indexes and ontology files are metadata-cleaned to point to paths inside `theorem_library/`.
+The repository excludes private absolute paths and local cache paths. The included indexes and ontology files use portable paths inside `theorem_library/`.
