@@ -1,6 +1,8 @@
 # SAVANT
 
 > 🎉 **Congratulations! Our paper has been accepted to Findings of EMNLP 2026.**
+>
+> More comprehensive documentation and the complete codebase will be released during EMNLP 2026.
 
 This repository provides the open-source implementation of SAVANT, an evidence-grounded generator and verifier for structured vaccine-adjuvant designs. It includes the main generation and verification code, the SAVANT v1 formal theorem library, and a command-line runner.
 
